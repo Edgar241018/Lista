@@ -1,19 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1214538322544144384/xC_xDRgU_400x400.jpg"  AZ CLIC HD
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1214538322544144384/xC_xDRgU_400x400.jpg",  AZ CLIC HD
  http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg"  Las Estrellas
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg",  Las Estrellas
  http://cinematicket.club/tp2.php?c=17&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  CANAL  5
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",  CANAL  5
  http://cinematicket.club/tp2.php?c=20&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.america-retail.com/static//2018/01/azteca-uno-e1515026667771.jpg"  AZTECA
+#EXTINF:-1, tvg-logo="https://www.america-retail.com/static//2018/01/azteca-uno-e1515026667771.jpg",  AZTECA
  7,http://cinematicket.club/tp2.php?c=21&p=3&k=tecnotv&f=.m3u8
 
 
