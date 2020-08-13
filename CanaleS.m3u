@@ -1,23 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1, AZ CLIC HD
+#EXTINF:-1, tvg-logo="https://www.google.com/search?q=logo+Azteca+click&client=ms-android-huawei&prmd=inv&sxsrf=ALeKk00ttvv3kFckNhnIFudxn1nYrGldAA:1597284984260&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUyN2gjpfrAhVMcq0KHQLOC7kQ_AUoAXoECA0QAQ&biw=360&bih=640#imgrc=zozBsVWjUw0IkM "  AZ CLIC HD
  http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, tvg-logo=""  Las Estrellas
  http://cinematicket.club/tp2.php?c=17&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, CANAL  5
+#EXTINF:-1, tvg-logo="https://www.google.com/search?q=logo+las+estrellas&tbm=isch&hl=es-419&client=ms-android-huawei&prmd=inv&hl=es-419&sa=X&ved=2ahUKEwj86-2qj5frAhWXQa0KHaHSBTsQgowBegQIARAD&biw=360&bih=640#imgrc=ARbs7iqTkO9WhM"  CANAL  5
  http://cinematicket.club/tp2.php?c=20&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, AZTECA
+#EXTINF:-1, tvg-logo="https://www.google.com/search?q=logo+azteca&tbm=isch&ved=2ahUKEwjpruq3j5frAhUE3KwKHRgfCPIQ2-cCegQIABAC&oq=logo+azte&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgBMgQIIxAnMgIIADICCAAyAggAMgIIADoFCAAQsQM6CAgAELEDEIMBUKDdBFiA_wRguo4FaABwAHgAgAGnAYgBig-SAQQxLjE2mAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=taM0X6mACIS4swWYvqCQDw&bih=640&biw=360&client=ms-android-huawei&prmd=inv&hl=es-419&hl=es-419#imgrc=RrU9esPUUrPrqM&imgdii=ePPflxH5ycJ-XM"  AZTECA
  7,http://cinematicket.club/tp2.php?c=21&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1, NU9VE
+#EXTINF:-1, tvg-logo=""  NU9VE
 
 http://cinematicket.club/tp2.php?c=24&p=3&k=tecnotv&f=.m3u8
 
