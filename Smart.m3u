@@ -1,16 +1,16 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="" group-title="", Azteca 7 HD
-http://cinematicket.club/tp2.php?c=317&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="" group-title="", Discovery kids HD
+https://ul.cdn946.net:8443/hls/51wwpib23i7aiv6.m3u8?s=72biQyZZ9qJcKN5hil6XZg&e=1599042125
 
-#EXTINF:0 tvg-id="" group-title="",  Multimedios MTY
-http://cinematicket.club/tp2.php?c=2305&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="" group-title="",  NICK HD
+https://ul.cdn946.net:8443/hls/1bftbo.m3u8?s=C6vWyXDKuzOup5lQBUZqVA&e=1599042247
 
-#EXTINF:0 tvg-id="" group-title="", Las Estrellas HD
-http://cinematicket.club/tp2.php?c=1784&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="" group-title="", Cartoon HD
+https://ul.cdn946.net:8443/hls/dmsz3.m3u8?s=Vx91xzHGuu06zCxFo2raNw&e=1599042338
 
-#EXTINF:0 tvg-id="" group-title="", Imagen HD
-http://cinematicket.club/tp2.php?c=2606&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="" group-title="", Disney Jr. HD
+https://ul.cdn946.net:8443/hls/cvkigz4a.m3u8?s=VpJCe3fxPVftS0BHKWusxA&e=1599042422
 
 
