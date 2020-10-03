@@ -1,465 +1,223 @@
 #EXTM3U
-
-
-#EXTINF:-1, tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/azteca_internacional.jpg",  AZ CLIC HD
- http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_estrellas_mx.jpg",  Las Estrellas
- http://cinematicket.club/tp2.php?c=17&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal5_mx.jpg",  CANAL  5
- http://cinematicket.club/tp2.php?c=20&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/azteca_siete_mexico_city.jpg",  AZTECA
- 7,http://cinematicket.club/tp2.php?c=21&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NU9VE
-
-http://cinematicket.club/tp2.php?c=24&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, ONCE
-
-http://cinematicket.club/tp2.php?c=25&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1,  AZTECA UNo
- http://cinematicket.club/tp2.php?c=27&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TELEFORMULA SD
- http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, MEXIQUENSE TV
- http://cinematicket.club/tp2.php?c=44&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AZ CORAZON
- http://cinematicket.club/tp2.php?c=70&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AZ MUNDO
- http://cinematicket.club/tp2.php?c=84&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AZTECA 7 HD
- http://cinematicket.club/tp2.php?c=317&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AZTECA 7 HD (2)
- http://cinematicket.club/tp2.php?c=322&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, IMAGEN TV
- http://cinematicket.club/tp2.php?c=2298&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, MULTIMEDIOS MTY
- http://cinematicket.club/tp2.php?c=2305&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NU9VE HD
- http://cinematicket.club/tp2.php?c=1783&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, LAS ESTRELLAS HD
- http://cinematicket.club/tp2.php?c=1784&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, CANAL 5 HD (2)
- http://cinematicket.club/tp2.php?c=1785&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, A+
-
-http://cinematicket.club/tp2.php?c=2316&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, IMAGEN TV HD
- http://cinematicket.club/tp2.php?c=2606&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, MULTIMEDIOS HD
- http://cinematicket.club/tp2.php?c=2882&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TOONCAST
- http://cinematicket.club/tp2.php?c=108&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISCOVERY KIDS
- http://cinematicket.club/tp2.php?c=109&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NICK
-
-http://cinematicket.club/tp2.php?c=110&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISNEY XD
- http://cinematicket.club/tp2.php?c=111&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, CARTOON NETWORK
- http://cinematicket.club/tp2.php?c=112&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISNEY CHANNEL
- http://cinematicket.club/tp2.php?c=113&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, BOOMERANG
- http://cinematicket.club/tp2.php?c=115&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1,BABY TV
- http://cinematicket.club/tp2.php?c=116&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NICK Jr
- http://cinematicket.club/tp2.php?c=117&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISNEY Jr
- http://cinematicket.club/tp2.php?c=118&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NICKTOONS SD
- http://cinematicket.club/tp2.php?c=1708&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, BABY FIRST
- http://cinematicket.club/tp2.php?c=1984&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NICK 2  
- http://cinematicket.club/tp2.php?c=2147&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NAT GEO KIDS
- http://cinematicket.club/tp2.php?c=2373&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DE PELICULA +
- http://cinematicket.club/tp2.php?c=121&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, GOLDEN +
- http://cinematicket.club/tp2.php?c=122&p=3&k=tecnotv&f=.m3u8
-
-
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://commons.wikimedia.org/wiki/File:2008_AETV_Logo.png" tvg-name="A&E"  group-title="Unsorted",A&E
+http://23.237.54.42/hls/A-AND-EMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://commons.wikimedia.org/wiki/File:Animal_Planet_logo_(black_and_green_with_TM).png" tvg-name="ANIMAL PLANET"  group-title="Unsorted",ANIMAL PLANET
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.indulgexpress.com/uploads/user/imagelibrary/2017/11/1/original/AXN-India.jpg" tvg-name="AXN"  group-title="Unsorted",AXN
+http://23.237.54.42/hls/AXNMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/azteca-mundo.jpg" tvg-name="AZMUNDO"  group-title="Unsorted",AZMUNDO
+http://23.237.54.42/hls/AZMUNDOMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" tvg-name="AZTECA UNO"  group-title="Unsorted",AZTECA UNO
+http://23.237.54.42/hls/AZTECA1MX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Boomerang.png" tvg-name="BOOMERANG"  group-title="Unsorted",BOOMERANG
+http://23.237.54.42/hls/BOOMERANGMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.clker.com/cliparts/1/n/L/0/A/F/white-numeral-5-in-red-circle-md.png" tvg-name="CANAL 5"  group-title="Unsorted",CANAL 5
+http://23.237.54.42/hls/CANAL5MX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Cartoon_Network_2004_logo.jpg" tvg-name="CARTOON NETWOR"  group-title="Unsorted",CARTOON NETWOR
+http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ewsat.com/img/CINECANAL.png" tvg-name="CINECANAL"  group-title="Unsorted",CINECANAL
+http://23.237.54.42/hls/CINECANALMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/CINEMAX_logo.png" tvg-name="CINEMAX"  group-title="Unsorted",CINEMAX
+http://23.237.54.42/hls/CINEMAXMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://commons.wikimedia.org/wiki/File:Casi_discovery_channel.jpg" tvg-name="DISCOVERI CHANEL"  group-title="Unsorted",DISCOVERI CHANEL
+http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://commons.wikimedia.org/wiki/File:Discovery_kids_logo.png" tvg-name="DISCOVERY KIDS"  group-title="Unsorted",DISCOVERY KIDS
+http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/120px-Discovery_Turbo.png" tvg-name="DISCOVERY TURBO"  group-title="Unsorted",DISCOVERY TURBO
+http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Discovery_science.png/120px-Discovery_science.png" tvg-name="DISCOVRY SCIENCIE"  group-title="Unsorted",DISCOVRY SCIENCIE
+http://23.237.54.42/hls/DISCOVERYSCIENCEMX.m3u8
+
+#EXTINF:-1 ,DISNET JUNIOR
+http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="DISNEY CHANNEL"  group-title="Unsorted",DISNEY CHANNEL
+http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
+ 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="DISNEY XD"  group-title="Unsorted",DISNEY XD
+http://23.237.54.42/hls/DISNEYXDMX.m3u8
+ 
+#EXTINF:-1,DISTRITOCOMEDIA
+http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
+ 
+ 
+#EXTINF:-1,ESPN
+http://23.237.54.42/hls/ESPNMX.m3u8
+ 
+ 
+#EXTINF:-1,ESPN 2
+http://23.237.54.42/hls/ESPN2MX.m3u8
+ 
+ 
+#EXTINF:-1,ESPN 3
+http://23.237.54.42/hls/ESPN3MX.m3u8
+ 
+ 
+#EXTINF:-1,FORO TV
+http://23.237.54.42/hls/FOROTVMX.m3u8
+ 
+ 
+#EXTINF:-1,FOX
+http://23.237.54.42/hls/FOXMX.m3u8
+ 
+ 
+#EXTINF:-1,FOX ACTION
+http://23.237.54.42/hls/FOXACTIONMX.m3u8
+ 
+ 
+#EXTINF:-1,FOX CINEMA
+http://23.237.54.42/hls/FOXCINEMAMX.m3u8
+ 
+ 
+#EXTINF:-1,FOX MOVIES
+http://23.237.54.42/hls/FOXMOVIESMX.m3u8
+ 
+ 
+#EXTINF:-1,FOX SERIES
+http://23.237.54.42/hls/FOXSERIESMX.m3u8
+ 
+ 
+#EXTINF:-1,FOXSPORTS 2
+ 
+http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
+ 
+ 
+#EXTINF:-1,FOXSPORTS 3
+http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+ 
+ 
+#EXTINF:-1,FX
+http://23.237.54.42/hls/FXMX.m3u8
+ 
+ 
+#EXTINF:-1,GALAVISION
+http://23.237.32.130/hls/GALAVISION.m3u8
+ 
+ 
 #EXTINF:-1,GOLDEN
-
-http://cinematicket.club/tp2.php?c=123&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, GOLDEN EDGE
- http://cinematicket.club/tp2.php?c=124&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TNT
- http://cinematicket.club/tp2.php?c=126&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, SPACE
- http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AMC
- http://cinematicket.club/tp2.php?c=131&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, STUDIO Universal
- http://cinematicket.club/tp2.php?c=132&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FXM
- http://cinematicket.club/tp2.php?c=138&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FXM SD
- http://cinematicket.club/tp2.php?c=332&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, CINECANAL
- http://cinematicket.club/tp2.php?c=149&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, CINEMAX
-
-
-http://cinematicket.club/tp2.php?c=158&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AMC
-
-
-http://cinematicket.club/tp2.php?c=328&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DE PELICULA SD
-
-
-http://cinematicket.club/tp2.php?c=335&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX ACTION
-
-
-http://cinematicket.club/tp2.php?c=336&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, PARAMOUNT CHANNEL
-
-http://cinematicket.club/tp2.php?c=1726&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1,FOX CINEMA SD
-
-
-http://cinematicket.club/tp2.php?c=1729&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1,FOX CLASSICS SD
-
-
-http://cinematicket.club/tp2.php?c=1732&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AZ CINEMA
-
-
-http://cinematicket.club/tp2.php?c=1787&p=3&k=tecnotv&f=.m3u8
-
-
-
-#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
-
-
-http://cinematicket.club/tp2.php?c=85&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX
-
-
-http://cinematicket.club/tp2.php?c=46&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, Sony
-
-
-http://cinematicket.club/tp2.php?c=48&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, Warner
-
-
-http://cinematicket.club/tp2.php?c=52&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, UNIVERSAL
-
-
-http://cinematicket.club/tp2.php?c=57&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX
-
-http://cinematicket.club/tp2.php?c=60&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, A&E
-
-
-http://cinematicket.club/tp2.php?c=62&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, AXN
-
-
-http://cinematicket.club/tp2.php?c=64&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX LIFE
-
-
-http://cinematicket.club/tp2.php?c=77&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISTRITO COMEDIA SD
-
-
-http://cinematicket.club/tp2.php?c=78&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX HD
-
-
-http://cinematicket.club/tp2.php?c=201&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, WARNER HD
-
-
-http://cinematicket.club/tp2.php?c=205&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, UNIVERSAL HD
-
-
-http://cinematicket.club/tp2.php?c=207&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FX HD
-
-
-http://cinematicket.club/tp2.php?c=209&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, COMEDY Central
-
-
-http://cinematicket.club/tp2.php?c=340&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, ESPN EXTRA +
-
-
-http://cinematicket.club/tp2.php?c=167&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, ESPN
-
-
-http://cinematicket.club/tp2.php?c=168&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, ESPN 2
-
-
-http://cinematicket.club/tp2.php?c=169&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, ESPN 3
-
-
-http://cinematicket.club/tp2.php?c=345&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX SPORTS
-
-
-http://cinematicket.club/tp2.php?c=170&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX SPORTS 2
-
-
-http://cinematicket.club/tp2.php?c=172&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, FOX SPORTS 3
-
-http://cinematicket.club/tp2.php?c=178&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TUDN HD
-
-
-http://cinematicket.club/tp2.php?c=174&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TUDN HD (2)
-
-
-http://cinematicket.club/tp2.php?c=1049&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISCOVERY ID
-
-
-http://cinematicket.club/tp2.php?c=68&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISCOVERY CHANNEL
-
-
-http://cinematicket.club/tp2.php?c=86&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, ANIMAL PLANET
-
- http://cinematicket.club/tp2.php?c=88&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, HISTORY
-
-
-http://cinematicket.club/tp2.php?c=89&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NAT GEO
-
- http://cinematicket.club/tp2.php?c=91&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, NAT GEO WILD
-
-
-http://cinematicket.club/tp2.php?c=92&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISCOVERY WORLD
-
-
-http://cinematicket.club/tp2.php?c=101&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, DISCOVERY TURBO
-
-
-http://cinematicket.club/tp2.php?c=2379&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, MTV LIVE
-
-
-http://cinematicket.club/tp2.php?c=211&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, MTV
-
-
-http://cinematicket.club/tp2.php?c=212&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, MTV HITS SD
-
-
-http://cinematicket.club/tp2.php?c=213&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TELEHIT URBANO SD
-
-http://cinematicket.club/tp2.php?c=218&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, TELEHIT +
-
-
-http://cinematicket.club/tp2.php?c=220&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1, BANDAMAX SD
-
-
-http://cinematicket.club/tp2.php?c=221&p=3&k=tecnotv&f=.m3u8
-
-
-
-
+http://23.237.54.42/hls/GOLDENMX.m3u8
+ 
+ 
+#EXTINF:-1,GOLDEN EDGE
+http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
+ 
+ 
+#EXTINF:-1,GOLDEN PLUS
+http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
+ 
+ 
+#EXTINF:-1,GOURMET
+http://23.237.54.42/hls/GOURMETMX.m3u8
+ 
+#EXTINF:-1,HISTORY
+http://23.237.54.42/hls/HISTORYMX.m3u8
+ 
+ 
+#EXTINF:-1,ID
+http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
+ 
+ 
+#EXTINF:-1,IMAGEN TV
+http://23.237.54.42/hls/IMAGENTVMX.m3u8
+ 
+ 
+#EXTINF:-1,LAS ESTRELLAS
+http://23.237.54.42/hls/LASESTRELLASMX.m3u8
+ 
+ 
+#EXTINF:-1,MTV
+http://23.237.54.42/hls/MTVMX.m3u8
+ 
+ 
+#EXTINF:-1,NAT GEO
+http://23.237.54.42/hls/NATGEOMX.m3u8
+ 
+ 
+#EXTINF:-1,NATGEO KIDS
+http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
+ 
+ 
+#EXTINF:-1,NATGEO WILL
+http://23.237.54.42/hls/NATGEOWILDMX.m3u8
+ 
+ 
+#EXTINF:-1,NICK
+http://23.237.54.42/hls/NICKMX.m3u8
+ 
+ 
+#EXTINF:-1,NICK JR
+http://23.237.54.42/hls/NICKJUNIORMX.m3u8
+ 
+ 
+#EXTINF:-1,NICKTOONS
+http://23.237.54.42/hls/NICKTOONSMX.m3u8
+ 
+ 
+#EXTINF:-1,PARAMOUNT
+http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
+ 
+ 
+#EXTINF:-1,SONY
+http://23.237.54.42/hls/SONYMX.m3u8
+ 
+ 
+#EXTINF:-1,SPACE
+http://23.237.54.42/hls/SPACEMX.m3u8
+ 
+ 
+#EXTINF:-1,SYFY
+http://23.237.54.42/hls/SYFYMX.m3u8
+ 
+ 
+#EXTINF:-1,TBS
+http://23.237.54.42/hls/TBSMX.m3u8
+ 
+ 
+#EXTINF:-1,TCM
+http://23.237.54.42/hls/TCMMX.m3u8
+ 
+ 
+#EXTINF:-1,TLC
+http://23.237.54.42/hls/TLCMX.m3u8
+ 
+ 
+#EXTINF:-1,TLNOVELAS
+http://23.237.32.130/hls/TLNOVELAS.m3u8
+ 
+ 
+#EXTINF:-1,TNT
+http://23.237.54.42/hls/TNTMX.m3u8
+ 
+ 
+#EXTINF:-1,TOONCAST
+http://23.237.54.42/hls/TOONCASTMX.m3u8
+ 
+ 
+#EXTINF:-1,TV MAS
+http://23.237.54.42/hls/TVMASMX.m3u8
+ 
+ 
+#EXTINF:-1,UNIMAS
+http://23.237.32.130/hls/UNIMAS.m3u8
+ 
+ 
+#EXTINF:-1,UNIVISION
+http://23.237.32.130/hls/UNIVISION.m3u8
+ 
+ 
+#EXTINF:-1,WARNER
+http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
