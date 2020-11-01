@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels" PAW PATROL  HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", PAW PATROL  HD
 http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/203599.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels", Micky Mause  HD
 http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/236546.m3u8
