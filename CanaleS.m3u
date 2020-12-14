@@ -1,9 +1,5 @@
 #EXTM3U
- 
-group,Channels
-ext,GEOMEX,http://62.210.139.229:25461/9115059399/4414261712/40
 
-group,unsorted
 ext,AZ CLIC HD,http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8
 ext,LAS ESTRELLAS,http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8
 Canal5.mx,CANAL 5,http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8
