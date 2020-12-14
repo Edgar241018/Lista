@@ -1,65 +1,1954 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels", PAW PATROL  HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/203599.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Micky Mause  HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/236546.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Disney Junior HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/18.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Nick HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/20.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Cartoon Network HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/21.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Boomerang HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/23.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Cinemax HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/55.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Telemundo HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/1504.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Distrito Comedia HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/1505.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Sony HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", A&E HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/10.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", AXN HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/11.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Comedy Central HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/13.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", NICK Jr HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/238049.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Disney XD HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/22.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Discovery Channel HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/26.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", NAT GEO Channel HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/28.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", TNT HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Cinecanal HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/34.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", History 2 HD 
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/1512.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Discovery Science HD 
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Space HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/45.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Warner Channel HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", Universal CHANNEL HD 
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", FX HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", History HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/24.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", ESPN 1 HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/27978.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", ESPN 2 HD 
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/27979.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", ESPN 3 HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/27980.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", FOX 1 HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/27981.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", FOX 2 HD
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/27982.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", FOX 3 HD 
-http://51.222.43.170:36995/live/fsdfsf@89/eyhELzDD1Z23/27983.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",BARCA TV HD
+http://195.181.162.102:7283/barca-tv-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fa2f84651f86cc60ca38a9a872c306ba16a4b9d9
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  1 HD (Eventos)
+http://195.181.162.102:7283/DAZN1/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4dc89a4bc753ad916f418e383ddf1ffb9357db14
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  2 HD (Eventos)
+http://195.181.162.102:7283/DAZN2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d7ec980af014d6e9d8f0f43aea0f1b461883ff4b
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  3 HD (Eventos)
+http://195.181.162.102:7283/DAZN3/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9e3345e0f7901072b20eaf1f218c659245d9d289
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  4 HD (Eventos)
+http://195.181.162.102:7283/DAZN4/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9afd581bf1b0a929b18d02fe103974ac52a46d32
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #1
+http://195.181.162.102:7283/Evento-Deportivo1/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4d7d8fec13a099f07e3fa8f9067c89136f6b5854
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #2
+http://195.181.162.102:7283/Evento-Deportivo2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2181be32c71ada5f9a7eff681e996b648b5809a6
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #3
+http://195.181.162.102:7283/Evento-Deportivo3/index.m3u8?un=edgarcastillo&tm=1607919849&sn=477a0e609671a0e9ffaca32a432ca7181dda06d7
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #4
+http://195.181.162.102:7283/Evento-Deportivo4/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2431ecb6d42c4e0648faf1aa71e9079caba896ab
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #5
+http://195.181.162.102:7283/Evento-Deportivo5/index.m3u8?un=edgarcastillo&tm=1607919849&sn=765c6ba0caaff7b4b08b90572dbb1f642c052c26
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #6
+http://195.181.162.102:7283/Evento-Deportivo6/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8d2444a7ddf8a61df155f749c268f11993285c10
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #7
+http://195.181.162.102:7283/Evento-Deportivo7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8cbc352c14ffd33987b1b9799a92368736a18c75
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #8
+http://195.181.162.102:7283/Evento-Deportivo8/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d6b7a3db6f1a20cd0a2edbac4779d79a08947089
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento EC PPV
+http://195.181.162.102:7283/EL-CANAL-DEL-FUTBOL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1e3cc63646cc20c75b57ae8271a95214b94e4da8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento EC PPV 2
+http://195.181.162.102:7283/EL-CANAL-DEL-FUTBOL-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca8e00f1551dd498aa5c7d48dcc6b22f45b94ffd
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento PPV 1 Liga Espanola Futbol
+http://195.181.162.102:7283/Evento-PPV-1-Liga-Espanola-Futbol/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d77ef32600061ff487e3905f91339539126155f8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",FOX DEPORTES US HD
+http://195.181.162.102:7283/fox-deportes-us-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=53e07efb34e549b00353bf509de8f5a50ff27578
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 1 HD BR
+http://195.181.162.102:7283/PREMIERE-1-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b505b972dc3fc2e820f8b2479e1cb7ab04b98dcf
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 2 HD BR
+http://195.181.162.102:7283/PREMIERE-2-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d5efe661a81e8ab87a93b9a8068c357a372c525d
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 3 HD BR
+http://195.181.162.102:7283/PREMIERE-3-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d71861003aadef99b4200e266a8c4e8379911ad0
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 1 HD BR
+http://195.181.162.102:7283/SPORTV-1-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=678de22fcbe10ac738dc9519f7f17770784addd8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 2 HD BR
+http://195.181.162.102:7283/SPORTV-2-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca7e499640a2cdf3e73818600bcb09f00ee1a083
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 3 HD BR
+http://195.181.162.102:7283/SPORTV-3-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=67b3333ed98f639c2fe349856934bdf889a99360
+
+#EXTINF:0 tvg-id="24HorasHD.cl" group-title="Noticias",24 HORAS HD
+http://195.181.162.102:7283/24-HORAS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dc4aa12d2cd04b9c6187b8f908aeeda0754a9653
+#EXTINF:0 tvg-id="A24.ar" group-title="Noticias",a24
+http://195.181.162.102:7283/HY-642/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91e4335c3abd91e0f58cd311283e1ce7f00dd19a
+#EXTINF:0 tvg-id="ext" group-title="Noticias",ATB
+http://195.181.162.102:7283/HY-1359/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1eecc1875f991812afb97c904b7a04342a471dc4
+#EXTINF:0 tvg-id="ext" group-title="Noticias",Canal 24 Horas HD
+http://195.181.162.102:7283/HY-670/index.m3u8?un=edgarcastillo&tm=1607919849&sn=96fe0e7d83655422a3c12bbf4e70b8b67f432bfa
+#EXTINF:0 tvg-id="ext" group-title="Noticias",China CGTN ESPAÑOL
+http://195.181.162.102:7283/CHINA-CGTN-ESPANOL/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a8c93cb1f72ede1326f46c7333a203a9e542fce7
+#EXTINF:0 tvg-id="ext" group-title="Noticias",CNN Chile HD
+http://195.181.162.102:7283/HY-698/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a996b37515f28195751a5f07024638e24fa6ecee
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Noticias",CNN Español
+http://195.181.162.102:7283/HY-699/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7582407dbdb7b1e212a24eacab0680912ef0d6ab
+#EXTINF:0 tvg-id="ext" group-title="Noticias",CORONAVIRUS TV
+http://195.181.162.102:7283/PPV-CORONAVIRUS-PANDEMIC-TV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f18dfd1875b38cf9714fe4195292b48c6ec9ada0
+#EXTINF:0 tvg-id="ext" group-title="Noticias",DW EN ESPAÑOL HD
+http://195.181.162.102:7283/DW-EN-ESPANOL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6a0383439f54e0de6c2ae648fec96aad81971b1d
+#EXTINF:0 tvg-id="FOXNewsChannelHD.us" group-title="Noticias",FOX NEWS US HD
+http://195.181.162.102:7283/FOX-NEWS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5a5f14d4ae57d6843bcd2a6b959c4a7c712018f9
+#EXTINF:0 tvg-id="ext" group-title="Noticias",FRANCE 24 HD EN ESPAÑOL
+http://195.181.162.102:7283/FRANCE-24-HD-EN-ESPANOL/index.m3u8?un=edgarcastillo&tm=1607919849&sn=31c7fabe1753b7ac8295eec7033aaa58183be3a1
+#EXTINF:0 tvg-id="ext" group-title="Noticias",NTN24 HD
+http://195.181.162.102:7283/NTN24-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=70f33d83125e65d11e460f5489fc2e72524d69de
+#EXTINF:0 tvg-id="ext" group-title="Noticias",Rai International HD
+http://195.181.162.102:7283/HY-824/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4428ab7dc54a2cd039a05a4cd78dd62d8fe63308
+#EXTINF:0 tvg-id="ext" group-title="Noticias",RT NOTICIAS HD
+http://195.181.162.102:7283/RT-NOTICIAS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5e183440c8ba0f451fa27cf58ceb084b81b83d72
+#EXTINF:0 tvg-id="ext" group-title="Noticias",TVE INTERNACIONAL HD
+http://195.181.162.102:7283/TVE-INTERNACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=001c725ea7d84ecb5e0d7ec2057685456bf62815
+
+#EXTINF:0 tvg-id="ext" group-title="Religioso",3ABN LATINO HD
+http://195.181.162.102:7283/3ABN-LATINO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f5aa75498d7f8d87fc301ebebc9fb3c4b361c0ec
+#EXTINF:0 tvg-id="ext" group-title="Religioso",ALIENTO VISION HD
+http://195.181.162.102:7283/ALIENTO-VISION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c429ff5ade8dcbfef5392265827de55fe3409b7d
+#EXTINF:0 tvg-id="ext" group-title="Religioso",ENLACE HD
+http://195.181.162.102:7283/ENLACE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d1b6363df776c09b94a783978093717acd02a2af
+#EXTINF:0 tvg-id="ext" group-title="Religioso",EWTN HD
+http://195.181.162.102:7283/EWTN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1d67fca8b5d39fd257587dc6aa26c5e46b6cd580
+#EXTINF:0 tvg-id="ext" group-title="Religioso",JRES TV HD
+http://195.181.162.102:7283/JRES-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1b004aaafcf4c81392e28744d2ee2412e360ad0e
+#EXTINF:0 tvg-id="ext" group-title="Religioso",LA VOZ DE MARIA HD
+http://195.181.162.102:7283/LA-VOZ-DE-MARIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d4a7aed7788b59316c39443e5d449ddfc12dc894
+#EXTINF:0 tvg-id="ext" group-title="Religioso",MISION VIDA TV HD
+http://195.181.162.102:7283/MISION-VIDA-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dd88fb9e851e04537b01d37b99eda480f8f6a0a9
+#EXTINF:0 tvg-id="ext" group-title="Religioso",MOVIES  CRISTIANAS HD
+http://195.181.162.102:7283/MOVIES-CRISTIANAS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8acbcd56d996de35a7d0a51d15cb59cde07d9cdb
+#EXTINF:0 tvg-id="ext" group-title="Religioso",TELEBENDICION HD
+http://195.181.162.102:7283/TELEBENDICION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=901b18f4c227d686a25da0b89b3f1bdebfa0cd3e
+
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET 360 CA HD
+http://195.181.162.102:7283/SPORTSNET-360-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9bab5ae61e0bf366976194df63fbc2b3e95b87ee
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET EAST CA HD
+http://195.181.162.102:7283/SPORTSNET-EAST-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=98cccf6e3232430febfd7976a4c96ca7acd621c2
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET ONE CA HD
+http://195.181.162.102:7283/SPORTSNET-ONE-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=286834129728ff11199b852cb71b4f8429559c5f
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET ONTARIO CA HD
+http://195.181.162.102:7283/SPORTSNET-ONTARIO-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f31804b77899f7aaf9b3cc8c1804210f95da76d6
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET PACIFIC CA HD
+http://195.181.162.102:7283/SPORTSNET-PACIFIC-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=205d5b340317292e19d02270225424c1738ebef1
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET WORLD CA HD
+http://195.181.162.102:7283/SPORTSNET-WORLD-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=343bdced2b2143481e55c344e7a1cce14bb9c783
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 1 CA HD
+http://195.181.162.102:7283/TSN-1-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bd6ce3db883506bb8ce86c61ef9a132c993f4a69
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 2 CA HD
+http://195.181.162.102:7283/TSN-2-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5c47376d84519e4bc1727cfa88af4435c8fc2fe3
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 3 CA HD
+http://195.181.162.102:7283/TSN-3-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ce654b6659d235b033eeae507ff04e6688c25350
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 4 CA HD
+http://195.181.162.102:7283/TSN-4-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b0b3ef8715cd14d55c5f6e5c520e102e2ba099f3
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 5 CA HD
+http://195.181.162.102:7283/TSN-5-CA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cdb968e938a65b44621f764119c6324bf2e3e2e4
+
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 10 NI HD
+http://195.181.162.102:7283/CANAL-10-NI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fbc24f678a1c188925e4be31ef63b1bb6bccde8b
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal 10 SV
+http://195.181.162.102:7283/Canal-10-SV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=354214a495bcdaf1f325c9c69722ef22f54dbaeb
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 12 SV HD
+http://195.181.162.102:7283/CANAL-12-SV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=459c6e9d6b3e6fcd4fe12e0b5fbee7b8a7fc550c
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 13 NI HD
+http://195.181.162.102:7283/CANAL-13-NI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=077273c4971c78c38bcb6faec63559a958656c37
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 14 NI HD
+http://195.181.162.102:7283/CANAL-14-NI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5032ed7f272eee7a86af927579f9798e8038c2b4
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 2 SV HD
+http://195.181.162.102:7283/CANAL-2-SV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a59062147761e5eb54db89d17aeb54d07377af78
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",canal 21 Sv
+http://195.181.162.102:7283/Canal-TRV-SV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d8293664707298a471cf5d43dd5cfde11c02736f
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 3 GUA HD
+http://195.181.162.102:7283/CANAL-3-GUA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c525d001dbd7dfb197b36c9bfd62ae7ab0c9f38f
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 33 SV
+http://195.181.162.102:7283/canal-33-SV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b723ba97f1c2fe5f398b3b130c53165dc3caad19
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 4 SV HD
+http://195.181.162.102:7283/CANAL-4-SV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8d6d5d181ad550f045e52bcc7ff95e6c51b40953
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 5 HN HD
+http://195.181.162.102:7283/CANAL-5-HN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=adc8336a1bd14102bf5dc120836e7479cfb6bd4a
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 6 NI HD
+http://195.181.162.102:7283/CANAL-6-NI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f9f422f59d05f978cb6d21de76932a9420bbafae
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 6 SV HD
+http://195.181.162.102:7283/CANAL-6-SV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=008574e24f751dbf7b6f90ed6e5dcbeecb67fc12
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL ANTIGUA HD
+http://195.181.162.102:7283/CANAL-ANTIGUA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5af3d4f226124e2e68a655d51cb542466ed580c5
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal CUBA VISION
+http://195.181.162.102:7283/Canal-CUBA-VISION/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9e4eb6d6b6b5ceac366aefd58e90229b8677d879
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal ORBITA TV SV
+http://195.181.162.102:7283/Canal-ORBITA-TV-SV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=781c751d260901117d7311caac4a8fa17b889ed0
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal WOW SV
+http://195.181.162.102:7283/Canal-WOW-SV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e5fbedd8fc4181cc7aa7d3221878d945c43c63c1
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",GUATEVISION HD
+http://195.181.162.102:7283/GUATEVISION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=da5877cbaa1dea5a7616f38d04416ce649c7aa56
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",HCH HN HD
+http://195.181.162.102:7283/HCH-HN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6c740e1c27439c8eb668c0b443b760d866c4301e
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TELECADENA 7/4 HN HD
+http://195.181.162.102:7283/TELECADENA-7-4-HN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0b73c1f52637b290054b12a7e4853e8bf0270a95
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TELEVISIETE GUA HD
+http://195.181.162.102:7283/TELEVISIETE-GUA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d7a009bc2266067d7db9c7ad25394a3ca4436c7c
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TN 23 GUA HD
+http://195.181.162.102:7283/TN-23-GUA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=38834fb06aa6a85f87e310fd2e56ec669b852ca6
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TSI HN HD
+http://195.181.162.102:7283/TSI-HN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91384e41d0cd1d40ac65f24127a4b609d2e2d4b0
+#EXTINF:0 tvg-id="TVO.ch" group-title="Centroamérica",TVO
+http://195.181.162.102:7283/TVO/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2e8cf1ffc0677ec5400540088ae2643ef434d305
+
+#EXTINF:0 tvg-id="ext" group-title="México",AFFIZIONADO HD
+http://195.181.162.102:7283/AFFIZIONADO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9274f3eaf2d1e9f895ea1909aa511b87bd2a61f6
+#EXTINF:0 tvg-id="ext" group-title="México",Altitude Sports 1 HD
+http://195.181.162.102:7283/HY-647/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b5e2799183ddbc3ace6e6f0563bc06e411ebc1fc
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sport HD
+http://195.181.162.102:7283/AT-T-Sport-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6af2995aac33e77bac4025445656c9e1131a18c5
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 1 HD
+http://195.181.162.102:7283/HY-646/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1348fecd8950330125f58f15b10fa1c5bfc9f504
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 2 HD
+http://195.181.162.102:7283/HY-837/index.m3u8?un=edgarcastillo&tm=1607919849&sn=044e8a6f7cb386f62fae47206834d42b31e12f47
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 3 HD
+http://195.181.162.102:7283/HY-810/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9a7fbe639ed917dd4b829f978b5d5f04ea5ca2c7
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 4 HD
+http://195.181.162.102:7283/HY-816/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fea4ccead273230e3668c6df00556d30dc6e2690
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="México",AZ CORAZON HD
+http://195.181.162.102:7283/AZ-CORAZON-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fa28f63162eadb4305b16a5bd070d31c9ec34135
+#EXTINF:0 tvg-id="ext" group-title="México",Azteca 1 HD
+http://195.181.162.102:7283/HY-655/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8eb2c65fa997056e5cbcdeb0c0727d6a500bfc0c
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="México",Azteca 7 HD
+http://195.181.162.102:7283/HY-656/index.m3u8?un=edgarcastillo&tm=1607919849&sn=43119d763d7bdc3f811d22dfa22d64d1e21e11a3
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="México",Canal 5 HD
+http://195.181.162.102:7283/HY-686/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7b9a6a78ee25a4b0ce2409634f95d269f339f127
+#EXTINF:0 tvg-id="ext" group-title="México",CANAL ONCE MX HD
+http://195.181.162.102:7283/CANAL-ONCE-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8a1dfecb74df25abd9ccf81005ea6a43d31c16d2
+#EXTINF:0 tvg-id="ext" group-title="México",DISTRITO COMEDIA HD
+http://195.181.162.102:7283/DISTRITO-COMEDIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7430e61ccbb0e559f42227bac22a558ce4edd835
+#EXTINF:0 tvg-id="ForoTVHD.mx" group-title="México",FORO TV HD
+http://195.181.162.102:7283/FORO-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=34b67378897453ed1d428b02f1c7001448aa1466
+#EXTINF:0 tvg-id="ext" group-title="México",FXM Central HD
+http://195.181.162.102:7283/HY-767/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b41300f263b5f9dfd26d186b5d5118114606d5c9
+#EXTINF:0 tvg-id="ext" group-title="México",Galavision East
+http://195.181.162.102:7283/HY-768/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cba1366c64eff19af53869a11c14c11bd6822984
+#EXTINF:0 tvg-id="ext" group-title="México",Galavision West
+http://195.181.162.102:7283/HY-769/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ee6c1503548228f5be82248d5f2ed63965cf0c37
+#EXTINF:0 tvg-id="ext" group-title="México",Golf HD USA
+http://195.181.162.102:7283/HY-775/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d47de09c303b187a9e4b9c6663face4d12403167
+#EXTINF:0 tvg-id="ext" group-title="México",Imagen HD
+http://195.181.162.102:7283/HY-790/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2182a882a2f0fe5fa67b3db934699c695756abf7
+#EXTINF:0 tvg-id="ext" group-title="México",Las Estrellas Mex HD
+http://195.181.162.102:7283/HY-793/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d34c1969b4aef53bcdc93ae4693fe46115fc2302
+#EXTINF:0 tvg-id="ext" group-title="México",Mans 1 HD
+http://195.181.162.102:7283/HY-795/index.m3u8?un=edgarcastillo&tm=1607919849&sn=069fe647b7b00dcf5009ab34ff628f8bbbb57b2d
+#EXTINF:0 tvg-id="ext" group-title="México",Mans 2 HD
+http://195.181.162.102:7283/HY-796/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b4bdccaca6b983d9f0b3aefe97f290ab62d22583
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="México",MILENIO TV HD
+http://195.181.162.102:7283/MILENIO-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8d70a62bb30b3be1820278b411289a33cd6e97a4
+#EXTINF:0 tvg-id="ext" group-title="México",MULTIMEDIOS MX HD
+http://195.181.162.102:7283/MULTIMEDIOS-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6bc46e0043b29fd14a82d62fbd69a1b180a18df6
+#EXTINF:0 tvg-id="ext" group-title="México",NBC Chicago Sports 2 HD
+http://195.181.162.102:7283/HY-834/index.m3u8?un=edgarcastillo&tm=1607919849&sn=02cecf95e3982ed6b3b7b33349673f3dd56acfeb
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="México",NBC Sports Network HD
+http://195.181.162.102:7283/HY-812/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ddf588795aa4bf514b2068b7510109f793cb36ea
+#EXTINF:0 tvg-id="ext" group-title="México",NESN Boston
+http://195.181.162.102:7283/HY-833/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1f7fe1c80c667e6727e690139d49c024b0ea46f1
+#EXTINF:0 tvg-id="ext" group-title="México",NESN Plus
+http://195.181.162.102:7283/HY-836/index.m3u8?un=edgarcastillo&tm=1607919849&sn=93f51d1fbc21acee5f10d79b3a9b691d1aa4f9c6
+#EXTINF:0 tvg-id="ext" group-title="México",NHL HD
+http://195.181.162.102:7283/HY-1342/index.m3u8?un=edgarcastillo&tm=1607919849&sn=46f9b958272b062447ac1b5339165eb4bce2d268
+#EXTINF:0 tvg-id="ext" group-title="México",NUEVE MX HD
+http://195.181.162.102:7283/NUEVE-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8f2ad5d641a993b97479799c930824071a16dffb
+#EXTINF:0 tvg-id="outdoor-hd" group-title="México",Outdoor HD
+http://195.181.162.102:7283/HY-826/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3862978e047cd7321ab60ee250a387d8722b332a
+#EXTINF:0 tvg-id="ext" group-title="México",Root Sports HD
+http://195.181.162.102:7283/HY-652/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3cf29a59a980e25935f2d53e5f7d5d44b5ce488b
+#EXTINF:0 tvg-id="ext" group-title="México",Sony Central HD
+http://195.181.162.102:7283/HY-830/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5fb508b1da7fe7bc9ef0c1bc7125682d81cf7271
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="México",Sportsman HD
+http://195.181.162.102:7283/HY-822/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d37b5691e4533fee1863b056b01048677b05ac96
+#EXTINF:0 tvg-id="ext" group-title="México",Unimas East HD
+http://195.181.162.102:7283/HY-1344/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cc60eea0f059db13be95995c9263af687a039f46
+#EXTINF:0 tvg-id="UniMasWestHD.us" group-title="México",Unimas West HD
+http://195.181.162.102:7283/HY-1346/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4c6b9de3c5900ebb6446a70d0441542ad99a8192
+#EXTINF:0 tvg-id="UnivisionEastHD.us" group-title="México",Univision East HD
+http://195.181.162.102:7283/HY-1348/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dd81733552aaed0bb08cd4707f91c81cb1536cac
+#EXTINF:0 tvg-id="ext" group-title="México",Univision West HD
+http://195.181.162.102:7283/HY-1351/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cfa01a19987279fd2d286c500a5095d6c3c105fa
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",#VAMOS HD
+http://195.181.162.102:7283/VAMOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c8c357a3d1b005e9a54bdf7424733de3c1491f4
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AFFIZIONADO HD
+http://195.181.162.102:7283/AFFIZIONADO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9274f3eaf2d1e9f895ea1909aa511b87bd2a61f6
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Altitude Sports 1 HD
+http://195.181.162.102:7283/HY-647/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b5e2799183ddbc3ace6e6f0563bc06e411ebc1fc
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sport HD
+http://195.181.162.102:7283/AT-T-Sport-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6af2995aac33e77bac4025445656c9e1131a18c5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 1 HD
+http://195.181.162.102:7283/HY-646/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1348fecd8950330125f58f15b10fa1c5bfc9f504
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 2 HD
+http://195.181.162.102:7283/HY-837/index.m3u8?un=edgarcastillo&tm=1607919849&sn=044e8a6f7cb386f62fae47206834d42b31e12f47
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 3 HD
+http://195.181.162.102:7283/HY-810/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9a7fbe639ed917dd4b829f978b5d5f04ea5ca2c7
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 4 HD
+http://195.181.162.102:7283/HY-816/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fea4ccead273230e3668c6df00556d30dc6e2690
+#EXTINF:0 tvg-id="ext" group-title="Deportes",BARCA TV HD
+http://195.181.162.102:7283/barca-tv-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fa2f84651f86cc60ca38a9a872c306ba16a4b9d9
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="Deportes",bein sport 13 hd
+http://195.181.162.102:7283/HY-659/index.m3u8?un=edgarcastillo&tm=1607919849&sn=da9b21471507c22ab081e633937d0b107bf7075a
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Deportes",BEIN SPORT LA LIGA HD
+http://195.181.162.102:7283/BEIN-SPORT-LA-LIGA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7df538892f4cdcb61c2f3373fbab7ea95100156f
+#EXTINF:0 tvg-id="ext" group-title="Deportes",BEIN SPORT USA HD
+http://195.181.162.102:7283/BEIN-SPORT-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=79d72a06041da0bcba475e141d5da60a4cdad173
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports ñ FHD
+http://195.181.162.102:7283/BEIN-SPORT-N-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=09f8509f423f23c0db1e0c86b22db91190fcb91c
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports ñ HD
+http://195.181.162.102:7283/BEIN-SPORT-N-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=24e85734f5ccaa569162543cb30cb0bea6604add
+#EXTINF:0 tvg-id="BoxNationHD.uk" group-title="Deportes",BOX NATION HD
+http://195.181.162.102:7283/BOX-NATION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=87cbc058c1884f0c36a95e3a633c3efac6eda4e6
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CABLE ONDA SPORTS FC PAN HD
+http://195.181.162.102:7283/CABLE-ONDA-SPORTS-FC-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3b9d2c739607dbf53ce5a76140d2d358bf87e5fa
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CABLE ONDA SPORTS PAN HD
+http://195.181.162.102:7283/CABLE-ONDA-SPORTS-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dccc7982d1e9cc70372cda7f7c6b140d4e83824d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Canal Caza & Pezca HD
+http://195.181.162.102:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f7621f555754c5272fe43a3155d01828c342148
+#EXTINF:0 tvg-id="SportsNetHD.ca" group-title="Deportes",CBS SPORTS NETWORK HD
+http://195.181.162.102:7283/CBS-SPORTS-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b44bb90a18f7aecbc4a65621ef75675cacc39908
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CDF ESTADIO HD
+http://195.181.162.102:7283/HIPODROMO-PRESIDENTE-REMON-PAN/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2489ea2ebdb1cde63fec896fc4c030cf8581b25a
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Deportes",CDF HD
+http://195.181.162.102:7283/HY-692/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63cd90cda01a3ff441aa5962a951f7a3e0f11ad4
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Deportes",CDF HD+
+http://195.181.162.102:7283/HY-693/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c05099005fb3252a3ee6c299525ebc6959f101ec
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Claro Sports HD
+http://195.181.162.102:7283/HY-745/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9d937d83695e3e3a996a011db3a411532895ca23
+#EXTINF:0 tvg-id="Combate.br" group-title="Deportes",Combate HD
+http://195.181.162.102:7283/COMBATE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=530d3a02d5302cc08fcc6ff55fdee0c7c84ec37d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Direct tv Sports plus
+http://195.181.162.102:7283/Direct-tv-Sports-plus/index.m3u8?un=edgarcastillo&tm=1607919849&sn=69ea4eab84a128bfa3702544e4fb89e702e16757
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports 2 FHD
+http://195.181.162.102:7283/HY-704/index.m3u8?un=edgarcastillo&tm=1607919849&sn=428b23ddc455b660b1c01522bbcfeb87cbd98ee9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports 2 HD
+http://195.181.162.102:7283/HY-705/index.m3u8?un=edgarcastillo&tm=1607919849&sn=00a1121046abe4ff1d4d1189363477493db0fafd
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports FHD
+http://195.181.162.102:7283/HY-706/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bbd1a32e0bdb20bb228763eb6fddc063417900f8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports HD
+http://195.181.162.102:7283/HY-707/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d8f35dd0a05a7877f6df0f5ab574799d8bf57df7
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports+ HD
+http://195.181.162.102:7283/HY-708/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5c0ea39ec0251b8b1a31a2a9b765b7d94cdb34f0
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 1 arg. HD
+http://195.181.162.102:7283/ESPN1-arg-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d3eb0dda66938b8532ee26b73f7f596179a6ba08
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 1 Sur HD
+http://195.181.162.102:7283/ESPN1-Sur-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1d76af8b36397361dfcf5c320c837cc02ce11632
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 Central HD
+http://195.181.162.102:7283/HY-724/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f4448d0d89857b2141a2023daf12e4e039137d21
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 CHILE HD
+http://195.181.162.102:7283/ESPN2-CHILE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=49283812b99f8f48d0f0f03b658cab0cbb1706db
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Deportes",ESPN 2 HD
+http://195.181.162.102:7283/HY-725/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d1164dc6fefaac8704b5fb432a768bf886d0a0bf
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes",ESPN 2 HD+
+http://195.181.162.102:7283/HY-726/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7fcb3947bbbe72c621aeb5e6d8341ca3516da97
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Central HD
+http://195.181.162.102:7283/HY-729/index.m3u8?un=edgarcastillo&tm=1607919849&sn=911b1f159e41b18616e836655f16c214272342e5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Central HD+
+http://195.181.162.102:7283/HY-729/index.m3u8?un=edgarcastillo&tm=1607919849&sn=911b1f159e41b18616e836655f16c214272342e5
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Deportes",ESPN 3 HD
+http://195.181.162.102:7283/HY-727/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6d5f3d86c8696cd18b3e55d6018bd7950aa94e65
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes",ESPN 3 HD+
+http://195.181.162.102:7283/HY-728/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9076f63cc0d660a4c9290085f589415fab04e2b1
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Deportes",ESPN BRASIL
+http://195.181.162.102:7283/ESPN-BRASIL/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b72b414225a52848e9b6218c2f7c52534918f099
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Central HD
+http://195.181.162.102:7283/HY-734/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e96bad415781092870d194d23a384557171cf7cf
+#EXTINF:0 tvg-id="ESPNDeportesHD.us" group-title="Deportes",ESPN DEPORTES HD
+http://195.181.162.102:7283/ESPN-DEPORTES-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b6bba413688aed458bcb1e8e9d5f65dbc1e7302b
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN EXTRA BRASIL HD
+http://195.181.162.102:7283/ESPN-XTRA-BRASIL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3cd2b054f6f17c5401b4b789c4a1f42a6d339f67
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Deportes",ESPN HD
+http://195.181.162.102:7283/HY-731/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ecd39ef6df4141e27e75a12c432e8838bec11cb7
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Deportes",ESPN HD+
+http://195.181.162.102:7283/HY-733/index.m3u8?un=edgarcastillo&tm=1607919849&sn=17134e9211f2b38aa717ff168ce9fd3a3d161a69
+#EXTINF:0 tvg-id="ESPNU.us" group-title="Deportes",ESPN U HD
+http://195.181.162.102:7283/ESPN-U-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4661877341d22b8486142a7f0b6966188a710bd2
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN+ Central HD
+http://195.181.162.102:7283/HY-735/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2004c15ce9c3ad56e1043928230e4518897d696d
+#EXTINF:0 tvg-id="ESPNHD.mx" group-title="Deportes",ESPN+ HD
+http://195.181.162.102:7283/HY-732/index.m3u8?un=edgarcastillo&tm=1607919849&sn=962c2f77e6070cc746e31042eca6cf3483060a6e
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Deportes",Eurosport 1 HD
+http://195.181.162.102:7283/Eurosport-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2fb6c53723de354771ee473b5e166753e5fd0610
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Deportes",Eurosport 2 HD
+http://195.181.162.102:7283/Eurosport-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2d38938b2070a64049f7e3605207c70a83d7e2c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS PY1
+http://195.181.162.102:7283/TIGO-SPORT-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c897b7d150229200d7e62f07c2f7cf09f30b6e14
+#EXTINF:0 tvg-id="FightNetwork.ca" group-title="Deportes",Fight network HD
+http://195.181.162.102:7283/Fight-network-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8f104ecff530a908df083572a4feeb04857ad943
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX DEPORTES US HD
+http://195.181.162.102:7283/fox-deportes-us-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=53e07efb34e549b00353bf509de8f5a50ff27578
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX FS1 HD
+http://195.181.162.102:7283/FOX-FS1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=996f090e5c694a6a025a24f727afa067593cf093
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX FS2 HD
+http://195.181.162.102:7283/FOX-FS2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86d35a3d44e0fa139f35cea041309f8ef7fb9a6d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 1 Chile HD
+http://195.181.162.102:7283/HY-754/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3681a4e5d7fbeff716d8defc885ce9de89601ced
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 Central HD
+http://195.181.162.102:7283/HY-757/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0b39ff3e94c93eff15a6668460c99267b985b2f6
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Deportes",Fox Sports 2 HD
+http://195.181.162.102:7283/HY-755/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91e47056eb38e0307a99f92c14f57549e1192829
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2 HD+
+http://195.181.162.102:7283/HY-756/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4096b32f5094a7340410c2b98e9aee9d800d7212
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Deportes",Fox Sports 3 HD
+http://195.181.162.102:7283/FOX-SPORTS-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2a1a1b7522d9b8506fe7341ab19957f92dd8e7d1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 HD Central
+http://195.181.162.102:7283/FOX-SPORTS-3-CENTRAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47c1f37c0f6af244f425a722670e220e47830b59
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Central HD
+http://195.181.162.102:7283/HY-763/index.m3u8?un=edgarcastillo&tm=1607919849&sn=77f3bd6a32b5cca5739cbe39afa8378059bf1537
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sports HD
+http://195.181.162.102:7283/HY-761/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8e896e98ebe0003fa6d5bfb9ccdcedd04ead75e0
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="Deportes",Fox Sports HD+
+http://195.181.162.102:7283/HY-762/index.m3u8?un=edgarcastillo&tm=1607919849&sn=235605fc6a7bcc6cbda290b84a745d60d5fcc96e
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Premium Arg HD
+http://195.181.162.102:7283/HY-25351/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f82646fcd551b90af9a762943ffe9a71d9de604d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Premium Arg HD+
+http://195.181.162.102:7283/HY-765/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7e9a0853d1f7b00cf14afa8a19d4b662a8db78e
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FUTV CR HD
+http://195.181.162.102:7283/FUTV-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=965a8ed30367881d8e2a854df178fafbf3e7fa39
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FUTV CR OPC 2 HD
+http://195.181.162.102:7283/FUTV-CR-2-HD-opc2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6fb1ba8124a1afd620305818707cfe377f832cb7
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Gol Peru HD
+http://195.181.162.102:7283/HY-777/index.m3u8?un=edgarcastillo&tm=1607919849&sn=366006ff392984deb3300ed1d4ed200616066824
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Deportes",Gol TV HD
+http://195.181.162.102:7283/HY-779/index.m3u8?un=edgarcastillo&tm=1607919849&sn=151d6aa154fd1c55e38307f37b1bcdc3ef40608c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Golf Latin America HD
+http://195.181.162.102:7283/GOLF-LATIN-AMERICA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c19a25fb1120411fc3958739ec6d34e2f32f69d3
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="Deportes",Movistar Deportes HD
+http://195.181.162.102:7283/HY-801/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4a0d09908133a60d297a4c5147b0f73cc476a916
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="Deportes",MOVISTAR F1 HD
+http://195.181.162.102:7283/MOVISTAR-FORMULA-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a0b82afb82f86288f21f31dfc759f92afd8e0238
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Movistar Liga De Campeones HD
+http://195.181.162.102:7283/MOVISTAR-LIGA-DE-CAMPEONES-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b3e2bdfc5bd5dd563bba2b15d540b13f06294510
+#EXTINF:0 tvg-id="ext" group-title="Deportes",MOVISTAR LA LIGA FHD
+http://195.181.162.102:7283/MOVISTAR-LA-LIGA-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8a971054c65e5c5fb507f534b3c44acd4bc873e5
+#EXTINF:0 tvg-id="NBA.blt" group-title="Deportes",NBA TV
+http://195.181.162.102:7283/NBA-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=df7a1f46f74b53929bdce026371bdf10bb80cb8c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NBC Chicago Sports 2 HD
+http://195.181.162.102:7283/HY-834/index.m3u8?un=edgarcastillo&tm=1607919849&sn=02cecf95e3982ed6b3b7b33349673f3dd56acfeb
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NESN Boston
+http://195.181.162.102:7283/HY-833/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1f7fe1c80c667e6727e690139d49c024b0ea46f1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NESN Plus
+http://195.181.162.102:7283/HY-836/index.m3u8?un=edgarcastillo&tm=1607919849&sn=93f51d1fbc21acee5f10d79b3a9b691d1aa4f9c6
+#EXTINF:0 tvg-id="NFLNetworkHD.mx" group-title="Deportes",NFL NETWORK HD
+http://195.181.162.102:7283/NFL-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f4b06721abd61a52e3a299ddd138b7341bc06b4
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 01 HD
+http://195.181.162.102:7283/NFL-PASS-01/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fd114ed80e497bc16619467ff27b3424abba18eb
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 02 HD
+http://195.181.162.102:7283/NFL-PASS-02/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6572b2e0d1a9ed6c37c719a28e95cc338cfbb84a
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 03 HD
+http://195.181.162.102:7283/NFL-PASS-03/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63eb569da26aee374c5bac7b1652cf7448c72e07
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 04 HD
+http://195.181.162.102:7283/NFL-PASS-04/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2ab8865f79ab7d61265c2e77036c01166284c8e4
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 05 HD
+http://195.181.162.102:7283/NFL-PASS-05/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a7406d196011b0f263ab3c648dea8483d3685881
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 06 HD
+http://195.181.162.102:7283/NFL-PASS-06/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9f319efa64efd2c2c7fd23f1356f5c0a05d1bd1b
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 08 HD
+http://195.181.162.102:7283/NFL-PASS-08/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9a9161052f069d5ea30d3a3cff51a0abd7948a9c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 09 HD
+http://195.181.162.102:7283/NFL-PASS-09/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bc85dcba9344abf0f246e4eb14123696fb5c69e5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 10 HD
+http://195.181.162.102:7283/NFL-PASS-10/index.m3u8?un=edgarcastillo&tm=1607919849&sn=88e604be07df7220814923b0fbe118c446cae646
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 11 HD
+http://195.181.162.102:7283/NFL-PASS-11/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e968b4f15cb02563e9f263dea54248e2198e9ae5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 12 HD
+http://195.181.162.102:7283/NFL-PASS-12/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2a570e391b0eb17bcc3dd10e6670ae05ca2070b1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 13 HD
+http://195.181.162.102:7283/NFL-PASS-13/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4393f84560899b71796cfae195c4a776b003545b
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NHL HD
+http://195.181.162.102:7283/HY-1342/index.m3u8?un=edgarcastillo&tm=1607919849&sn=46f9b958272b062447ac1b5339165eb4bce2d268
+#EXTINF:0 tvg-id="ext" group-title="Deportes",OLYMPIC CHANNELS HD
+http://195.181.162.102:7283/OLYMPIC-CHANNELS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0f8c2a631f4fd39035f63a24685e2af354f8b54b
+#EXTINF:0 tvg-id="outdoor-hd" group-title="Deportes",Outdoor HD
+http://195.181.162.102:7283/HY-826/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3862978e047cd7321ab60ee250a387d8722b332a
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Deportes",REAL MADRID TV HD
+http://195.181.162.102:7283/REAL-MADRID-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ffeac2f1f8d0563e26c21b6a7931b8d86ca82fca
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Root Sports HD
+http://195.181.162.102:7283/HY-652/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3cf29a59a980e25935f2d53e5f7d5d44b5ce488b
+#EXTINF:0 tvg-id="ext" group-title="Deportes",SKY SPORTS 16 MX HD
+http://195.181.162.102:7283/SKY-SPORTS-16-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7c6b9140edc17e08b18aadad6da36af946a83fe
+#EXTINF:0 tvg-id="ext" group-title="Deportes",SKY SPORTS 24 MX HD
+http://195.181.162.102:7283/SKY-SPORTS-24-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=76fef628044980f6cffcad2e2d4049e618efe774
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Sports Chicago
+http://195.181.162.102:7283/Sports-Chicago/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c2ceaad159588479651d434d160cc81aa5d3cb25
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="Deportes",Sportsman HD
+http://195.181.162.102:7283/HY-822/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d37b5691e4533fee1863b056b01048677b05ac96
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TD+ CR HD
+http://195.181.162.102:7283/TD-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=36732d8afa6cb097a12d1378110b3bf2d10dcb20
+#EXTINF:0 tvg-id="TennisChannelHD.us" group-title="Deportes",TENNIS CHANNEL HD
+http://195.181.162.102:7283/TENNIS-CHANNEL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2fc43740ab528880c67ff3e53a47424a7824172d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORT CR HD
+http://195.181.162.102:7283/TIGO-SPORT-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3457fa5e94c6e4bef8ee8be27d572d49d1bff7c0
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS 1 BO HD
+http://195.181.162.102:7283/TIGO-SPORTS-1-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=742cc0c511e471f10fc22a45c5364b04da52f92d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORT 3 HD
+http://195.181.162.102:7283/TIGO-SPORT-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e73468f815f33557f44c773e081596263bb46d22
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports Arg HD
+http://195.181.162.102:7283/HY-1333/index.m3u8?un=edgarcastillo&tm=1607919849&sn=130b0a0edbf528c9b9494445ee41edd76ffa767c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports Arg HD+
+http://195.181.162.102:7283/HY-1334/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be6776e92a72d9a174d51ff4c9e04fcbd8507025
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Deportes",TOROS TV FHD
+http://195.181.162.102:7283/TOROS-TV-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f117cfb7ff9e46c8901610c19fade57316992499
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN MX HD
+http://195.181.162.102:7283/TUDN-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4ae322f51cc70b11cd05f52a75c26a5599523162
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN USA HD
+http://195.181.162.102:7283/TUDN-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=08277b2259bf2096b6bc529254fd0e9df16d3460
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports HD
+http://195.181.162.102:7283/HY-1343/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9b47df8f2f105a6a0aa29b4d903effe6af81784c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",UFC FIGHT PASS HD
+http://195.181.162.102:7283/UFC-FIGHT-PASS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=753e722eb7ebc5a25358efd14a3eb9d57ccd4350
+#EXTINF:0 tvg-id="ext" group-title="Deportes",UFC LATINO HD
+http://195.181.162.102:7283/UFC-LATINO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fce649336bbf19f72c963fed831335e509d3c8bd
+#EXTINF:0 tvg-id="ext" group-title="Deportes",VTV Uruguay HD
+http://195.181.162.102:7283/HY-1353/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86e8d3e3d970337452ba768009d0a1007d799389
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WIN Sports HD
+http://195.181.162.102:7283/HY-1356/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c4e2415681083b3a2195452e48300078aad65d08
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WIN SPORTS PLUS+ HD
+http://195.181.162.102:7283/WIN-SPORTS-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0cb6f56ed00e32b800a2e8faf0910d3dd52465a1
+#EXTINF:0 tvg-id="WWEHD.ca" group-title="Deportes",WWE HD
+http://195.181.162.102:7283/WWE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a740c2808a8cfef34dd80c3eb1e22b1bf08992f4
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WWE PLUS HD
+http://195.181.162.102:7283/WWE-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5891c424168a3f433f10e40392b645f15970449b
+
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",CANAL UNO FHD
+http://195.181.162.102:7283/CanalUno/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4cc784c11041f29109dcbcb4ec4a2935113dd2e3
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Canal Uno OPC 2 FHD
+http://195.181.162.102:7283/CANAL-UNO-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=535a9cb4cf4a8a0ab4d7fb4b66692a9d0c7e03b2
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",DIRECTV ECUADOR HD
+http://195.181.162.102:7283/DIRECTV-ECUADOR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=78e8b9b05510e9e859ad3fcf1df3fb7a3b0f3422
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",ECUADOR TV HD
+http://195.181.162.102:7283/ECUADOR-TV/index.m3u8?un=edgarcastillo&tm=1607919849&sn=89759d7feb414df84565261b9d6538415e5b37ca
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",ECUAVISA FHD
+http://195.181.162.102:7283/Ecuavisa/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5cfd2e4ec107077d69729115c0793a7093005a68
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",ECUAVISA SIERRA HD
+http://195.181.162.102:7283/ECUAVISA-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f17fcdeb55c0fedfada65832b17faf8f1a9e47ab
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",GAMAVISION OPC 2 HD
+http://195.181.162.102:7283/GAMAVISION-TV-HD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca2e2ae8bc25e37586356aec1625841a0b2e5e1e
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",GAMAVISION TV FHD
+http://195.181.162.102:7283/gamavision/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6fab8294c2e7dc618925caca03c7c966d1756ce9
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Ecuador",GOL TV FULL HD
+http://195.181.162.102:7283/GOL-TV-ECUADOR-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a0e47d1aac02456b91d713228f0854b6c6f034bb
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Ecuador",Gol TV HD
+http://195.181.162.102:7283/HY-779/index.m3u8?un=edgarcastillo&tm=1607919849&sn=151d6aa154fd1c55e38307f37b1bcdc3ef40608c
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",GOL TV OPC 2 HD
+http://195.181.162.102:7283/GOLTV-HD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8ab62c8946ab23378f7c548ce0c62d2dbe930ff0
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",OROMAR FHD
+http://195.181.162.102:7283/oromar/index.m3u8?un=edgarcastillo&tm=1607919849&sn=61d78cb95e5cedea69708e471ca13ad63ef6b03f
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",OROMAR TV OPC 2 FHD
+http://195.181.162.102:7283/OROMAR-TV-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d113f436ca6bdd7632378792f2745ae994026b7c
+#EXTINF:0 tvg-id="RTSHD.rs" group-title="Ecuador",RTS FHD
+http://195.181.162.102:7283/RTS/index.m3u8?un=edgarcastillo&tm=1607919849&sn=00542c0c3556ee8d5d950f33843ca412fb8a69c3
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",RTS OPC 2 FHD
+http://195.181.162.102:7283/RTS-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47b3e9d153223d1d374b0b12765ff0c890a56bd7
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TC TELEVISION FHD
+http://195.181.162.102:7283/tcelevision/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f39487ece4eb8290c4a26047794a8cb35904f19f
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TC TELEVISION OPC 2 FHD
+http://195.181.162.102:7283/TC-TELEVISION-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=87641edebfea98a418b78a190529fb36d1b4fea2
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Teleamazonas HD
+http://195.181.162.102:7283/Teleamazonas/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b979789fb103adec3621e001a3cce65b1884f060
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TELEAMAZONAS SIERRA HD
+http://195.181.162.102:7283/TELEAMAZONAS-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=303efe4cae22e3bf1c4ea6b8746ea695c2f307b0
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Televicentro FHD
+http://195.181.162.102:7283/televicentro/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2b81740a2b98a9671f9fe27a24c9fbef879f780
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TELEVICENTRO OPC 2 FHD
+http://195.181.162.102:7283/TELEVICENTRO-FHD-OPC2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=accaa89410058b23f5c8a69f98e26f26ba826a62
+
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",ANTENA LATINA HD
+http://195.181.162.102:7283/ANTENA-LATINA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b80bc23d3709b17f21abeaba05f7ee88a226aaca
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",CANAL 4 RD HD
+http://195.181.162.102:7283/CANAL-4-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6d833322bd0c11d52eaca29bb497101643ab8acb
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",CDN RD HD
+http://195.181.162.102:7283/CDN-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4a1e34e573adbd6823aab7d2979f9aedea0afdf2
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",CDN SPORTSMAX RD HD
+http://195.181.162.102:7283/CDN-SPORTS-MAX-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dbea376dd8343cac8c1a174bf02679965dee0c67
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",COLOR VISION RD HD
+http://195.181.162.102:7283/COLOR-VISION-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=063b93add892ef30a967442d9181035a13fa0aa9
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",DIGITAL 15 RD
+http://195.181.162.102:7283/DIGITAL-15-RD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6f708f2ab7c345ee37e7f37c5d8f6380d2d18dec
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",MICROVISION CANAL 10 RD HD
+http://195.181.162.102:7283/MICROVISION-CANAL-10-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4d55b99d9ab8daa409294457525af6246185cdd4
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",MICROVISION RD HD
+http://195.181.162.102:7283/MICROVISION-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1252ec4b272f99006e0fcddfd0873fd8dd92fc52
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELEANTILLAS RD HD
+http://195.181.162.102:7283/TELEANTILLAS-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=09340ea7db84e258709a90ad63a5d31496789828
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELEMICRO RD
+http://195.181.162.102:7283/TELEMICRO-RD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=090e832a9eaac7d1b86e16f545b193baa2032f59
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELESISTEMAS CANAL 11 RD HD
+http://195.181.162.102:7283/TELESISTEMAS-CANAL-11-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bb959937997407c0cdaf4660826c8b3bcbccfc01
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELEUNIVERSO RD HD
+http://195.181.162.102:7283/TELEUNIVERSO-RD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=80913ba9aa28a9196b7537a03b63ee25959b9149
+
+#EXTINF:0 tvg-id="ext" group-title="Colombia",Canal 1 HD Colombia
+http://195.181.162.102:7283/HY-669/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c6aa1ffec2f2f62e00d1d05e2af3a095f1e3b4d1
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Colombia",CARACOL FHD
+http://195.181.162.102:7283/CARACOL-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=090e668287bfc941e1f2704f0f74311b91fccc5d
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Colombia",Caracol HD
+http://195.181.162.102:7283/HY-688/index.m3u8?un=edgarcastillo&tm=1607919849&sn=17d5b1e50ffbfa6533ad36a4096f2e043a01e90d
+#EXTINF:0 tvg-id="ext" group-title="Colombia",CARACOL INTERNACIONAL FHD
+http://195.181.162.102:7283/CARACOL-INTERNACIONAL-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ec6006747ffcdce86d46b2c4dea482d59c7b7bd1
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Colombia",City TV
+http://195.181.162.102:7283/HY-697/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d56bd2eba921e656a7c2df30e7261729fffaffd1
+#EXTINF:0 tvg-id="ext" group-title="Colombia",NTN24 HD
+http://195.181.162.102:7283/NTN24-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=70f33d83125e65d11e460f5489fc2e72524d69de
+#EXTINF:0 tvg-id="ext" group-title="Colombia",RCN HD
+http://195.181.162.102:7283/HY-825/index.m3u8?un=edgarcastillo&tm=1607919849&sn=70930be812e4e6cc379d9031df54f613f86a8254
+#EXTINF:0 tvg-id="ext" group-title="Colombia",RCN NOVELAS HD
+http://195.181.162.102:7283/RCN-NOVELAS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ee982cff9a86196b3733f39e4d0e41685b9b426c
+#EXTINF:0 tvg-id="ext" group-title="Colombia",SEÑAL COLOMBIA HD
+http://195.181.162.102:7283/SENAL-COLOMBIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b89f1eb6017a30abc1389d9a0d3017f0b16f0790
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELEANTIOQUIA HD
+http://195.181.162.102:7283/TELEANTIOQUIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=45bf1799a192f0729f5e01df92c47fbe94b815d0
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELECAFÉ HD
+http://195.181.162.102:7283/TELECAFE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9b3f2443af11c0a867db330a164181c64ed8ab68
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELECARIBE HD
+http://195.181.162.102:7283/TELECARIBE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=082aab595b74dbae846db544de0aa27a7eebfdee
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELEMEDELLIN HD
+http://195.181.162.102:7283/TELEMEDELLIN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1dd058c10a92f494d8c3dfd6384d38487cd5da04
+#EXTINF:0 tvg-id="ext" group-title="Colombia",Telepacifico
+http://195.181.162.102:7283/HY-1328/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d52aa7422d30cfd420a7c68cd8f4414810190b5d
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TV Agro HD
+http://195.181.162.102:7283/TV-AGRO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f7168bd86565e51bf11579cac99fa288fad8da6b
+#EXTINF:0 tvg-id="ext" group-title="Colombia",WIN Sports HD
+http://195.181.162.102:7283/HY-1356/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c4e2415681083b3a2195452e48300078aad65d08
+#EXTINF:0 tvg-id="ext" group-title="Colombia",WIN SPORTS PLUS+ 2 HD
+http://195.181.162.102:7283/WIN-SPORTS-PLUS-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47ed9432eba132424726a623f62d4abcee53d808
+#EXTINF:0 tvg-id="ext" group-title="Colombia",WIN SPORTS PLUS+ HD
+http://195.181.162.102:7283/WIN-SPORTS-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0cb6f56ed00e32b800a2e8faf0910d3dd52465a1
+
+#EXTINF:0 tvg-id="ext" group-title="US Channels",A&E US HD
+http://195.181.162.102:7283/AE-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f0442c250e42022f1248c733c0a9e0ac46439be8
+#EXTINF:0 tvg-id="ext" group-title="US Channels",ABC DALLAS US HD
+http://195.181.162.102:7283/ABC-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4c734f96c02d4e551595c4106067996e92f59be8
+#EXTINF:0 tvg-id="ABCNews.al" group-title="US Channels",ABC NEWS
+http://195.181.162.102:7283/ABC-NEWS/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fcbb33833c2094668d08e387300d9abfba760dd8
+#EXTINF:0 tvg-id="AMC.us" group-title="US Channels",AMC USA HD
+http://195.181.162.102:7283/AMC-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=942377cfe9e45f3455b66565aff814a66511a0b4
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="US Channels",ANIMAL PLANET HD
+http://195.181.162.102:7283/HY-650/index.m3u8?un=edgarcastillo&tm=1607919849&sn=27c41495285c24bb7deb6ae0d04ffa3b871a0658
+#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="US Channels",ANIMAL PLANET US HD
+http://195.181.162.102:7283/ANIMAL-PLANET-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c30449cd231f0c0bd67304257bf2a6ecf67c4740
+#EXTINF:0 tvg-id="Bravo.us" group-title="US Channels",BRAVO US HD
+http://195.181.162.102:7283/BRAVO-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=84428047de9520ed25eb4c238a6975466bbc5787
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Cartoon Network USA HD
+http://195.181.162.102:7283/CARTOON-NETWORK-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ab60d545b2192a2264412bce00c5fa6431f3c273
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS 2 Los Angeles HD
+http://195.181.162.102:7283/CBS-2-Los-Angeles-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6d6b4bf27c699712bc0d08e2c52172453cda1747
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS DALLAS US HD
+http://195.181.162.102:7283/CBS-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e3b3c573bae06e3d599d21c2afce667ab88b6594
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS MIAMI USA HD
+http://195.181.162.102:7283/CBS-MIAMI-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=408f7442b28dd9550ee889d172e6c3b7b14ab491
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS NEWS USA HD
+http://195.181.162.102:7283/CBS-NEWS-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ef2810f466f91f72435106e513f3403844d813d1
+#EXTINF:0 tvg-id="SportsNetHD.ca" group-title="US Channels",CBS SPORTS NETWORK HD
+http://195.181.162.102:7283/CBS-SPORTS-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b44bb90a18f7aecbc4a65621ef75675cacc39908
+#EXTINF:0 tvg-id="ActionMaxHD.us" group-title="US Channels",CINEMAX ACTION MAX HD
+http://195.181.162.102:7283/CINEMAX-ACTION-MAX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7e7520f4ceb7748d32ae62c4163387ea932e2173
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CNBC US HD
+http://195.181.162.102:7283/CNBC-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=49104275076c27ae58ad5d5dbe700b6f2c510463
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CNN US HD
+http://195.181.162.102:7283/CNN-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b09fe4ad43b579c8f3e548435cc4838affed6842
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="US Channels",COOKING CHANNEL HD
+http://195.181.162.102:7283/COOKING-CHANNEL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0ade7377315e98f5bebf1074d95a2837c875b038
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Crime Investigation Network USA
+http://195.181.162.102:7283/Crime-Investigation-Network-USA/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2e62e69a9a5cd5917031378814fd6cfa858687fd
+#EXTINF:0 tvg-id="DestinationAmericaHD.us" group-title="US Channels",DESTINATION AMERICA HD
+http://195.181.162.102:7283/DESTINATION-AMERICA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ef7474984684dbe7ec303f43ba312945bed92a12
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISCOVERY CHANNELS US HD
+http://195.181.162.102:7283/DISCOVERY-CHANNELS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=45800df0a2a82675900f60342f3efbd335247c49
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISNEY CHANNELS US HD
+http://195.181.162.102:7283/DISNEY-CHANNELS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ff6b705eaceec096b3c75c4e783146e1490c699c
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISNEY JR USA HD
+http://195.181.162.102:7283/DISNEY-JR-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7a317f8f3cf6e0171d1dcb9f3668fdcfb2111420
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISNEY XD USA HD
+http://195.181.162.102:7283/DISNEY-XD-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ddd591fa1cfb78723710c7b57cdb0bd6bb22e466
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="US Channels",DIY NETWORK HD
+http://195.181.162.102:7283/DIY-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c14faba837e48be0656fd0ff2058f25f597da4a9
+#EXTINF:0 tvg-id="ext" group-title="US Channels",E! US HD
+http://195.181.162.102:7283/E-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=df60252b0a207feca8d382ec05b84f292d488d3c
+#EXTINF:0 tvg-id="ext" group-title="US Channels",EPIX HITS HD
+http://195.181.162.102:7283/EPIX-HITS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0ad29414c8e176d391daa212f5269cf5a7d813a7
+#EXTINF:0 tvg-id="ext" group-title="US Channels",ESPN 2 US HD
+http://195.181.162.102:7283/ESPN2-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b784f5ac6b54e00f830aed9655917b51ba472bfd
+#EXTINF:0 tvg-id="ESPNU.us" group-title="US Channels",ESPN U HD
+http://195.181.162.102:7283/ESPN-U-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4661877341d22b8486142a7f0b6966188a710bd2
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="US Channels",ESPN US HD
+http://195.181.162.102:7283/ESPN-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d3b3f36e075cac5d2845413377e5401d7593d977
+#EXTINF:0 tvg-id="ext" group-title="US Channels",ESTRELLA TV US HD
+http://195.181.162.102:7283/ESTRELLA-TV-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c7a38d044838dc7d71fc2f31dc46351bbec0328
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="US Channels",FOOD NETWORK US HD
+http://195.181.162.102:7283/FOOD-NETWORK-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9c8c0bfb53df190706028a2c8a61f1b51ce35216
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX 11 Los Angeles HD
+http://195.181.162.102:7283/FOX-11-Los-Angeles-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=abea19c3b26b96766db32bf12ea936914d596c55
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX 5 NEW YORK HD
+http://195.181.162.102:7283/FOX-5-NEW-YORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8c9e012fdd5ada36891beb52720c1c41d1147c84
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX DALLAS US HD
+http://195.181.162.102:7283/FOX-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=56d20775277ae600a0bdd6eabd33d700f831f110
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX FS1 HD
+http://195.181.162.102:7283/FOX-FS1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=996f090e5c694a6a025a24f727afa067593cf093
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX FS2 HD
+http://195.181.162.102:7283/FOX-FS2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86d35a3d44e0fa139f35cea041309f8ef7fb9a6d
+#EXTINF:0 tvg-id="FOXNewsChannelHD.us" group-title="US Channels",FOX NEWS US HD
+http://195.181.162.102:7283/FOX-NEWS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5a5f14d4ae57d6843bcd2a6b959c4a7c712018f9
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FX US HD
+http://195.181.162.102:7283/FX-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=81bac903543bec29aaf7ceaa88cfede6f6ebc0f5
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FXM US HD
+http://195.181.162.102:7283/FXM-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f27a2ea141453d3453fd419ffd0848c0824a81d7
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FXX US HD
+http://195.181.162.102:7283/FXX-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e876415a5c4b71d5ccb3e1d3f37ef548b68da85e
+#EXTINF:0 tvg-id="ext" group-title="US Channels",GALAVISION DALLAS US HD
+http://195.181.162.102:7283/GALAVISION-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e2c44b93aa6bb9018ec377db8917defd957e8890
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Golf HD USA
+http://195.181.162.102:7283/HY-775/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d47de09c303b187a9e4b9c6663face4d12403167
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HALLMARK DRAMA USA HD
+http://195.181.162.102:7283/HALLMARK-DRAMA-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2f3ab62ed94adec5aff9e5052ff99585bedf5f3c
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HALLMARK USA HD
+http://195.181.162.102:7283/HALLMARK-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9c6629d3b0a15f1405d54691c90baff754bf266e
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO 2 USA HD
+http://195.181.162.102:7283/HBO2-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=308b24d36621ed512e459fd7b444d7ebffffea32
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO FAMILY USA HD
+http://195.181.162.102:7283/HBO-FAMILY-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9017a3ddd0a580ccd1412c50c41d1bb9386374a3
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO USA HD
+http://195.181.162.102:7283/HBO-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e0037380f059b868cfa7d883b02e7e4f88818947
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO ZONE USA HD
+http://195.181.162.102:7283/HBO-ZONE-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8fbac19f4784f187235b8b47e1e8c1a23d61603d
+#EXTINF:0 tvg-id="HGTV.pl" group-title="US Channels",HGTV HD
+http://195.181.162.102:7283/HGTV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6607b4360471812822010c34d7136c401d1dff89
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HISTORY CHANNELS US HD
+http://195.181.162.102:7283/HISTORY-CHANNELS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bdab78f04d8cc3193877fc3a6d561693197ec861
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HISTORY USA ESP HD
+http://195.181.162.102:7283/HISTORY-USA-ESP-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2a8c9bd6d65644f45e6c9930e381d705f67f1fe
+#EXTINF:0 tvg-id="Lifetime.us" group-title="US Channels",LIFETIME US HD
+http://195.181.162.102:7283/LIFETIME-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0252928b6c704dd32b90b7a5ca4cd871110dd9d9
+#EXTINF:0 tvg-id="ext" group-title="US Channels",LOVE NATURE US HD
+http://195.181.162.102:7283/LOVE-NATURE-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9b5049bb5823fcfa3dc0defae628e4be4484c346
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="US Channels",MLB NETWORK
+http://195.181.162.102:7283/MLB-NETWORK/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47c223f5fc7ceccfbebedc2fb509b672ff3bbeab
+#EXTINF:0 tvg-id="MTV2.us" group-title="US Channels",MTV 2 US HD
+http://195.181.162.102:7283/MTV-2-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d4d532e51ded27bb50adf7c6fa69ce0aea73232a
+#EXTINF:0 tvg-id="MTV.us" group-title="US Channels",MTV US HD
+http://195.181.162.102:7283/MTV-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=55f6ac01a9e58de3b02115a1b4cd063749c6bff2
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NAT GEO WILD USA
+http://195.181.162.102:7283/NAT-GEO-WILD-USA/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2e3c59a4bdfd7aba86885f5c1187521919a7520e
+#EXTINF:0 tvg-id="NBA.blt" group-title="US Channels",NBA TV
+http://195.181.162.102:7283/NBA-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=df7a1f46f74b53929bdce026371bdf10bb80cb8c
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC Chicago Sports 2 HD
+http://195.181.162.102:7283/HY-834/index.m3u8?un=edgarcastillo&tm=1607919849&sn=02cecf95e3982ed6b3b7b33349673f3dd56acfeb
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC DALLAS US HD
+http://195.181.162.102:7283/NBC-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=890123b3dfe74a826aaa0eb1f1cba0164abf11e3
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="US Channels",NBC Sports Network HD
+http://195.181.162.102:7283/HY-812/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ddf588795aa4bf514b2068b7510109f793cb36ea
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC UNIVERSO HD
+http://195.181.162.102:7283/NBC-UNIVERSO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dce08883ca0977f2ff2ad2f5514cfe97fd9032a4
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC USA HD
+http://195.181.162.102:7283/NBC-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3ed86cf091632f62b48a7923e440b231ffbc40b2
+#EXTINF:0 tvg-id="ext" group-title="US Channels",PANICO HD
+http://195.181.162.102:7283/PANICO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0ab9dea63bd51cb3a9b902c1fea1f894b678b6d9
+#EXTINF:0 tvg-id="ext" group-title="US Channels",PARAMOUNT NETWORK USA HD
+http://195.181.162.102:7283/PARAMOUNT-NETWORK-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0cd23c3dc3e79a016b3dfc430a4e7096ef2fa34b
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME 2 USA HD
+http://195.181.162.102:7283/SHOWTIME2-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bc65ce14e8c47d6acc421c229666bb9db4564767
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME BEYOND USA HD
+http://195.181.162.102:7283/SHOWTIME-BEYOND-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=61133aecb8a602dba6fcc6ed7d737e735de8b00e
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME EXTREME USA HD
+http://195.181.162.102:7283/SHOWTIME-EXTREME-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3a553975515df2adae616e9c7868990d924b90d5
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME USA HD
+http://195.181.162.102:7283/SHOWTIME-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=999bbbafce0469a26646226ed44b8cb4734aaaf1
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SMITHSONIAN CHANNELS HD
+http://195.181.162.102:7283/SMITHSONIAN-CHANNELS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1aa8409c4833b9617902fc3143ff28176b6cb451
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Sports Chicago
+http://195.181.162.102:7283/Sports-Chicago/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c2ceaad159588479651d434d160cc81aa5d3cb25
+#EXTINF:0 tvg-id="ext" group-title="US Channels",STARZ BLACK USA HD
+http://195.181.162.102:7283/STARZ-BLACK-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3d6b1d3bf6fc762c21983ef13159d0544dd609a9
+#EXTINF:0 tvg-id="ext" group-title="US Channels",STARZ CINEMA USA HD
+http://195.181.162.102:7283/STARZ-CINEMA-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4accb886c37c1badb61c5977ab6a59d49d603c77
+#EXTINF:0 tvg-id="ext" group-title="US Channels",STARZ USA HD
+http://195.181.162.102:7283/STARZ-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d24f71a0e14acc024ae064eca56faa2448b96fce
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="US Channels",SYFY US HD
+http://195.181.162.102:7283/SYFY-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8ac1a69531e3b907ecabc270b2098767b2ba9527
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TBS US HD
+http://195.181.162.102:7283/TBS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8cb332bfb6adcb3b3ced188e1d53053022ae4ff7
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO 62 PHILADELFIA HD
+http://195.181.162.102:7283/TELEMUNDO-62-PHILADELFIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=55db0f6f6f1042f5babb3c1314418f71b90ceed8
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO BOSTON HD
+http://195.181.162.102:7283/TELEMUNDO-BOSTON-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=aa1a602a84ee14c423f70e5dcb33fb9035a5551f
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO DALLAS US HD
+http://195.181.162.102:7283/TELEMUNDO-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dc7ded71cfd5b383db1bf1eaa3cb101f882f732d
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO HOUSTON HD
+http://195.181.162.102:7283/TELEMUNDO-HOUSTON-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=29c18d093829961021ecff8c86567a2d696e948f
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO INTERNACIONAL HD
+http://195.181.162.102:7283/TELEMUNDO-INTERNACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a8734bcee3af722f909b29905ab7561b128bb866
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Telemundo Los Angeles HD
+http://195.181.162.102:7283/Telemundo-Los-Angeles-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b0f5d6dc631ef3f9b5511129f7238f01fc692af6
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO MIAMI HD
+http://195.181.162.102:7283/TELEMUNDO-MIAMI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b34da3b51bea9b5fd994bb5d8a8dfce53b1b08d7
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO NY USA HD
+http://195.181.162.102:7283/TELEMUNDO-NY-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8a1b89c6a84a72e9e819958fbc151002c7f7402d
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO PHOENIX ARIZONA HD
+http://195.181.162.102:7283/TELEMUNDO-PHOENIX-ARIZONA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47a45cd8501ebcb750044d0af66ac06a716a3e00
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO TAMPA HD
+http://195.181.162.102:7283/TELEMUNDO-TAMPA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e82796fa18eccba4430fe8f383defd3a22b3f0d1
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Telemundo USA 1 HD
+http://195.181.162.102:7283/Telemundo-USA-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5ecdc80ed7d92b08392aa2904d4202828a64a508
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Telemundo USA 2 HD
+http://195.181.162.102:7283/Telemundo-USA-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=937a7a2f7c9fc72d61d8bf0baeea669ce553b5da
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO USA HD
+http://195.181.162.102:7283/TELEMUNDO-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=80970138abd6777640ff4e9d5dc61ea9a08a0b5f
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TLC US HD
+http://195.181.162.102:7283/TLC-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e5b8d068cd1402cdff0c101f8707b463a905c76d
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TNT USA 2 FHD
+http://195.181.162.102:7283/TNT-USA-2-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6c682c4a5c622b53c040645de3cef65369c16322
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TNT USA HD
+http://195.181.162.102:7283/TNT-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47cca992beda7dba350e956be50f22581458e9f1
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Unimas Los Angeles HD
+http://195.181.162.102:7283/Unimas-Los-Angeles-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ec1e36bb04f5881f4b4cc2fd31f3136249fbc827
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIMAS SALT LAKE HD
+http://195.181.162.102:7283/UNIMAS-SALT-LAKE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5f7892260e505ab4bf80f7ac3b272e70ccc3f452
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVERSAL KIDS HD
+http://195.181.162.102:7283/UNIVERSAL-KIDS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=22843d96b086c2de639217651a21e492683d3a32
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION 23 MIAMI HD
+http://195.181.162.102:7283/UNIVISION-23-MIAMI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c400676acb64e1962b99fd63cb54e446ce233e78
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION 41 NEW YORK HD
+http://195.181.162.102:7283/UNIVISION-41-NEW-YORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=553ea8c57fc3f405a4db8b66308b999bbb51e71c
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION DALLAS US HD
+http://195.181.162.102:7283/UNIVISION-DALLAS-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c8472a3ccc2a4f5090dcb5a1d3df89144ec8609d
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Univision Los Angeles HD
+http://195.181.162.102:7283/Univision-Los-Angeles-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5ade7c5939a4e070b9ba0edeb9d43152fb4c9152
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION SALT LAKE HD
+http://195.181.162.102:7283/UNIVISION-SALT-LAKE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e98c8bd9274f86b8997fb70a8004bb9391313519
+#EXTINF:0 tvg-id="USANetwork.us" group-title="US Channels",USA NETWORK HD
+http://195.181.162.102:7283/USA-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a0a04c83290fb1be8e6e83a7c7e93ba3637ab27a
+#EXTINF:0 tvg-id="ext" group-title="US Channels",VELOCITY USA HD
+http://195.181.162.102:7283/VELOCITY-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ae1e9665445ace37703cef566b5b28aadcf3152c
+#EXTINF:0 tvg-id="VH1.us" group-title="US Channels",VH1 US HD
+http://195.181.162.102:7283/VH1-US-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=168a16a79432e9792a0c589bcf373b40e5ee8f40
+#EXTINF:0 tvg-id="ext" group-title="US Channels",YES NETWORK USA HD
+http://195.181.162.102:7283/YES-NETWORK-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=62263e6d8c07a393763ffaf7883cd4b66d63ef31
+
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="HD+(265)",CDF HD
+http://195.181.162.102:7283/HY-692/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63cd90cda01a3ff441aa5962a951f7a3e0f11ad4
+#EXTINF:0 tvg-id="Discovery.uk" group-title="HD+(265)",Discovery HD+
+http://195.181.162.102:7283/HY-710/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7078490cb9a490368acf536840301ef2271b8a3f
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="HD+(265)",ESPN 2 HD+
+http://195.181.162.102:7283/HY-726/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7fcb3947bbbe72c621aeb5e6d8341ca3516da97
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",ESPN 3 Central HD+
+http://195.181.162.102:7283/HY-729/index.m3u8?un=edgarcastillo&tm=1607919849&sn=911b1f159e41b18616e836655f16c214272342e5
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="HD+(265)",ESPN 3 HD+
+http://195.181.162.102:7283/HY-728/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9076f63cc0d660a4c9290085f589415fab04e2b1
+#EXTINF:0 tvg-id="ESPN.uk" group-title="HD+(265)",ESPN HD+
+http://195.181.162.102:7283/HY-733/index.m3u8?un=edgarcastillo&tm=1607919849&sn=17134e9211f2b38aa717ff168ce9fd3a3d161a69
+#EXTINF:0 tvg-id="FX.uk" group-title="HD+(265)",Fox HD+
+http://195.181.162.102:7283/HY-740/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9bc48f5681515e652b6fd72298a8ac12a3678846
+#EXTINF:0 tvg-id="fox-life" group-title="HD+(265)",Fox Life HD+
+http://195.181.162.102:7283/HY-743/index.m3u8?un=edgarcastillo&tm=1607919849&sn=de26d5ac06e6cfffcf1723140863daee0f2f0304
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="HD+(265)",Fox Sports 2 HD+
+http://195.181.162.102:7283/HY-756/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4096b32f5094a7340410c2b98e9aee9d800d7212
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="HD+(265)",Fox Sports HD+
+http://195.181.162.102:7283/HY-762/index.m3u8?un=edgarcastillo&tm=1607919849&sn=235605fc6a7bcc6cbda290b84a745d60d5fcc96e
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",Fox Sports Premium Arg HD+
+http://195.181.162.102:7283/HY-765/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7e9a0853d1f7b00cf14afa8a19d4b662a8db78e
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="HD+(265)",HBO HD+
+http://195.181.162.102:7283/HY-784/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c79890591701c7230102fd2d69bb165443dc3f59
+#EXTINF:0 tvg-id="History.uk" group-title="HD+(265)",History HD+
+http://195.181.162.102:7283/HY-788/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2b5f88c0de8cbd401aa939ed10b3af9f2b5d99d
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="HD+(265)",Nat Geo HD+
+http://195.181.162.102:7283/HY-805/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5062b05a6c62872d14f4db04cbef5f0d4a9b71cd
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="HD+(265)",Nat Geo Wild HD+
+http://195.181.162.102:7283/HY-807/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8be15fdbf6645dbd87cd76ada944f09ac28fc9d5
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",TNT Sports Arg HD+
+http://195.181.162.102:7283/HY-1334/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be6776e92a72d9a174d51ff4c9e04fcbd8507025
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="HD+(265)",Warner HD+
+http://195.181.162.102:7283/HY-1354/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fcf2d4f3e19d1d6d7fb0b4ebd44886c5ced771b6
+
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Cultura",ANIMAL PLANET FHD
+http://195.181.162.102:7283/ANIMAL-PLANET-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=37322b1135657af8c15222f0b57f2852f89131b6
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Cultura",ANIMAL PLANET HD
+http://195.181.162.102:7283/HY-650/index.m3u8?un=edgarcastillo&tm=1607919849&sn=27c41495285c24bb7deb6ae0d04ffa3b871a0658
+#EXTINF:0 tvg-id="ext" group-title="Cultura",ANTENA 3 INTERNACIONAL HD
+http://195.181.162.102:7283/ANTENA-3-INTERNACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d97ffe28df06fc117703c9c932f4dc4791d02698
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Cultura",BLAZE HD
+http://195.181.162.102:7283/BLAZE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=38c073d479ab924d3d6abab52e95d7da47482e27
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Canal Caza & Pezca HD
+http://195.181.162.102:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f7621f555754c5272fe43a3155d01828c342148
+#EXTINF:0 tvg-id="ext" group-title="Cultura",CRIMEN INVESTIGACION HD
+http://195.181.162.102:7283/CRIMEN-INVESTIGACION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=785791b87c19e17d050021253127f51926c05a1c
+#EXTINF:0 tvg-id="ext" group-title="Cultura",DISCOVERY CHANNEL ESPAÑA HD
+http://195.181.162.102:7283/DISCOVERY-CHANNEL-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=685e2fe73bfaa20953a1ee0dc32cae9f9b14f682
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Cultura",DISCOVERY FAMILY
+http://195.181.162.102:7283/DISCOVERY-FAMILY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d6fa1d042158e6468fae329b411d4cbe31f6b011
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Cultura",Discovery H&H
+http://195.181.162.102:7283/DISCOVERY-HH/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e43f9cb89672babd02154859c9b479cbe3fb7709
+#EXTINF:0 tvg-id="ext" group-title="Cultura",DISCOVERY H&H FHD
+http://195.181.162.102:7283/DISCOVERY-H-H-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fdb792ab42786cf200d2aa2a49e772d99962f281
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Cultura",Discovery HD
+http://195.181.162.102:7283/HY-709/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fc5dd26789aeb0d5acdf2ca2958f175ef6fbe997
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Cultura",Discovery HD+
+http://195.181.162.102:7283/HY-710/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7078490cb9a490368acf536840301ef2271b8a3f
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Home Health HD
+http://195.181.162.102:7283/Discovery-Home-Health-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=df1d124261adc07dd6b6da1c86fa3508b0d26872
+#EXTINF:0 tvg-id="InvestigationDiscoveryHD.us" group-title="Cultura",Discovery ID HD
+http://195.181.162.102:7283/HY-712/index.m3u8?un=edgarcastillo&tm=1607919849&sn=791ab435bd537ca33e843701920c260782425292
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Max HD
+http://195.181.162.102:7283/Discovery-Max-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=50125cd74c15b8c1aadcd2531e06b9e5e0830ef0
+#EXTINF:0 tvg-id="discov_sci" group-title="Cultura",DISCOVERY SCIENSE
+http://195.181.162.102:7283/DISCOVERY-SCIENSE/index.m3u8?un=edgarcastillo&tm=1607919849&sn=596e3bb528223b1323dd7920cef8fe8d8c2471d9
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Cultura",DISCOVERY THEATER FHD
+http://195.181.162.102:7283/DISCOVERY-THEATER-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=62624d7fa38cb6d6ceb719838b143e6bb877ee0d
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Cultura",Discovery Theater HD
+http://195.181.162.102:7283/HY-714/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b6d8baf9b75e85b6b43864c2e3943d246dbea2e4
+#EXTINF:0 tvg-id="tlc-russia" group-title="Cultura",Discovery TLC HD
+http://195.181.162.102:7283/Discovery-TLC-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=55f1dad5c18ceec95db1038efa6288f4a4845304
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Cultura",DISCOVERY TURBO FHD
+http://195.181.162.102:7283/DISCOVERY-TURBO-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7273864a5600afa8e8945df837a55bb9b3cdc8db
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Cultura",Discovery Turbo HD
+http://195.181.162.102:7283/HY-715/index.m3u8?un=edgarcastillo&tm=1607919849&sn=930fdcbb4748152e4fcaa6a7f1e7ebed602ce750
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Cultura",Discovery World HD
+http://195.181.162.102:7283/HY-716/index.m3u8?un=edgarcastillo&tm=1607919849&sn=046daca58fe2685418bf0d05ad5d20881d348f56
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Cultura",Discovery World HD+
+http://195.181.162.102:7283/HY-717/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ad0152c7a066dc451b8284f6d657fedb5dbb046e
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Cultura",DISCOVERY CIVILIZATION
+http://195.181.162.102:7283/DISCOVERY-CIVILIZATION/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9c93f11b29a2f42d3d6ec9ff06547d5c711517fe
+#EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="Cultura",El Gourmet HD
+http://195.181.162.102:7283/HY-722/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0d49e5b292a7205564251b380cfd29e88e8bb342
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Cultura",FOOD NETWORK
+http://195.181.162.102:7283/FOOD-NETWORK/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a7ee868d5f4a74cd1fc476156fbe819e0536709b
+#EXTINF:0 tvg-id="ext" group-title="Cultura",GLITZ HD
+http://195.181.162.102:7283/GLITZ-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8ec40c32075b0cf30db2889ca341cfdc4148303b
+#EXTINF:0 tvg-id="Globosp.br" group-title="Cultura",Globo SP HD
+http://195.181.162.102:7283/HY-771/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e0a9ba01885a54628e0aaa592c5f6e406f99fcde
+#EXTINF:0 tvg-id="ext" group-title="Cultura",GOURMET FHD
+http://195.181.162.102:7283/GOURMET-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=80c658e2766c0e89176a6f45b0c996e05d58a8dd
+#EXTINF:0 tvg-id="H2.uk" group-title="Cultura",H2 HD
+http://195.181.162.102:7283/HY-780/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91cb645d993d8ffb2713e1351195a1a7ca0e8496
+#EXTINF:0 tvg-id="ext" group-title="Cultura",HGTV ESPAÑOL HD
+http://195.181.162.102:7283/HGTV-ESPANOL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=70390da8ed93502f62d1f61647f0bee88e07b26d
+#EXTINF:0 tvg-id="ext" group-title="Cultura",History Central HD
+http://195.181.162.102:7283/HY-789/index.m3u8?un=edgarcastillo&tm=1607919849&sn=41b67277999705a8e10120754bf993323733d588
+#EXTINF:0 tvg-id="History.uk" group-title="Cultura",History HD
+http://195.181.162.102:7283/HY-787/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3f620aafa6ad02f0615fe8a56e76a1e6457fbb6d
+#EXTINF:0 tvg-id="History.uk" group-title="Cultura",History HD+
+http://195.181.162.102:7283/HY-788/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2b5f88c0de8cbd401aa939ed10b3af9f2b5d99d
+#EXTINF:0 tvg-id="ext" group-title="Cultura",HISTORY USA ESP HD
+http://195.181.162.102:7283/HISTORY-USA-ESP-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2a8c9bd6d65644f45e6c9930e381d705f67f1fe
+#EXTINF:0 tvg-id="ext" group-title="Cultura",LA 2 HD
+http://195.181.162.102:7283/LA2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dbe125d10dcfac5aa5d06f0a8612c8de7533a3ff
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Cultura",LIFE TIME
+http://195.181.162.102:7283/LIFE-TIME/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b8263572ab42795fb775688054e9ba33a117de9f
+#EXTINF:0 tvg-id="ext" group-title="Cultura",MAS CHIC HD
+http://195.181.162.102:7283/MAS-CHIC-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d977491570bfaf1f9b48bfbb2a3476dc25cff02e
+#EXTINF:0 tvg-id="ext" group-title="Cultura",NAT GEO ESPAÑA HD
+http://195.181.162.102:7283/NAT-GEO-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4cba847e9aa9d1b58307f1652cb270716ebc1c75
+#EXTINF:0 tvg-id="NGCHD.uk" group-title="Cultura",Nat Geo HD
+http://195.181.162.102:7283/HY-804/index.m3u8?un=edgarcastillo&tm=1607919849&sn=edb5c6e8a87b3c71ed59d09c7e159bf8410b04d5
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Cultura",Nat Geo HD+
+http://195.181.162.102:7283/HY-805/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5062b05a6c62872d14f4db04cbef5f0d4a9b71cd
+#EXTINF:0 tvg-id="ext" group-title="Cultura",NAT GEO MUNDO HD
+http://195.181.162.102:7283/NATGEO-MUNDO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0cc8ec06648c6ec2b097cdf1a8a94af937b5c213
+#EXTINF:0 tvg-id="ext" group-title="Cultura",NAT GEO WILD ESPAÑA HD
+http://195.181.162.102:7283/NAT-GEO-WILD-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=25edd7af914766bfb96a7d5b6866fd5c4d96f72e
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Cultura",Nat Geo Wild HD
+http://195.181.162.102:7283/HY-806/index.m3u8?un=edgarcastillo&tm=1607919849&sn=84f99d166fff71ba34cd51884aa3fb364e178d7d
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="Cultura",Nat Geo Wild HD+
+http://195.181.162.102:7283/HY-807/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8be15fdbf6645dbd87cd76ada944f09ac28fc9d5
+#EXTINF:0 tvg-id="Odisea.sp" group-title="Cultura",ODISEA HD
+http://195.181.162.102:7283/DARK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3c513ffffcf2f6e04b1c8943fdf9f35ba4c1cb65
+#EXTINF:0 tvg-id="ext" group-title="Cultura",TLC Discovery HD
+http://195.181.162.102:7283/HY-1329/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8444600f2e5e2036cf82f89f9919e43e94e795b7
+#EXTINF:0 tvg-id="Viajar.sp" group-title="Cultura",Viajar HD
+http://195.181.162.102:7283/VIAJAR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1c19008c386b9137e4e984b4fc8674b3139ac0e6
+#EXTINF:0 tvg-id="ext" group-title="Cultura",World Fishing HD
+http://195.181.162.102:7283/HY-1340/index.m3u8?un=edgarcastillo&tm=1607919849&sn=16d2a8f36398150a03fcc5559b4966203a322f7e
+
+#EXTINF:0 tvg-id="ext" group-title="Música",BANDAMAX HD
+http://195.181.162.102:7283/BANDAMAX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f80db6e8ded27296afda69871d64374f5ed811b7
+#EXTINF:0 tvg-id="ext" group-title="Música",CANTINAZO HD
+http://195.181.162.102:7283/CANTINAZO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c052f9afad48122d41b54f7436c3c59ac7cc059
+#EXTINF:0 tvg-id="ext" group-title="Música",CONCERT CHANNELS HD
+http://195.181.162.102:7283/CONCERT-CHANNELS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=635b8f9aa2248e491b25787656d46bcbcc063d89
+#EXTINF:0 tvg-id="ext" group-title="Música",HTV LATINO HD
+http://195.181.162.102:7283/HTV-LATINO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c870c6ec6274fd0a06e629c05ab7c68a6876d82
+#EXTINF:0 tvg-id="ext" group-title="Música",LA CALLE HD
+http://195.181.162.102:7283/LA-KALLE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ccd2d26da5650b4672cd6751ad41d391d997aa45
+#EXTINF:0 tvg-id="MTV.uk" group-title="Música",MTV HD
+http://195.181.162.102:7283/HY-802/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9d61c3082f953737366e84facc24c916c72f7a8c
+#EXTINF:0 tvg-id="MTVLiveHD.eu" group-title="Música",MTV live HD
+http://195.181.162.102:7283/HY-803/index.m3u8?un=edgarcastillo&tm=1607919849&sn=058a450be341407503e289ae79ba862ce1b2ccca
+#EXTINF:0 tvg-id="ext" group-title="Música",RETRO TV HD
+http://195.181.162.102:7283/RETRO-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ef36f65c0539ff63d1e3a9461a62e85d9ccb3c34
+#EXTINF:0 tvg-id="TelehitHD.mx" group-title="Música",Telehit HD
+http://195.181.162.102:7283/HY-945/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5330e7a21841085cd36f823011972f71c4d36bcb
+#EXTINF:0 tvg-id="ext" group-title="Música",TELEHIT PLUS HD
+http://195.181.162.102:7283/TELEHIT-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=266a12257f4505804ff2a8539577bf1e2a772706
+#EXTINF:0 tvg-id="ext" group-title="Música",TROPICAL HD
+http://195.181.162.102:7283/TROPICAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5eb751de98781332be3df0723b4902ea8ced8a66
+#EXTINF:0 tvg-id="ext" group-title="Música",VH1 CLASSICS HD
+http://195.181.162.102:7283/VH1-CLASSICS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=21b15283654cdd91f88f86e210b4d95df330cc4e
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Música",VH1 HD
+http://195.181.162.102:7283/VH1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=634975efb3505a02df49fb70cfa45e3ba67b02f0
+#EXTINF:0 tvg-id="VH1Megahits.ar" group-title="Música",VH1 MegaHits SD
+http://195.181.162.102:7283/VH1-MegaHits-SD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9785e8b73c7a4c4884368b91f4bfa87f4d1f8b63
+
+#EXTINF:0 tvg-id="ext" group-title="Chile",Canal 13 Cable HD
+http://195.181.162.102:7283/Canal-13-Cable-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b4bd50c67c9c452b4f8d686b96657478d0a39557
+#EXTINF:0 tvg-id="ext" group-title="Chile",Canal 13 Chile HD
+http://195.181.162.102:7283/HY-668/index.m3u8?un=edgarcastillo&tm=1607919849&sn=46186592c817f352dcfdec0bde37f620d2eff533
+#EXTINF:0 tvg-id="ext" group-title="Chile",Canal 24 Horas HD
+http://195.181.162.102:7283/HY-670/index.m3u8?un=edgarcastillo&tm=1607919849&sn=96fe0e7d83655422a3c12bbf4e70b8b67f432bfa
+#EXTINF:0 tvg-id="ext" group-title="Chile",CDF ESTADIO HD
+http://195.181.162.102:7283/HIPODROMO-PRESIDENTE-REMON-PAN/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2489ea2ebdb1cde63fec896fc4c030cf8581b25a
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Chile",CDF HD
+http://195.181.162.102:7283/HY-692/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63cd90cda01a3ff441aa5962a951f7a3e0f11ad4
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Chile",CDF HD+
+http://195.181.162.102:7283/HY-693/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c05099005fb3252a3ee6c299525ebc6959f101ec
+#EXTINF:0 tvg-id="ext" group-title="Chile",CDO BASICO HD
+http://195.181.162.102:7283/CDO-BASICO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=34c144b38382eec53ea4e57b80a1b2de4d3e3b9f
+#EXTINF:0 tvg-id="ext" group-title="Chile",CDO PREMIUM HD
+http://195.181.162.102:7283/CDO-PREMIUM-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=254e2a0ccd4100a49a98b25659f6599d73fe3c35
+#EXTINF:0 tvg-id="Chilevision.cl" group-title="Chile",CHV HD
+http://195.181.162.102:7283/HY-694/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dc47ec592329599b89953e283a44e69e65e89f92
+#EXTINF:0 tvg-id="ext" group-title="Chile",CNN Chile HD
+http://195.181.162.102:7283/HY-698/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a996b37515f28195751a5f07024638e24fa6ecee
+#EXTINF:0 tvg-id="ext" group-title="Chile",ESPN 2 CHILE HD
+http://195.181.162.102:7283/ESPN2-CHILE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=49283812b99f8f48d0f0f03b658cab0cbb1706db
+#EXTINF:0 tvg-id="ext" group-title="Chile",Fox Sports 1 Chile HD
+http://195.181.162.102:7283/HY-754/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3681a4e5d7fbeff716d8defc885ce9de89601ced
+#EXTINF:0 tvg-id="Lared.cl" group-title="Chile",La Red HD
+http://195.181.162.102:7283/HY-792/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be2219fccd10bcb6b54146f07ae2b5e63181b7ce
+#EXTINF:0 tvg-id="stb" group-title="Chile",Mega HD
+http://195.181.162.102:7283/MEGA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7e47d601531d424b32115c1ab2bce25ee40efaf5
+#EXTINF:0 tvg-id="ext" group-title="Chile",REC TV 13 HD
+http://195.181.162.102:7283/REC-TV-13-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5f874412cabd0269c535cddc492fe225723619d4
+#EXTINF:0 tvg-id="TeletrakHD.cl" group-title="Chile",TELETRAK HD
+http://195.181.162.102:7283/TELETRAK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a86fffe5ec42a83b1319033e7c8edfa61883f5bd
+#EXTINF:0 tvg-id="ext" group-title="Chile",TV+  HD
+http://195.181.162.102:7283/TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=afe991d3f04b91b183ab8196d106555e25a67461
+#EXTINF:0 tvg-id="TVN.pl" group-title="Chile",TVN HD
+http://195.181.162.102:7283/HY-1339/index.m3u8?un=edgarcastillo&tm=1607919849&sn=af1ea0cb5a2c1fb244ceac5fe8d96f91030a33f2
+
+#EXTINF:0 tvg-id="ext" group-title="España",#VAMOS HD
+http://195.181.162.102:7283/VAMOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c8c357a3d1b005e9a54bdf7424733de3c1491f4
+#EXTINF:0 tvg-id="24HorasHD.cl" group-title="España",24 HORAS HD
+http://195.181.162.102:7283/24-HORAS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dc4aa12d2cd04b9c6187b8f908aeeda0754a9653
+#EXTINF:0 tvg-id="ext" group-title="España",A3S Series HD
+http://195.181.162.102:7283/HY-643/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a7f4f7a41c40dbef30aa1e593ce410f6a443b935
+#EXTINF:0 tvg-id="ext" group-title="España",ANTENA 3 INTERNACIONAL HD
+http://195.181.162.102:7283/ANTENA-3-INTERNACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d97ffe28df06fc117703c9c932f4dc4791d02698
+#EXTINF:0 tvg-id="ext" group-title="España",AXN ESPAÑA HD
+http://195.181.162.102:7283/AXN-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ba78cf59e5d076b217b4fc5bc556f5e6adcd27c0
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="España",AXN WHITE HD
+http://195.181.162.102:7283/AXN-WHITE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c223c9a8deb2eafc22536667e7a4def746774fcd
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="España",BEIN SPORT LA LIGA FHD
+http://195.181.162.102:7283/BEIN-SPORT-LALIGA-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4a1d5cb92236bccb8798b3fc2c5a52ddc7714f48
+#EXTINF:0 tvg-id="ext" group-title="España",BeMad HD
+http://195.181.162.102:7283/BeMad-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7d2200866f7f5d571bb0cb5cc51983bfff8aecd9
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="España",BLAZE HD
+http://195.181.162.102:7283/BLAZE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=38c073d479ab924d3d6abab52e95d7da47482e27
+#EXTINF:0 tvg-id="ext" group-title="España",BOING TV HD
+http://195.181.162.102:7283/BOING-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a6718d99d9b987e17341f54ed15f42a63e7e3023
+#EXTINF:0 tvg-id="ext" group-title="España",Canal Caza & Pezca HD
+http://195.181.162.102:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f7621f555754c5272fe43a3155d01828c342148
+#EXTINF:0 tvg-id="ext" group-title="España",CANAL GOL HD
+http://195.181.162.102:7283/CANAL-GOL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=38402182836c8e34aefbf7eecd9b9883261d472d
+#EXTINF:0 tvg-id="ext" group-title="España",CRIMEN INVESTIGACION HD
+http://195.181.162.102:7283/CRIMEN-INVESTIGACION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=785791b87c19e17d050021253127f51926c05a1c
+#EXTINF:0 tvg-id="Cuatro.sp" group-title="España",Cuatro HD
+http://195.181.162.102:7283/Cuatro-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=13dc16cf1fd0aa399a75f2b0a93052ce99c755f0
+#EXTINF:0 tvg-id="ext" group-title="España",DISCOVERY CHANNEL ESPAÑA HD
+http://195.181.162.102:7283/DISCOVERY-CHANNEL-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=685e2fe73bfaa20953a1ee0dc32cae9f9b14f682
+#EXTINF:0 tvg-id="ext" group-title="España",Discovery Max HD
+http://195.181.162.102:7283/Discovery-Max-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=50125cd74c15b8c1aadcd2531e06b9e5e0830ef0
+#EXTINF:0 tvg-id="ext" group-title="España",Divinity HD
+http://195.181.162.102:7283/Divinity-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=757f4d30b5b3645f6d1e00ded84ba2d2a765c145
+#EXTINF:0 tvg-id="ext" group-title="España",Energy HD
+http://195.181.162.102:7283/Energy-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9d58935f59e84f2eb22f7c6ade365e9e4ddcaf1d
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="España",Eurosport 1 HD
+http://195.181.162.102:7283/Eurosport-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2fb6c53723de354771ee473b5e166753e5fd0610
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="España",Eurosport 2 HD
+http://195.181.162.102:7283/Eurosport-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2d38938b2070a64049f7e3605207c70a83d7e2c
+#EXTINF:0 tvg-id="ext" group-title="España",FDF ESPAÑA HD
+http://195.181.162.102:7283/FDF-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d9f20f62173dd484ab00bb282214ab4e1f219f0e
+#EXTINF:0 tvg-id="ext" group-title="España",FOX ESP HD
+http://195.181.162.102:7283/FOX-ESP-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=684bc0827678544bff1bca3524fa477fc8b974be
+#EXTINF:0 tvg-id="hollywood-hd" group-title="España",HOLLYWOOD HD
+http://195.181.162.102:7283/HOLLYWOOD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cd17598fd4918317dd173435641019093b38bf92
+#EXTINF:0 tvg-id="LA1.es" group-title="España",LA 1 HD
+http://195.181.162.102:7283/LA1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9a16801a9a7ec32f47bd1b493813a747b64fee93
+#EXTINF:0 tvg-id="ext" group-title="España",LA 2 HD
+http://195.181.162.102:7283/LA2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dbe125d10dcfac5aa5d06f0a8612c8de7533a3ff
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="España",LA SEXTA HD
+http://195.181.162.102:7283/LA-SEXTA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=62f9c4614e87b9b55e2832bddb689c0062544108
+#EXTINF:0 tvg-id="ext" group-title="España",Mega ESP HD
+http://195.181.162.102:7283/MEGA-ESP-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=54da183937900efa94c1e1ba107fde70b3a1d79d
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="España",MOVISTAR ACCION HD
+http://195.181.162.102:7283/MOVISTAR-ACCION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0d5be87b3a21b803f4804159ee82793cc156a157
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="España",MOVISTAR COMEDIA HD
+http://195.181.162.102:7283/MOVISTAR-COMEDIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5427e4ea40b40b57f7905e73899b8ebb8f9ab6c5
+#EXTINF:0 tvg-id="ext" group-title="España",MOVISTAR DEPORTES SPAIN HD
+http://195.181.162.102:7283/MOVISTAR-DEPORTES-SPAIN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0ece63ef5453f1b1b764759ac300358bee1e682a
+#EXTINF:0 tvg-id="ext" group-title="España",MOVISTAR DRAMA HD
+http://195.181.162.102:7283/MOVISTAR-DRAMA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cbf94d157ca1914fe3abaddff2c3dd8e92d54114
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="España",MOVISTAR ESTRENOS HD
+http://195.181.162.102:7283/MOVISTAR-ESTRENOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a78989097d80c44e713a3b6f93fdde3c6b98b399
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="España",MOVISTAR F1 HD
+http://195.181.162.102:7283/MOVISTAR-FORMULA-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a0b82afb82f86288f21f31dfc759f92afd8e0238
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="España",MOVISTAR SERIES HD
+http://195.181.162.102:7283/MOVISTAR-SERIES-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=30b8020bd794a52d980e9d5c9152ecdfbcbfb34a
+#EXTINF:0 tvg-id="ext" group-title="España",MOVISTAR SERIESMANIA HD
+http://195.181.162.102:7283/MOVISTAR-SERIESMANIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1cb75de0281db1f8b9d1f0c01d45a5d936788218
+#EXTINF:0 tvg-id="ext" group-title="España",NAT GEO ESPAÑA HD
+http://195.181.162.102:7283/NAT-GEO-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4cba847e9aa9d1b58307f1652cb270716ebc1c75
+#EXTINF:0 tvg-id="ext" group-title="España",NAT GEO WILD ESPAÑA HD
+http://195.181.162.102:7283/NAT-GEO-WILD-ESPANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=25edd7af914766bfb96a7d5b6866fd5c4d96f72e
+#EXTINF:0 tvg-id="Neox.sp" group-title="España",NEOX HD
+http://195.181.162.102:7283/NEOX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5fceb8d04f0a9bf3c058015aa1385e4508da9121
+#EXTINF:0 tvg-id="NovaTV.cz" group-title="España",NOVA HD
+http://195.181.162.102:7283/NOVA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a8b1f4d9998a4297280ad5803a7f47cd932aa01a
+#EXTINF:0 tvg-id="Odisea.sp" group-title="España",ODISEA HD
+http://195.181.162.102:7283/DARK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3c513ffffcf2f6e04b1c8943fdf9f35ba4c1cb65
+#EXTINF:0 tvg-id="Telecinco.sp" group-title="España",TELECINCO HD
+http://195.181.162.102:7283/TELECINCO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=004813830f535721283952ce1c505f853b906746
+#EXTINF:0 tvg-id="ext" group-title="España",TVE INTERNACIONAL HD
+http://195.181.162.102:7283/TVE-INTERNACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=001c725ea7d84ecb5e0d7ec2057685456bf62815
+#EXTINF:0 tvg-id="Viajar.sp" group-title="España",Viajar HD
+http://195.181.162.102:7283/VIAJAR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1c19008c386b9137e4e984b4fc8674b3139ac0e6
+
+#EXTINF:0 tvg-id="ext" group-title="Panamá",CABLE ONDA SPORTS FC PAN HD
+http://195.181.162.102:7283/CABLE-ONDA-SPORTS-FC-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3b9d2c739607dbf53ce5a76140d2d358bf87e5fa
+#EXTINF:0 tvg-id="ext" group-title="Panamá",CABLE ONDA SPORTS PAN HD
+http://195.181.162.102:7283/CABLE-ONDA-SPORTS-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dccc7982d1e9cc70372cda7f7c6b140d4e83824d
+#EXTINF:0 tvg-id="ext" group-title="Panamá",ECO TV HD
+http://195.181.162.102:7283/ECO-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2ca880f7bb3fa7a8125c9b3bc375d550ef4c44be
+#EXTINF:0 tvg-id="ext" group-title="Panamá",HOSSANA VISION HD
+http://195.181.162.102:7283/HOSSANA-VISION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2ee98ea0e419202fa5985adf3a11ccde4a192e71
+#EXTINF:0 tvg-id="ext" group-title="Panamá",Nex TV HD
+http://195.181.162.102:7283/Nex-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4ee3ed7590bc1e29b61b51f03768fc388e160032
+#EXTINF:0 tvg-id="ext" group-title="Panamá",RPC 4 PAN HD
+http://195.181.162.102:7283/RPC-4-PAN-SD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1adbd3cde78dcc50a451daca02e7be38a435012f
+#EXTINF:0 tvg-id="ext" group-title="Panamá",SERTV PAN HD
+http://195.181.162.102:7283/SERTV-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fd18ded81960ace187f6d9d3960b756345d38fb7
+#EXTINF:0 tvg-id="ext" group-title="Panamá",TELEMETRO PAN HD
+http://195.181.162.102:7283/TELEMETRO-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a6a9cad69e31311c8e6a868a46e3005de55c4df0
+#EXTINF:0 tvg-id="ext" group-title="Panamá",TV MAX PAN FHD
+http://195.181.162.102:7283/TVMAX-PAN-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=64151632139da4e40fbdf1346c8675f4b8a8a2e9
+#EXTINF:0 tvg-id="ext" group-title="Panamá",TVN 2 PAN 2 HD
+http://195.181.162.102:7283/TVN-2-PAN-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=840aac4b3be6f576185d923ca2965119d2d1f844
+
+#EXTINF:0 tvg-id="Mega.cl" group-title="Puerto Rico",MEGA TV HD
+http://195.181.162.102:7283/MEGA-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3559deb5b6beee4f513f88ac1c8991d74426d9e4
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",PUNTO 2 PR HD
+http://195.181.162.102:7283/PUNTO-2-PR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3d391cc4d51cfcc940a02d9879783724b09dfdc0
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",TELEMUNDO PR HD
+http://195.181.162.102:7283/TELEMUNDO-PR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=46225f1e9fbd21540bdfc5a4c45bf5fd81186de2
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",UNIVISION PR HD
+http://195.181.162.102:7283/UNIVISION-PR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=134333ea9f53cc7445915dd0369e5b47af10745f
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",WAPA 2 PR HD
+http://195.181.162.102:7283/WAPA-2-PR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=28b82d021f501674214853717a1e0cfee68c11b2
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",WAPA PR HD
+http://195.181.162.102:7283/WAPA-PR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=454013830b69f61eaa894a109978571267aab144
+
+#EXTINF:0 tvg-id="AMC.uk" group-title="Full HD",AMC FHD
+http://195.181.162.102:7283/AMC-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca220ab0cc9f29fd24be1244ea67c5d799d5791c
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Full HD",ANIMAL PLANET FHD
+http://195.181.162.102:7283/ANIMAL-PLANET-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=37322b1135657af8c15222f0b57f2852f89131b6
+#EXTINF:0 tvg-id="AzClicHD.cl" group-title="Full HD",AZ CINEMA FHD
+http://195.181.162.102:7283/AZ-CINEMA-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=db3db4df94f4d57f2778a4e152cece29c23f8822
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Full HD",CARACOL FHD
+http://195.181.162.102:7283/CARACOL-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=090e668287bfc941e1f2704f0f74311b91fccc5d
+#EXTINF:0 tvg-id="ext" group-title="Full HD",CARACOL INTERNACIONAL FHD
+http://195.181.162.102:7283/CARACOL-INTERNACIONAL-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ec6006747ffcdce86d46b2c4dea482d59c7b7bd1
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Full HD",CINEMAX FHD
+http://195.181.162.102:7283/CINEMAX-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ef972d3c076ba3209f0aa1652c5efd445df188b1
+#EXTINF:0 tvg-id="ext" group-title="Full HD",COMBATE BR 4K
+http://195.181.162.102:7283/COMBATE-BR-4K/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ceab0600016b37a117a386d3d211f12f960c01c9
+#EXTINF:0 tvg-id="ext" group-title="Full HD",DE PELICULA PLUS FHD
+http://195.181.162.102:7283/DE-PELICULA-PLUS-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0feb6e04a8a21c37881d5a8cb9979dd0591f9b4c
+#EXTINF:0 tvg-id="ext" group-title="Full HD",DHE FHD
+http://195.181.162.102:7283/DHE-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f9398855f07d28d3554047a2c83b66d086143ff
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Directv Sports 2 FHD
+http://195.181.162.102:7283/HY-704/index.m3u8?un=edgarcastillo&tm=1607919849&sn=428b23ddc455b660b1c01522bbcfeb87cbd98ee9
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Directv Sports FHD
+http://195.181.162.102:7283/HY-706/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bbd1a32e0bdb20bb228763eb6fddc063417900f8
+#EXTINF:0 tvg-id="ext" group-title="Full HD",DISCOVERY H&H FHD
+http://195.181.162.102:7283/DISCOVERY-H-H-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fdb792ab42786cf200d2aa2a49e772d99962f281
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Full HD",DISCOVERY THEATER FHD
+http://195.181.162.102:7283/DISCOVERY-THEATER-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=62624d7fa38cb6d6ceb719838b143e6bb877ee0d
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Full HD",DISCOVERY TURBO FHD
+http://195.181.162.102:7283/DISCOVERY-TURBO-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7273864a5600afa8e8945df837a55bb9b3cdc8db
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Full HD",FOX MOVIES FHD
+http://195.181.162.102:7283/FOX-MOVIES-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7a54bbe3e61bc20bf0023faee53c932d900270b7
+#EXTINF:0 tvg-id="ext" group-title="Full HD",FOX SERIES FHD
+http://195.181.162.102:7283/FOX-SERIES-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be096b444f1745d4cdc1e7037641ffcc995d58f0
+#EXTINF:0 tvg-id="ext" group-title="Full HD",FXM FHD
+http://195.181.162.102:7283/FXM-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f3e3424b15f547e6969b37c474159604d53ce135
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GOLDEN PLUS MX FHD
+http://195.181.162.102:7283/GOLDEN-PLUS-MX-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=830616fe01017261d765772ef4faa00e571a6821
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GOLDEN PREMIER FHD
+http://195.181.162.102:7283/GOLDEN-PREMIER-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ea581b1f9ae8e3466b2e3c26122df0dd53b75f02
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GOURMET FHD
+http://195.181.162.102:7283/GOURMET-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=80c658e2766c0e89176a6f45b0c996e05d58a8dd
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Full HD",HBO FAMILY FHD
+http://195.181.162.102:7283/HBO-FAMILY-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cf499fac3cbc2a2f60e32429a81012554d1fdb0e
+#EXTINF:0 tvg-id="ext" group-title="Full HD",MOVISTAR LA LIGA FHD
+http://195.181.162.102:7283/MOVISTAR-LA-LIGA-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8a971054c65e5c5fb507f534b3c44acd4bc873e5
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Full HD",Starz East FHD
+http://195.181.162.102:7283/Starz-East-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b52890d7befefd26b34cd54df05afb912159ecfd
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Full HD",Starz EDGE FHD
+http://195.181.162.102:7283/Starz-EDGE-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1da2f054114d4c57babb0af50194f3ea23cca5c9
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Black FHD
+http://195.181.162.102:7283/STARZ-ENCORE-BLACK-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=36889247e278244b98654c5b9ee5c7ffc56ad527
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Comedy FHD
+http://195.181.162.102:7283/STARZ-ENCORE-COMEDY-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=024b8a2f3a65344a185a2146a017a86f9c7bbd2b
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Family FHD
+http://195.181.162.102:7283/Starz-Encore-Family-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a410754e878ceb8f8fb90a03ecd6aed847a65be3
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Full HD",Starz Encore FHD
+http://195.181.162.102:7283/Starz-Encore-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=28d840c33368cb181c5ab4855681742b0aa3d2e7
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Kids&Family FHD
+http://195.181.162.102:7283/Starz-Encore-Kids-Family-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9eb1867f3c7fd9b88afd9dec782bcca863839c72
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore SUSPENSE FHD
+http://195.181.162.102:7283/Starz-Encore-SUSPENSE-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cfeb9ececb612d34db8b0ecdbbb434115d979b8c
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Full HD",Starz FHD
+http://195.181.162.102:7283/Starz-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c1520c0ce92d064c2a24005d918143c092fb4ceb
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Western FHD
+http://195.181.162.102:7283/Starz-Western-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7b4ed4b8323531ae09a42f1a45988078163676cf
+#EXTINF:0 tvg-id="ext" group-title="Full HD",TNT USA 2 FHD
+http://195.181.162.102:7283/TNT-USA-2-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6c682c4a5c622b53c040645de3cef65369c16322
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Full HD",TOROS TV FHD
+http://195.181.162.102:7283/TOROS-TV-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f117cfb7ff9e46c8901610c19fade57316992499
+
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA ACCION CLASSICS HD
+http://195.181.162.102:7283/CINEMA-ACCION-CLASSICS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ba7dc4aa7c9bcb50bcf8d9d99bcd27b68cca1186
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA CIENCIA FICCION HD
+http://195.181.162.102:7283/CINEMA-CIENCIA-FICCION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f151880282c707fbe34a58347540c07ed3e29a7e
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA DC UNIVERSE HD
+http://195.181.162.102:7283/CINEMA-DISNEY-LIVE-ACTION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5c029dd332506523aba6739fa8c1119f3eabc192
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA DISNEY PIXAR HD
+http://195.181.162.102:7283/CINEMA-DISNEY-PIXAR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9590a37edae183e90db41cb165935157171f95c0
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA DREAMWORKS HD
+http://195.181.162.102:7283/CINEMA-DREAMWORKS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f98b18c8494d823e1d05720400fb2bfd4eb632c4
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA FAMILIA HD
+http://195.181.162.102:7283/CINEMA-FAMILIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=76278eb3433d5b1fcc5bb6b7fcdaeb527f37b622
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA HAPPY MADISSON HD
+http://195.181.162.102:7283/CINEMA-HAPPY-MADISSON-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=51f2404671b431b47749d838dee275d42d9d8eb5
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA HORROR HD
+http://195.181.162.102:7283/CINEMA-HORROR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=086f35e3e55c66d3843f89977a04b44a49f19581
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA NAVIDAD HD
+http://195.181.162.102:7283/CINEMA-NAVIDAD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c8ca14c7334b49e673487bf21bb372c5e94d25c8
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER ESTRENOS HD
+http://195.181.162.102:7283/MOVIE-CENTER-ESTRENOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=868d2ceccc42acc81e4808774fe11b0ea11283ef
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER FAMILIAR HD
+http://195.181.162.102:7283/MOVIE-CENTER-FAMILIAR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0d4d396b666d5aae45dbf8f5bc74e489f544d31f
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER HORROR HD
+http://195.181.162.102:7283/MOVIE-CENTER-HORROR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86225d3e81fd7eb7ef0105757647f89cd309a805
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER KIDS HD
+http://195.181.162.102:7283/MOVIE-CENTER-KIDS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6148d81da09295011c9c425671471740c037c87b
+
+#EXTINF:0 tvg-id="HBOWestHD.us" group-title="CINE PREMIUM ESPAÑOL",HBO WEST HD
+http://195.181.162.102:7283/HBO-WEST-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8d3a2cf27d685b2930cc9abf11623cf65b1cdfe8
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",INDIEXPLEX SP.HD
+http://195.181.162.102:7283/INDIEXPLEX-SP-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=88ea6c9e54f95162aa1f61f5b2015defd66a1c3a
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",MOVIEMAX HD
+http://195.181.162.102:7283/MOVIEMAX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dcecb4854f1a31878585828e134bb52760bf1b20
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",MOVIEPLEX HD
+http://195.181.162.102:7283/MOVIEPLEX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4208d25197ddac35556929d4d2a78de8ce5e1993
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 1 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=939a71a8020f8c4dd7a28911df141bfe54c6c897
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 10 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-10-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6691dbf48963656bd1239a2ecb321daa0b116571
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 2 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4ce06417055eda743ef487896e8d2f133b7a3ad6
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 3 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4883f42311c6f84d26f01d899a98c2ca23d88294
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 4 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-4-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6022ad404c7d3bdf5c2c96863229e38ae53f4f7d
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 5 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-5-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9b12a26925627d262bb85b5eb5b229f5b3e3e793
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 6 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-6-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7fcf16c3430c3ae021ea044faae853af31dbeb33
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 7 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4db03276dc78550eadac758d09f3b0ad04f76292
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 8 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-8-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=587abb4d88219022ca01f0eb36b3623d11e435d7
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 9 HD
+http://195.181.162.102:7283/PPV-CINEMA-LATINO-9-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=62a37e097742773dde243d2dfe7f325764501e73
+#EXTINF:0 tvg-id="StarzEast.us" group-title="CINE PREMIUM ESPAÑOL",Starz East FHD
+http://195.181.162.102:7283/Starz-East-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b52890d7befefd26b34cd54df05afb912159ecfd
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="CINE PREMIUM ESPAÑOL",Starz EDGE FHD
+http://195.181.162.102:7283/Starz-EDGE-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1da2f054114d4c57babb0af50194f3ea23cca5c9
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Black FHD
+http://195.181.162.102:7283/STARZ-ENCORE-BLACK-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=36889247e278244b98654c5b9ee5c7ffc56ad527
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Comedy FHD
+http://195.181.162.102:7283/STARZ-ENCORE-COMEDY-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=024b8a2f3a65344a185a2146a017a86f9c7bbd2b
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Family FHD
+http://195.181.162.102:7283/Starz-Encore-Family-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a410754e878ceb8f8fb90a03ecd6aed847a65be3
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="CINE PREMIUM ESPAÑOL",Starz Encore FHD
+http://195.181.162.102:7283/Starz-Encore-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=28d840c33368cb181c5ab4855681742b0aa3d2e7
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Kids&Family FHD
+http://195.181.162.102:7283/Starz-Encore-Kids-Family-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9eb1867f3c7fd9b88afd9dec782bcca863839c72
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore SUSPENSE FHD
+http://195.181.162.102:7283/Starz-Encore-SUSPENSE-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cfeb9ececb612d34db8b0ecdbbb434115d979b8c
+#EXTINF:0 tvg-id="StarzEast.us" group-title="CINE PREMIUM ESPAÑOL",Starz FHD
+http://195.181.162.102:7283/Starz-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c1520c0ce92d064c2a24005d918143c092fb4ceb
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Western FHD
+http://195.181.162.102:7283/Starz-Western-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7b4ed4b8323531ae09a42f1a45988078163676cf
+
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ALF 24/7 HD
+http://195.181.162.102:7283/ALF-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4b9a32e7759beac4edb1913818892f408e2f856b
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ALIENIGENAS ANCESTRALES 24/7
+http://195.181.162.102:7283/ALIENIGENAS-ANCESTRALES-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0977c01cb5b6cd31b5769bbfb3ff8f73359b108d
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",AMERICAN CRIME STORY 24/7 HD
+http://195.181.162.102:7283/AMERICAN-CRIME-STORY-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=acaec575522f479e18b802a99d7aa5bda3251427
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ANATOMIA DE GREY 24/7 HD
+http://195.181.162.102:7283/ANATOMIA-DE-GREY-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=82ef7cc33e7e7fee0b4c6421efd0814682c669fd
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ARROW FLECHA VERDE 24/7 HD
+http://195.181.162.102:7283/ARROW-FLECHA-VERDE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0e1feeb89a2e8d619a671f57f452bdadc65a9028
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BAYWATCH 24/7 HD
+http://195.181.162.102:7283/BAYWATCH-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=431b4dbec0fcbe62adf27293a5f6df1b17ca7b02
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BOB ESPONJA 24/7 HD
+http://195.181.162.102:7283/BOB-ESPONJA-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b78bc64688e267d50f9878f81113f2b9ed5a5a83
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BONANZA 24/7 HD
+http://195.181.162.102:7283/BONANZA-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=79424823964ddb799b91d4ef7a9a8d68bd371cc7
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BRUCE LEE PELICULAS 24/7 HD
+http://195.181.162.102:7283/BRUCE-LEE-PELICULAS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9fa61272e7c819f5b8b03e526213fc93f102a607
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CANTINFLAS 24/7 HD
+http://195.181.162.102:7283/CANTINFLAS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5af9b5409212b584424020b2b6cbcc879abbbd80
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CASO CERRADO INMIGRACION HD 24/7
+http://195.181.162.102:7283/CASO-CERRADO-INMIGRACION-HD-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6157bfdfea1398c721598112c1f7494b9b15506a
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CASTLE 24/7 HD
+http://195.181.162.102:7283/CASTLE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1a9478674c962abb1cf9670d000effe480bbc2b7
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CHICAGO P.D. 24/7 HD
+http://195.181.162.102:7283/CHICAGO-P-D-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e1fdc9ab891c3cb8f0fd5e2210740ff38b5e140f
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CHIP N DALE 24/7 HD
+http://195.181.162.102:7283/CHIP-N-DALE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d88ad7150eb5e5f348399e9ff46ab818c5509443
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",COBRA KAI 24/7 (4K)
+http://195.181.162.102:7283/COBRA-KAI-24-7-4K/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5f42f8c3bf3eb8e899b63ca0cea9283c9267bd8d
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CSI MIAMI 24/7 HD
+http://195.181.162.102:7283/CSI-MIAMI-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7b438472133462cdc3899513f5e57eaa30eee037
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DC ANIMACION 24/7 HD
+http://195.181.162.102:7283/JUSTIGUE-LEAGUE-UNLIMITED-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b95f82e2e70d6e82d77db56394efe3a128aa1a6f
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DC Leyendas Del Mañana 24/7 HD
+http://195.181.162.102:7283/DC-Leyendas-Del-Manana-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c4b30e978723fae718e33158783b871e03cc48eb
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",Death Note 24/7 HD
+http://195.181.162.102:7283/Death-Note-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=96f9adffe15b48ffbc3e0374e1f2ee60f54ef259
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DEXTER SERIES 24/7 HD
+http://195.181.162.102:7283/DEXTER-SERIES-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bc4d6b34909f9b5d651903d303195ff22b6f4763
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DR. HOUSE 24/7 HD
+http://195.181.162.102:7283/DR-HOUSE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7b5a82d51878b5e5fafe6aa5d81262215ee31f9d
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DRAGON BALL GT 24/7 HD
+http://195.181.162.102:7283/DRAGON-BALL-GT-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4d98aba90242eaf75f297d53c4ab565d62777b33
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DRAGON BALL:EXTENDIDA 24/7 HD
+http://195.181.162.102:7283/DRAGONBALL-BATALLA-EXTENDIDA-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6f14b9679a0875ca42e9c0d78ac455d8dff58564
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",El auto fantastico 1-4
+http://195.181.162.102:7283/EL-AUTO-FANTASTICO-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4f33b7bdfb6e3d6f7863f4872519c12673b95031
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL CHAPULIN COLORADO 24/7
+http://195.181.162.102:7283/EL-CHAPULIN-COLORADO-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a974a762f866c3ac6a285c3853df085fc7fc1f4b
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL CHAVO DEL 8  ANIMADA 24/7 HD
+http://195.181.162.102:7283/EL-CHAVO-DEL-8-ANIMADA-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3dd2e6f4736a3c745239312e022df1a6c9cc02d1
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL CHAVO DEL 8 HD 24/7
+http://195.181.162.102:7283/EL-CHAVO-DEL-8-HD-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dadcb28136634e14fae9640a07a1ac3e288e7fd2
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL PAJARO LOCO 24/7 HD
+http://195.181.162.102:7283/EL-PAJARO-LOCO-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a760441ca670b4301e50991849b60781d1dc73d5
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ESTRENOS 2019 HD 24/7
+http://195.181.162.102:7283/ESTRENOS-2019-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0c5e8d69798937b40edc19a3b9867999dae588c3
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",FBI 24/7 HD
+http://195.181.162.102:7283/FBI-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=54ef7e33e3195ff300e88e3eda2871d50389a2c2
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",FLASH 24/7 HD
+http://195.181.162.102:7283/FLASH-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=29d353da9ff9a32b9b6fb7b2db4b7a61aed78670
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",GOTHAM 24/7 HD
+http://195.181.162.102:7283/GOTHAM-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7c6ed442086dc39a8ecc20a2b7342f8ed82cc8de
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",GRAVITY FALLS 24/7 HD
+http://195.181.162.102:7283/GRAVITY-FALLS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=33f5f26272c3fda64deb3655d360a71556b951e1
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HAWAII 5-0 HD 24/7
+http://195.181.162.102:7283/HAWAII-5-0-HD-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=58d4a57e82261817682a09cf21a813e3edcfa35b
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HE-MAN & MASTER DEL UNIVERSO HD 24/7
+http://195.181.162.102:7283/HE-MAN-MASTER-DEL-UNIVERSO-HD-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b5df3ac296e33b1e358d1ace5c19c131cf8ea4c8
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HEARTLAND 24/7 HD
+http://195.181.162.102:7283/THUNDERCATS-NEW-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4ababde0a85ae1897d493c2d36e09b6ba0aef615
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HERCULES LOS VIAJES LEGENDARIOS 24/7 HD
+http://195.181.162.102:7283/HERCULES-LOS-VIAJES-LEGENDARIOS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=757942ec7881cda9825c16c0041e1398eec28f10
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",JACKIE CHAN 24/7 HD
+http://195.181.162.102:7283/JACKIE-CHAN-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=583b565df775fdba43b4e9fd590851f95afe6740
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA FAMILIA INGALLS 24/7 HD
+http://195.181.162.102:7283/LA-FAMILIA-INGALLS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=64b7c636a54ad29f651bcbbd5d21abfe374a80d2
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA FAMILIA MONSTERS 24/7
+http://195.181.162.102:7283/LA-FAMILIA-MONSTERS-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=21f26f6a2ca0557d6d5dffb2bf71cf740cd12df6
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA FAMILIA PELUCHE 24/7 HD
+http://195.181.162.102:7283/LA-FAMILIA-PELUCHE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=71ef0aff436064e03f3fc9d02ca70e6c6b6098f6
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA LEY & EL ORDEN UVE 24/7 HD
+http://195.181.162.102:7283/LA-LEY-EL-ORDEN-UVE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cf2ae066c09d29768aee4373c59d745de44720ab
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA ROSA DE GUADALUPE 24/7 HD
+http://195.181.162.102:7283/LOS-DUKE-DE-HAZZARD-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dcf4219196e0498d37c0971514beba6bbb9f126e
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOBO DEL AIRE 24/7 HD
+http://195.181.162.102:7283/LOBO-DEL-AIRE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a3225cc794e7b4842a980b5d5087eeb7a964b523
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS 100 SERIES 24/7 HD
+http://195.181.162.102:7283/THE-MANDOLARIAN-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=12d83344993e7565bbf1480d11c00a29eebb9523
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS CABALLEROS DEL ZODIACO 24/7 HD
+http://195.181.162.102:7283/LOS-CABALLEROS-DEL-ZODIACO-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9d583116e17ce446accf02b0f974bb76b35e0ade
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS LOCOS ADDAMS 24/7 HD
+http://195.181.162.102:7283/LOS-LOCOS-ADDAMS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cc0e599617ba890c91cf3658e0ffa7543e5204a6
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS MAGNIFICOS HD 24/7
+http://195.181.162.102:7283/LOS-MAGNIFICOS-HD-24-7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1d278ae66438474e6679eacb21612f403932ebba
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS PICAPIEDRAS 24/7 HD
+http://195.181.162.102:7283/LOS-PICAPIEDRAS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=51837722dc0b29b0c8f1c14083148f11a03250fb
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS PITUFOS HD
+http://195.181.162.102:7283/LOS-PITUFOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=28e69cc508824d3db8bb78835a51c71d7c486e95
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS SIMPSON 24/7 HD
+http://195.181.162.102:7283/LOS-SIMPSON-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=96d15eccb655b30b1a136019a7e3640ae25a7f80
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS TRES CHIFLADOS 24/7 HD
+http://195.181.162.102:7283/LOS-TRES-CHIFLADOS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c1ecf4b1348a299f2d3aff627173a2119b23bd70
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LUCIFER 24/7 HD
+http://195.181.162.102:7283/LUCIFER-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f598851fbe18eb551a68c59ea363356a693fcc12
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MAZINGER Z 24/7 HD
+http://195.181.162.102:7283/MAZINGER-Z-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=df8a572476ddf1a8391cff571969259c38f77e93
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MENTES CRIMINALES 24/7 HD
+http://195.181.162.102:7283/MENTES-CRIMINALES-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d50daa04e04a814f8f6d07898b788b7ddfe6a913
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MI BELLA GENIO 24/7 HD
+http://195.181.162.102:7283/MI-BELLA-GENIO-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0bbc577bb85e3b0224599816dd3120d8d5f27de2
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MR BEAN 24/7 HD
+http://195.181.162.102:7283/MR-BEAN-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9ee56ae684145cae123633f67f6b35fdeffb0e47
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",NCIS Los Angeles 24/7 HD
+http://195.181.162.102:7283/NCIS-Los-Angeles-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bf6a32a3cbd6900d944c2c568f7098591cb818d4
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",PELICULAS DE ACCION 24/7
+http://195.181.162.102:7283/PELICULAS-TERROR-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=87eca105db423599e4032320e9c5fa0e3b35b906
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",Pokemon 24/7 HD
+http://195.181.162.102:7283/Pokemon-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6a59c287c6b0cddfcfbcf63512a975e671ac9769
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",PRISON BREAK 24/7 HD
+http://195.181.162.102:7283/PRISON-BREAK-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5e537b51b20fd35a4e1ff3742c4d0043cc72020f
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",RETRO NAVIDAD 24/7 HD
+http://195.181.162.102:7283/RETRO-NAVIDAD-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=12c7612a927782dfc37977538c4ac90d891479ba
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SCOOBY DOO HD 24/7
+http://195.181.162.102:7283/SCOOBY-DOO-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d72f840f621213c9e47034225542ca42e6fa229f
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SEX AND CITY 24/7 HD
+http://195.181.162.102:7283/SEX-AND-CITY-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d8a62a16199166ba351436f6e57f48f514bd7bc7
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SILVERHAWKS 24/7 HD
+http://195.181.162.102:7283/SILVERHAWKS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2cafd3cd84057f238b646f31f8d9b9bc78bd81ec
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SMALLVILLE 24/7 HD
+http://195.181.162.102:7283/SMALLVILLE-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4934fd6ed8fc0e7bf9fbc4366da6202ecc7433e5
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",STAR WARS 24/7 HD
+http://195.181.162.102:7283/STAR-WARS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=aefa2f4ad8b792cf1807ccc33ee342ab806d8fdb
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SUPERNATURAL 24/7 HD
+http://195.181.162.102:7283/SUPERNATURAL-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63aa5a90305b8bac9e6a57388e29611f5b52e78c
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TARZAN ANIMADO 24/7 HD
+http://195.181.162.102:7283/TARZAN-ANIMADO-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c13272421faf75eef5a5312f0a83bd5f3c3d3bc6
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THE GOOD DOCTOR 24/7 HD
+http://195.181.162.102:7283/THE-GOOD-DOCTOR-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=14159378a50838ad4f751421485cf4e2302bea39
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THE X-FILES 24/7 HD
+http://195.181.162.102:7283/THE-X-FILES-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=366749987fc36eeef2c4d2e6ef9a0d5787839489
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THE-LOST-24-7-HD
+http://195.181.162.102:7283/THE-LOST-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e276409baaf70017c012f618bcf35160055c2669
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THUNDERCATS 24/7 HD
+http://195.181.162.102:7283/THUNDERCATS-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=babc9e2e36b98fc1fd78b4c7d7ccfc6b2118b8ce
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TOM & JERRY 24/7 HD
+http://195.181.162.102:7283/TOM-JERRY-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=57b5d41fb68453d40cc0dc7db4572d94d37380e9
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TRES PATINES 24/7 HD
+http://195.181.162.102:7283/TRES-PATINES-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5bbac12f93f599167a5eea4e7759acc1bd463c31
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TWO AND HALF MEN 24/7 HD
+http://195.181.162.102:7283/TWO-AND-HALF-MEN-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=58ca8f232e15ff882eccc21b75c6f64d58ce9823
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",UNA FAMILIA DE DIEZ 24/7 HD
+http://195.181.162.102:7283/UNA-FAMILIA-DE-DIEZ-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=df209b76af8f5fd77cf4a490ac5cdb7c14283404
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",WALKING DEAD 24/7 HD
+http://195.181.162.102:7283/WALKING-DEAD-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9f030e69914bc3f1419493aee7f44931038feeeb
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Canales 24/7",Warner Channel HD
+http://195.181.162.102:7283/Warner-Channel-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f7b9f7290ac75f75df39c986069406f215cf9a8e
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",XENA LA PRINCESA GUERRERA 24/7 HD
+http://195.181.162.102:7283/XENA-LA-PRINCESA-GUERRERA-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6711dac9b25c55888a21976bc7085244a4f21820
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",YO SOY BETTY LA FEA 24/7 HD
+http://195.181.162.102:7283/YO-SOY-BETTY-LA-FEA-24-7-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7ce0fe992b3177a7e42bf77c98519e00318300d4
+
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",ATB
+http://195.181.162.102:7283/HY-1359/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1eecc1875f991812afb97c904b7a04342a471dc4
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Bolivia TV 7.2 HD
+http://195.181.162.102:7283/HY-1361/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ab1232d663997274d3e508964da0dc3d550665ca
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Bolivision HD
+http://195.181.162.102:7283/HY-1362/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6b898ab0344d772d7bac116d7591fb9024e6134c
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Cadena A BO HD
+http://195.181.162.102:7283/Cadena-A-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2b1fbc9f13df6fc6857c0f40d0e506b9454c5660
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",GIGAVISION
+http://195.181.162.102:7283/GIGAVISION/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f3d1cf91385aa10b29f828bff496cd1e413fc345
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",PAT BO HD
+http://195.181.162.102:7283/PAT-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4402319894d4b7e15b7f8c226f4bf3eaef386c51
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",RTP BO HD
+http://195.181.162.102:7283/RTP-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f816d30ac30fa7b3ed7b520fe045c1204b7806aa
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TIGO SPORTS 1 BO HD
+http://195.181.162.102:7283/TIGO-SPORTS-1-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=742cc0c511e471f10fc22a45c5364b04da52f92d
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TIGO SPORTS 2 HD
+http://195.181.162.102:7283/TIGO-SPORTS-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bfd3a35c92376f73d37704cdd74f6fe1da2c84a6
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TIGO SPORT 3 HD
+http://195.181.162.102:7283/TIGO-SPORT-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e73468f815f33557f44c773e081596263bb46d22
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TV Universitaria BO HD
+http://195.181.162.102:7283/TV-Universitaria-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5271803a96fe0622b365bce11f9c6edb479bc24f
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Unitel HD
+http://195.181.162.102:7283/HY-1370/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0408776fe02f7b5c25ddd22c39db8f51476e23be
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",UNO
+http://195.181.162.102:7283/HY-1371/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4d9e9914cf032e277f124996435c596eed563c1c
+
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",EXTREMA TV CR
+http://195.181.162.102:7283/EXTREMA-TV-CR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e0a21dcac9be74bf4d81a6e9c0e097ee55cbca4a
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",FUTV CR HD
+http://195.181.162.102:7283/FUTV-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=965a8ed30367881d8e2a854df178fafbf3e7fa39
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",FUTV CR OPC 2 HD
+http://195.181.162.102:7283/FUTV-CR-2-HD-opc2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6fb1ba8124a1afd620305818707cfe377f832cb7
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",MULTIMEDIOS CR HD
+http://195.181.162.102:7283/MULTIMEDIOS-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=97f84f627fb6afa9ef01410e3fb5e0b2773b6247
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",REPRETEL CANAL 11 CR HD
+http://195.181.162.102:7283/REPRETEL-CANAL-11-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3401e126ba560f15144bf9ddcdeff3e8d24f3bda
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",Repretel Canal 4 CR HD
+http://195.181.162.102:7283/REPRETEL-CANAL-4-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6cd2acadf6863ca5425620ed93091dc6bbbe6128
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",REPRETEL CANAL 6 CR HD
+http://195.181.162.102:7283/REPRETEL-CANAL-6-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c8500c0f98198fd7db9058c71f836baefc1dbe1e
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TD+ CR HD
+http://195.181.162.102:7283/TD-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=36732d8afa6cb097a12d1378110b3bf2d10dcb20
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TELETICA 7 CR
+http://195.181.162.102:7283/TELETICA-7-CR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=41837dc74ea024a986e3c7f2484fb66d2e55ec3e
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TIGO SPORT CR HD
+http://195.181.162.102:7283/TIGO-SPORT-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3457fa5e94c6e4bef8ee8be27d572d49d1bff7c0
+
+#EXTINF:0 tvg-id="ext" group-title="Perú",America TV HD Peru
+http://195.181.162.102:7283/HY-649/index.m3u8?un=edgarcastillo&tm=1607919849&sn=046033517625da6c296f73ccc39570b96e33454f
+#EXTINF:0 tvg-id="ATV" group-title="Perú",ATV
+http://195.181.162.102:7283/HY-653/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8975008dacb48d8ea9e3ac7e94cabf7bc216e95f
+#EXTINF:0 tvg-id="ext" group-title="Perú",CANAL N HD
+http://195.181.162.102:7283/CANAL-N-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1e1f7414a4f5aadfa3e3a7655d5f35b8acaf2bdd
+#EXTINF:0 tvg-id="ext" group-title="Perú",CAPITAL FHD
+http://195.181.162.102:7283/CAPITAL-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=35dc45fe7a5dbde0148564eedc8be2884f41e424
+#EXTINF:0 tvg-id="ext" group-title="Perú",DIRECTV PERU HD
+http://195.181.162.102:7283/DIRECTV-PERU-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2ca5eb21b824b9956efd9da56f0e0018f35fe8bc
+#EXTINF:0 tvg-id="ext" group-title="Perú",Gol Peru 2 HD
+http://195.181.162.102:7283/GOL-PERU-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d86a2eb0dfb41a1cdf2a093e87c97b75c52d9e7d
+#EXTINF:0 tvg-id="ext" group-title="Perú",Gol Peru HD
+http://195.181.162.102:7283/HY-777/index.m3u8?un=edgarcastillo&tm=1607919849&sn=366006ff392984deb3300ed1d4ed200616066824
+#EXTINF:0 tvg-id="ext" group-title="Perú",IPE HD
+http://195.181.162.102:7283/IPE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47dd14d6d8a49867a206a3eb26e752aa8078f6af
+#EXTINF:0 tvg-id="Latina.pe" group-title="Perú",Latina HD
+http://195.181.162.102:7283/HY-794/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6421a8735513ff6b623696f7e065749b3b4093d6
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="Perú",Movistar Deportes HD
+http://195.181.162.102:7283/HY-801/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4a0d09908133a60d297a4c5147b0f73cc476a916
+#EXTINF:0 tvg-id="ext" group-title="Perú",MOVISTAR PLUS
+http://195.181.162.102:7283/MOVISTAR-PLUS/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0e65b24d45ca42dcf0744b31a8d96404158885c1
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Perú",PANAMERICANA HD
+http://195.181.162.102:7283/PANAMERICANA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7966f9625e7fa35311cbd79beaac85d04ac67e6
+#EXTINF:0 tvg-id="PeruMagico.us" group-title="Perú",PERU MAGICO
+http://195.181.162.102:7283/PERU-MAGICO/index.m3u8?un=edgarcastillo&tm=1607919849&sn=23918d41b02fd8d83ba16a2241f709a060f35ec5
+#EXTINF:0 tvg-id="ext" group-title="Perú",RPP NOTICIAS TV HD
+http://195.181.162.102:7283/RPP-NOTICIAS-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b55780ddaf6f111c267b9a8001da0f125f6c9443
+#EXTINF:0 tvg-id="ext" group-title="Perú",TV PERU HD
+http://195.181.162.102:7283/TV-PERU/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f7de1ca4dc45f876b59d54b9f6fb5fe6f1cbe445
+
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",Meridiano TV HD
+http://195.181.162.102:7283/Meridiano-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=82ff6b70349de5eafba0fa6def5bb8230748de78
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",Telesur HD
+http://195.181.162.102:7283/Telesur-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=670e63f2495249ad3df819263c829c64e5140951
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",TELEVEN
+http://195.181.162.102:7283/TELEVEN/index.m3u8?un=edgarcastillo&tm=1607919849&sn=56542f7701b940ebc6dfc5d36f48f0a9b97dd3f4
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VALE TV HD
+http://195.181.162.102:7283/VALE-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=77e08c310dd8de37b86ea7d95e20a81c5e27d15e
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VENEVISION HD
+http://195.181.162.102:7283/VENEVISION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=68b466ceee1ef967ae0fee62cd03df5bb694a816
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VENEVISION PLUS HD
+http://195.181.162.102:7283/VENEVISION-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5dd651a12e813f85ae546ece698aa55be6757b53
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VIVE HD
+http://195.181.162.102:7283/VIVE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ad94dd93a835057ecb88298b2ee01aa0d9c23ed6
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VTV HD
+http://195.181.162.102:7283/vtv-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cb32ce4e24fd3cdae0891e6239f63d79d6133886
+
+#EXTINF:0 tvg-id="NFLNetworkHD.mx" group-title="NFL PASS",NFL NETWORK HD
+http://195.181.162.102:7283/NFL-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f4b06721abd61a52e3a299ddd138b7341bc06b4
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 01 HD
+http://195.181.162.102:7283/NFL-PASS-01/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fd114ed80e497bc16619467ff27b3424abba18eb
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 02 HD
+http://195.181.162.102:7283/NFL-PASS-02/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6572b2e0d1a9ed6c37c719a28e95cc338cfbb84a
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 03 HD
+http://195.181.162.102:7283/NFL-PASS-03/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63eb569da26aee374c5bac7b1652cf7448c72e07
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 04 HD
+http://195.181.162.102:7283/NFL-PASS-04/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2ab8865f79ab7d61265c2e77036c01166284c8e4
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 05 HD
+http://195.181.162.102:7283/NFL-PASS-05/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a7406d196011b0f263ab3c648dea8483d3685881
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 06 HD
+http://195.181.162.102:7283/NFL-PASS-06/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9f319efa64efd2c2c7fd23f1356f5c0a05d1bd1b
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 07 HD
+http://195.181.162.102:7283/NFL-PASS-07/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f3d10cf4b5fd56ab921af3f270b24505f56f263e
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 08 HD
+http://195.181.162.102:7283/NFL-PASS-08/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9a9161052f069d5ea30d3a3cff51a0abd7948a9c
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 09 HD
+http://195.181.162.102:7283/NFL-PASS-09/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bc85dcba9344abf0f246e4eb14123696fb5c69e5
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 10 HD
+http://195.181.162.102:7283/NFL-PASS-10/index.m3u8?un=edgarcastillo&tm=1607919849&sn=88e604be07df7220814923b0fbe118c446cae646
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 11 HD
+http://195.181.162.102:7283/NFL-PASS-11/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e968b4f15cb02563e9f263dea54248e2198e9ae5
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 12 HD
+http://195.181.162.102:7283/NFL-PASS-12/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2a570e391b0eb17bcc3dd10e6670ae05ca2070b1
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 13 HD
+http://195.181.162.102:7283/NFL-PASS-13/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4393f84560899b71796cfae195c4a776b003545b
+
+#EXTINF:0 tvg-id="A24.ar" group-title="Argentina",a24
+http://195.181.162.102:7283/HY-642/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91e4335c3abd91e0f58cd311283e1ce7f00dd19a
+#EXTINF:0 tvg-id="ext" group-title="Argentina",América TV HD Arg
+http://195.181.162.102:7283/HY-648/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8361796a1040c917d9ed38d6057d3670664eb8cf
+#EXTINF:0 tvg-id="C5N.ar" group-title="Argentina",C5N HD
+http://195.181.162.102:7283/C5N-HD-AR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a377ffee59bf1d4f01b79a2e5a743fe294344775
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Canal 13 Argentina HD
+http://195.181.162.102:7283/HY-667/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d9a9d56f0b06af14a0af7bcd24eb0e0ea783b63e
+#EXTINF:0 tvg-id="ext" group-title="Argentina",CANAL 26 NOTICIAS HD
+http://195.181.162.102:7283/CANAL-26-NOTICIAS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=06449afdf7ce5d2c5748ea7a8cae7d102311e08a
+#EXTINF:0 tvg-id="ext" group-title="Argentina",CINE AR HD
+http://195.181.162.102:7283/CINE-AR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e1c7fb89a8b5e49be4f2d27c3f3f688c4e014da1
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Crónica HD
+http://195.181.162.102:7283/CRONICA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=95c684907ce528021d6a7d5d65979a3a47c968b5
+#EXTINF:0 tvg-id="ext" group-title="Argentina",DEPORTV HD
+http://195.181.162.102:7283/DEPORTV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c7c9c2cb66f0aae13523a507b0c221fd76a9d2f
+#EXTINF:0 tvg-id="Canal9.ar" group-title="Argentina",El Nueve
+http://195.181.162.102:7283/HY-723/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f70899aac1bf31ea6588b26cb8a986a7812b9a87
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ESPN 1 arg. HD
+http://195.181.162.102:7283/ESPN1-arg-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d3eb0dda66938b8532ee26b73f7f596179a6ba08
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ESPN 1 Sur HD
+http://195.181.162.102:7283/ESPN1-Sur-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1d76af8b36397361dfcf5c320c837cc02ce11632
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Fox Sports Premium Arg HD
+http://195.181.162.102:7283/HY-25351/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f82646fcd551b90af9a762943ffe9a71d9de604d
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Fox Sports Premium Arg HD+
+http://195.181.162.102:7283/HY-765/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7e9a0853d1f7b00cf14afa8a19d4b662a8db78e
+#EXTINF:0 tvg-id="ext" group-title="Argentina",GARAGE TV HD
+http://195.181.162.102:7283/GARAGE-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e4149674bb60f1833a8875854136533ff30f1713
+#EXTINF:0 tvg-id="TelefeHD.ar" group-title="Argentina",Telefe HD
+http://195.181.162.102:7283/HY-848/index.m3u8?un=edgarcastillo&tm=1607919849&sn=401ec3fc0a599727769d290c7676f4a293b2d255
+#EXTINF:0 tvg-id="ext" group-title="Argentina",telefe santa fe
+http://195.181.162.102:7283/telefe-santa-fe/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dd961bed665482e29e7142f57ebd04f5bb746781
+#EXTINF:0 tvg-id="TNHD.ar" group-title="Argentina",TN HD
+http://195.181.162.102:7283/HY-1330/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8f88165acd1fa7f45752597d0314450451c21dde
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TNT Sports Arg HD
+http://195.181.162.102:7283/HY-1333/index.m3u8?un=edgarcastillo&tm=1607919849&sn=130b0a0edbf528c9b9494445ee41edd76ffa767c
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TNT Sports Arg HD+
+http://195.181.162.102:7283/HY-1334/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be6776e92a72d9a174d51ff4c9e04fcbd8507025
+#EXTINF:0 tvg-id="TVPublicaHD.ar" group-title="Argentina",TV PÚBLICA HD
+http://195.181.162.102:7283/TV-PUBLICA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7a07cda838126488fb7e1a1d9cf92d14ae0940db
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Argentina",TyC Sports HD
+http://195.181.162.102:7283/HY-1343/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9b47df8f2f105a6a0aa29b4d903effe6af81784c
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TYC SPORTS INTERNACIONAL HD
+http://195.181.162.102:7283/TYC-SPORTS-INTERNACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=02220b65303b14da6f73fe839245b0732666cd37
+
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",ABC TV PY HD
+http://195.181.162.102:7283/ABC-TV-PY-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c1496883326db502da872679b0876b0edfa1947d
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",C9N HD PY
+http://195.181.162.102:7283/C9N-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4b6c345da1f29dedc5a397a649e2a262484ca186
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",EVENTOS PY1
+http://195.181.162.102:7283/TIGO-SPORT-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c897b7d150229200d7e62f07c2f7cf09f30b6e14
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",EVENTOS PY2
+http://195.181.162.102:7283/TIGO-SPORT-PLUS-PY-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=881140f849418ebfadbfe1024a2c3cab3eadf7e5
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",Farra Play
+http://195.181.162.102:7283/Farra-Play/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b6dd5c7ce815a84c0f29ce3060761eabfcdbdf1b
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",GEN TV HD PY
+http://195.181.162.102:7283/GEN-TV-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=55be18bd20870ac17480441ea28655280c3af407
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",LA TELE HD PY
+http://195.181.162.102:7283/LA-TELE-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca8b7e2dbfd1c10fd55c8763b87dc998cfbda3e8
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",PARAGUAY TV HD PY
+http://195.181.162.102:7283/PARAGUAY-TV-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ea0db2d98175e8f01bea5c2e150514b7d28d0940
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",RPC HD PY
+http://195.181.162.102:7283/RPC-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5f32ef3968c0e40fa69b21d875ec80f2347d5929
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",SNT HD PY
+http://195.181.162.102:7283/SNT-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2915fcd00f996cb9a2c788e45f68d74753e6a10b
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",TELEFUTURO HD PY
+http://195.181.162.102:7283/TELEFUTURO-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d20c4073bdae5cd410fcd5f06ca746dc6ec8d80e
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",UNICANAL HD PY
+http://195.181.162.102:7283/UNICANAL-HD-PY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=624548ea2d68faf61ceb833e0334041dd2db59dd
+
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",Canal 10 UY HD
+http://195.181.162.102:7283/Canal-10-UY-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e6de9b994ddb915dd88578da3f53c560918a2cb7
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",CANAL 4 UY HD
+http://195.181.162.102:7283/CANAL-4-HD-UY/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4092c0044f60ead7caf621ac158c1d85ef8b365e
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",LATINA TV PAYSANDU HD
+http://195.181.162.102:7283/LATINA-TV-PAYSANDU-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3a3c86d63720d6ed217b5ec1f11196e20e1c9c61
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",Teledoce HD
+http://195.181.162.102:7283/TELEDOCE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4f9179da2a3a610530f044009f7bb498da7638ee
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",TELEVISION NACIONAL HD
+http://195.181.162.102:7283/TELEVISION-NACIONAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b579effe8b20ad9e1850a07941346f91868de08f
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",URUGUAY NATURAL HD
+http://195.181.162.102:7283/URUGUAY-NATURAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=afb08db900ef74c29777f4fbbaec25647c27ea2a
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",VTV PLUS HD
+http://195.181.162.102:7283/VTV-PLUS/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1b127c11232f994a333dbae16e1b4c4ce3abe6d1
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",VTV Uruguay HD
+http://195.181.162.102:7283/HY-1353/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86e8d3e3d970337452ba768009d0a1007d799389
+
+#EXTINF:0 tvg-id="AyE.mx" group-title="Cine y Series",A&E HD
+http://195.181.162.102:7283/HY-645/index.m3u8?un=edgarcastillo&tm=1607919849&sn=127c605f86106c897ef28471bf944ab22c8095f0
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",A3S Series HD
+http://195.181.162.102:7283/HY-643/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a7f4f7a41c40dbef30aa1e593ce410f6a443b935
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 1 HD
+http://195.181.162.102:7283/ALQUILER-1/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a4874034e89497e010c0eb792ffd2d8332b1107f
+#EXTINF:0 tvg-id="Taquilla2HD.es" group-title="Cine y Series",ALQUILER 2 HD
+http://195.181.162.102:7283/ALQUILER-2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=546aa063a0992b1e240a743fd208cce79313cac6
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 3 HD
+http://195.181.162.102:7283/ALQUILER-3/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f579c66cabc86b9c0aa4cb5e7ea5690ae290f9fd
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 4 HD
+http://195.181.162.102:7283/ALQUILER-4/index.m3u8?un=edgarcastillo&tm=1607919849&sn=43ab59fcbcdfa61d72ccaa354bf7d8d4d5dc32ac
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 5 HD
+http://195.181.162.102:7283/ALQUILER-5/index.m3u8?un=edgarcastillo&tm=1607919849&sn=346901515745a79252002917879b72e252587ae9
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 6 HD
+http://195.181.162.102:7283/ALQUILER-6/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f31987f73fdf79f20bc9c1f9deadc006bad78b7c
+#EXTINF:0 tvg-id="AMC.uk" group-title="Cine y Series",AMC FHD
+http://195.181.162.102:7283/AMC-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca220ab0cc9f29fd24be1244ea67c5d799d5791c
+#EXTINF:0 tvg-id="AMC.uk" group-title="Cine y Series",AMC HD
+http://195.181.162.102:7283/HY-1358/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0c91eb7a2fa80ddf60e55383f5d6588577cee26d
+#EXTINF:0 tvg-id="AXN.it" group-title="Cine y Series",AXN HD
+http://195.181.162.102:7283/HY-654/index.m3u8?un=edgarcastillo&tm=1607919849&sn=999046a50998b71bd679dccb53eff32dafab13fd
+#EXTINF:0 tvg-id="AzClicHD.cl" group-title="Cine y Series",AZ CINEMA FHD
+http://195.181.162.102:7283/AZ-CINEMA-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=db3db4df94f4d57f2778a4e152cece29c23f8822
+#EXTINF:0 tvg-id="Canal2.mx" group-title="Cine y Series",CANAL DE LAS ESTRELLA
+http://195.181.162.102:7283/CANAL-DE-LAS-ESTRELLA/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ba6f6608b3f4ece11819807dfa792b6ff4efadc5
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",CINE AR HD
+http://195.181.162.102:7283/CINE-AR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e1c7fb89a8b5e49be4f2d27c3f3f688c4e014da1
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",CINE LATINO HD
+http://195.181.162.102:7283/CINE-LATINO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d2ec6219ed1dcff12c7bf6f6e02a89bb54536d7b
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Cine y Series",Cinecanal HD
+http://195.181.162.102:7283/HY-695/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f528430e64abbe9ab2b83fbd2e476d0032d286e6
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",CINEMA DINAMITA HD
+http://195.181.162.102:7283/CINEMA-DINAMITA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c36db0f172dd365d21fd38041a3f5efc9ebedcdc
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Cine y Series",CINEMAX FHD
+http://195.181.162.102:7283/CINEMAX-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ef972d3c076ba3209f0aa1652c5efd445df188b1
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Cine y Series",Cinemax HD
+http://195.181.162.102:7283/HY-696/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a6d28642ecf18aa2d5641ce0cede9d356623ff19
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Cine y Series",COMEDY CENTRAL HD
+http://195.181.162.102:7283/COMEDY-CENTRAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=39e1972884579e7d568e72bbdb7bdfa615fb1832
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Cine y Series",De Pelicula
+http://195.181.162.102:7283/HY-703/index.m3u8?un=edgarcastillo&tm=1607919849&sn=349609e2f595bf12d66e82b9de05124234ed3810
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",DE PELICULA PLUS FHD
+http://195.181.162.102:7283/DE-PELICULA-PLUS-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0feb6e04a8a21c37881d5a8cb9979dd0591f9b4c
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",DHE FHD
+http://195.181.162.102:7283/DHE-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f9398855f07d28d3554047a2c83b66d086143ff
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",DISTRITO COMEDIA HD
+http://195.181.162.102:7283/DISTRITO-COMEDIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7430e61ccbb0e559f42227bac22a558ce4edd835
+#EXTINF:0 tvg-id="E.uk" group-title="Cine y Series",E! HD
+http://195.181.162.102:7283/HY-721/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cd1a6183dd6a029f0e2491d4fc765f03a5498609
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 ESTE HD
+http://195.181.162.102:7283/EPIX-1-ESTE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=96bb89856d7e41fd0b75ff192e15c0f876be14b2
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 HD
+http://195.181.162.102:7283/EPIX-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6778a0839494b9a52de0034cbf895a71fd55ccd4
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 HITS HD
+http://195.181.162.102:7283/EPIX-1-HITS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=20ecd5f6fc7f37d22a7b26b03d77393f4d77bfd0
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 OESTE HD
+http://195.181.162.102:7283/EPIX-1-OESTE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fcc243e559d07d054ec51a4f4f79caee7a4d6905
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX DRIVE HD
+http://195.181.162.102:7283/EPIX-DRIVE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=713201f9ba07a8bbfc26cdd5575415d1e6944e18
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EUROPA EUROPA HD
+http://195.181.162.102:7283/EUROPA-EUROPA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=644864b1c2b36c62333057366b5faa730f57430a
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Cine y Series",FOX ACTION HD
+http://195.181.162.102:7283/FOX-ACTION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c8b04953075c5a4ce8e6778b2c821c569718aabb
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Fox Central HD
+http://195.181.162.102:7283/HY-741/index.m3u8?un=edgarcastillo&tm=1607919849&sn=28dc8b5e0d186660cbce0936ee3a385de2f3e166
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Cine y Series",FOX CINEMA HD
+http://195.181.162.102:7283/FOX-CINEMA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e2a74824ab71a752c3557d2647657f00dc73153e
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Cine y Series",FOX CLASSICS HD
+http://195.181.162.102:7283/FOX-CLASSICS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dc6930c477c96ef9af7805d31ab0800612bcb7ad
+#EXTINF:0 tvg-id="FoxFamilyE.mx" group-title="Cine y Series",FOX FAMILY HD
+http://195.181.162.102:7283/FOX-FAMILY-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3b241ffdccf486b0c05b9b17cbe99d5b5c775347
+#EXTINF:0 tvg-id="FX.uk" group-title="Cine y Series",Fox HD
+http://195.181.162.102:7283/HY-739/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e9d7a66b0855e44eb492cf01cd636a26402a5d40
+#EXTINF:0 tvg-id="FX.uk" group-title="Cine y Series",Fox HD+
+http://195.181.162.102:7283/HY-740/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9bc48f5681515e652b6fd72298a8ac12a3678846
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Cine y Series",Fox Life HD
+http://195.181.162.102:7283/HY-742/index.m3u8?un=edgarcastillo&tm=1607919849&sn=657ec89bad33b1a9122fc63257ec7c91be64ae5f
+#EXTINF:0 tvg-id="fox-life" group-title="Cine y Series",Fox Life HD+
+http://195.181.162.102:7283/HY-743/index.m3u8?un=edgarcastillo&tm=1607919849&sn=de26d5ac06e6cfffcf1723140863daee0f2f0304
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Cine y Series",FOX MOVIES FHD
+http://195.181.162.102:7283/FOX-MOVIES-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7a54bbe3e61bc20bf0023faee53c932d900270b7
+#EXTINF:0 tvg-id="FoxPremiumActionHD.ar" group-title="Cine y Series",Fox Premium Action HD
+http://195.181.162.102:7283/HY-747/index.m3u8?un=edgarcastillo&tm=1607919849&sn=48fc77f4e3448d630bf8025a7568c714e2ac0571
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Fox Premium Comedy HD
+http://195.181.162.102:7283/HY-750/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9d144e4ab1f83e2ee19dd6eeeff2cb772ccea5c4
+#EXTINF:0 tvg-id="FoxPremiumMoviesHD.ar" group-title="Cine y Series",Fox Premium Movies HD
+http://195.181.162.102:7283/HY-752/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c9022c4ff7f6bdeca45961d97facec75458274c
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="Cine y Series",FOX SERIES
+http://195.181.162.102:7283/FOX-SERIES/index.m3u8?un=edgarcastillo&tm=1607919849&sn=aacae6ae21ebef157030566f3b7f9ae4cd28f3d6
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Fox Series Este HD
+http://195.181.162.102:7283/HY-753/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a19b7c53fedaaf47cf06539437f26b52ed6a5ee9
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FOX SERIES FHD
+http://195.181.162.102:7283/FOX-SERIES-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be096b444f1745d4cdc1e7037641ffcc995d58f0
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FX Central HD
+http://195.181.162.102:7283/HY-766/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e7b61980511079640b8d0b3c5a06501a40361478
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Cine y Series",FX HD
+http://195.181.162.102:7283/FX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5e3051b5454f54dcbb34ed56e1a346f138e58366
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FXM Central HD
+http://195.181.162.102:7283/HY-767/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b41300f263b5f9dfd26d186b5d5118114606d5c9
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FXM FHD
+http://195.181.162.102:7283/FXM-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f3e3424b15f547e6969b37c474159604d53ce135
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FXM HD
+http://195.181.162.102:7283/FXM-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ae41f32806f27f70e31b33c26292844f77d99d09
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",GOLDEN PLUS
+http://195.181.162.102:7283/GOLDEN-PLUS/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5ea9778ab57b8e6242c93d50a8efdd844cfe97ac
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",GOLDEN PLUS MX FHD
+http://195.181.162.102:7283/GOLDEN-PLUS-MX-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=830616fe01017261d765772ef4faa00e571a6821
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",GOLDEN PREMIER FHD
+http://195.181.162.102:7283/GOLDEN-PREMIER-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ea581b1f9ae8e3466b2e3c26122df0dd53b75f02
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Cine y Series",HBO 2 HD
+http://195.181.162.102:7283/HY-781/index.m3u8?un=edgarcastillo&tm=1607919849&sn=396570cf89ea1b78e32737b1cf01275e588ef2c3
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Cine y Series",HBO FAMILY FHD
+http://195.181.162.102:7283/HBO-FAMILY-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cf499fac3cbc2a2f60e32429a81012554d1fdb0e
+#EXTINF:0 tvg-id="HBO.hu" group-title="Cine y Series",HBO HD
+http://195.181.162.102:7283/HY-783/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a2b8b3495b8e5d29ef0eca98f352fe00741b1b8e
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Cine y Series",HBO HD+
+http://195.181.162.102:7283/HY-784/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c79890591701c7230102fd2d69bb165443dc3f59
+#EXTINF:0 tvg-id="Maxhd.br" group-title="Cine y Series",HBO MUNDI HD
+http://195.181.162.102:7283/HBO-MUNDI-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=37d8516ee86ac4bad583ce8db8c506ab46930220
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="Cine y Series",HBO Plus HD
+http://195.181.162.102:7283/HY-785/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5fbfaf67b11d9251a205822f82491d03c815aa78
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",HBO POP HD
+http://195.181.162.102:7283/HY-798/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6ea874848c55d5ab5a63098d97fd36d8e49c5898
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Cine y Series",HBO Signature HD
+http://195.181.162.102:7283/HY-786/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9afc0da13fa315e8e885649b7ace966befc90120
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Cine y Series",HBO Xtreme HD
+http://195.181.162.102:7283/HY-797/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7fe6a81db7113aefc78bd45d21508b6675569b53
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Cine y Series",HOLLYWOOD HD
+http://195.181.162.102:7283/HOLLYWOOD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cd17598fd4918317dd173435641019093b38bf92
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Las Estrellas Mex HD
+http://195.181.162.102:7283/HY-793/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d34c1969b4aef53bcdc93ae4693fe46115fc2302
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MC HD
+http://195.181.162.102:7283/HY-799/index.m3u8?un=edgarcastillo&tm=1607919849&sn=253758ac8f9f0c0e812c63a96973678857957317
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MORBIDO TV HD
+http://195.181.162.102:7283/MORBIDO-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4b65b9bd278f2541592341a4d36cecd28ba6c98a
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="Cine y Series",MOVISTAR ACCION HD
+http://195.181.162.102:7283/MOVISTAR-ACCION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0d5be87b3a21b803f4804159ee82793cc156a157
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="Cine y Series",MOVISTAR COMEDIA HD
+http://195.181.162.102:7283/MOVISTAR-COMEDIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5427e4ea40b40b57f7905e73899b8ebb8f9ab6c5
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MOVISTAR DRAMA HD
+http://195.181.162.102:7283/MOVISTAR-DRAMA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cbf94d157ca1914fe3abaddff2c3dd8e92d54114
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="Cine y Series",MOVISTAR ESTRENOS HD
+http://195.181.162.102:7283/MOVISTAR-ESTRENOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a78989097d80c44e713a3b6f93fdde3c6b98b399
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MOVISTAR SERIESMANIA HD
+http://195.181.162.102:7283/MOVISTAR-SERIESMANIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1cb75de0281db1f8b9d1f0c01d45a5d936788218
+#EXTINF:0 tvg-id="Neox.sp" group-title="Cine y Series",NEOX HD
+http://195.181.162.102:7283/NEOX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5fceb8d04f0a9bf3c058015aa1385e4508da9121
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",PANICO HD
+http://195.181.162.102:7283/PANICO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0ab9dea63bd51cb3a9b902c1fea1f894b678b6d9
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",PARAMOINT CHANNEL HD
+http://195.181.162.102:7283/PARAMOINT-CHANNEL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5412009df6ff776d1c8f4aa7b1c08b8ff755b9c9
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Cine y Series",Paramount Hd
+http://195.181.162.102:7283/HY-823/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1b0f08aff8a2e5145223bef9d8ac17c755165dbc
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Cine y Series",PASIONES
+http://195.181.162.102:7283/PASIONES/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c8557571a82fbea76b1eb205590d0b173562e94a
+#EXTINF:0 tvg-id="SHOWTIME2HD.us" group-title="Cine y Series",SHOWTIME 2 HD
+http://195.181.162.102:7283/SHOWTIME-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=266a26bb0b79e4878bbbcab2a0e780c1f2b56d80
+#EXTINF:0 tvg-id="ShowtimeBeyondHD.us" group-title="Cine y Series",SHOWTIME BEYOND HD
+http://195.181.162.102:7283/SHOWTIME-BEYOND-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f9678beaf69efaedb96b0ba23a2fdcb42b3c5dc3
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="Cine y Series",SHOWTIME EAST
+http://195.181.162.102:7283/SHOWTIME-EAST/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4780d2a4799f794108486d9903109480ea0a2f80
+#EXTINF:0 tvg-id="ShowtimeExtremeHD.us" group-title="Cine y Series",SHOWTIME EXTREME HD
+http://195.181.162.102:7283/SHOWTIME-EXTREME-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=509a31207af4de11311cbbe38c4258f9ef7edf7b
+#EXTINF:0 tvg-id="ShowtimeHDEast.us" group-title="Cine y Series",SHOWTIME HD
+http://195.181.162.102:7283/SHOWTIME-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6c84840f1a995b20ebf37cebecbb686a995b4205
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",SHOWTIME WEST HD
+http://195.181.162.102:7283/SHOWTIME-WEST-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ce28d2f5ba5d4eb28971bc44671db53b573e105d
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Sony Central HD
+http://195.181.162.102:7283/HY-830/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5fb508b1da7fe7bc9ef0c1bc7125682d81cf7271
+#EXTINF:0 tvg-id="set" group-title="Cine y Series",Sony HD
+http://195.181.162.102:7283/HY-829/index.m3u8?un=edgarcastillo&tm=1607919849&sn=402aa36b886d151a909a112f4253e698e9114d18
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Space Central HD
+http://195.181.162.102:7283/HY-831/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4436f2e8263184b1e879d99355f7f3fa2299556a
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Cine y Series",Space HD
+http://195.181.162.102:7283/HY-832/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7d0fc045fbd039e3ed106c1cc479fa3105d70e21
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",SR CINE HD
+http://195.181.162.102:7283/FRECUENCIA-MOVIES-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=50196012fddddad5306b7a1bcc43ac68ab16a9b2
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Cine y Series",Studio Universal HD
+http://195.181.162.102:7283/HY-838/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ecf915bc6491afa7cb14398a5ae1b937998d3279
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Cine y Series",Syfy HD
+http://195.181.162.102:7283/HY-839/index.m3u8?un=edgarcastillo&tm=1607919849&sn=20e7808ae6a5776a4280267b577ce34a08daf608
+#EXTINF:0 tvg-id="TCM.uk" group-title="Cine y Series",TCM HD
+http://195.181.162.102:7283/HY-841/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ac6fb1f6365120f95889564be82dbf9d6bc1af92
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",TLNOVELAS UNIVISION HD
+http://195.181.162.102:7283/TLNOVELAS-UNIVISION-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=338c381b044a11f4884ae1c630752c50ef2adf6b
+#EXTINF:0 tvg-id="TCM.pl" group-title="Cine y Series",TNT HD
+http://195.181.162.102:7283/HY-1331/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8407b8221c408d5d8a617f804c7b18c19123f064
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Cine y Series",TNT Series HD
+http://195.181.162.102:7283/HY-1332/index.m3u8?un=edgarcastillo&tm=1607919849&sn=93796c870c70f4f3347601e4b8453a945b09b9b5
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Cine y Series",TRU TV FHD
+http://195.181.162.102:7283/TRU-TV-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cc6d2bda21ac997c38b31c325a87d3aae3a61804
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Cine y Series",TRU TV HD
+http://195.181.162.102:7283/HY-1337/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2f055bdebab3257f75d604e64025dc637937b4f8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Cine y Series",UNICABLE
+http://195.181.162.102:7283/UNICABLE-SD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ad3359163ed3b526ae966c7fee0d5d34c8dcd2ff
+#EXTINF:0 tvg-id="Universal.uk" group-title="Cine y Series",Universal Channel HD
+http://195.181.162.102:7283/HY-1347/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b84b60d3e258db3e3d9b08d5af1c221069f336ae
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Cine y Series",Warner Channel HD
+http://195.181.162.102:7283/Warner-Channel-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f7b9f7290ac75f75df39c986069406f215cf9a8e
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Cine y Series",Warner HD
+http://195.181.162.102:7283/HY-1355/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f147c8531470a05ad5e613ea9f89a25a529be36a
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Cine y Series",Warner HD+
+http://195.181.162.102:7283/HY-1354/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fcf2d4f3e19d1d6d7fb0b4ebd44886c5ced771b6
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ZEE MUNDO BOLLYWOOD HD
+http://195.181.162.102:7283/ZEE-MUNDO-BOLLYWOOD-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4485a4aa7af4b00d5da1b2eee9794594286fd6ad
+
+#EXTINF:0 tvg-id="ext" group-title="Infantil",AMAZON KIDS  HD
+http://195.181.162.102:7283/AMAZON-KIDS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=eb3b80569c06a9fdd761da79aec468fa2d587526
+#EXTINF:0 tvg-id="ext" group-title="Infantil",BABY FIRTS HD
+http://195.181.162.102:7283/BABY-FIRTS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ad2c0105d67be1ea3764b1c52fe2e15ece20ba14
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Infantil",Baby TV
+http://195.181.162.102:7283/HY-657/index.m3u8?un=edgarcastillo&tm=1607919849&sn=931a95adf64b31829155cebc85f256bbf2f28cf0
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Bitme
+http://195.181.162.102:7283/Bitme/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1f2c99120fc2c74b3e92f72bcc1cc540354be6ff
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Infantil",Boomerang
+http://195.181.162.102:7283/HY-664/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91af86b6ac9a5d1af30b24a1ef320fd0bc93761b
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Infantil",Cartoon Network HD
+http://195.181.162.102:7283/CARTOON-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=99bd5443d8009b5fbdeb90be6004f9eee09dff76
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Infantil",Discovery Kids HD
+http://195.181.162.102:7283/HY-713/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e1fad1ba3bec806dd1b52f537f33605d734e4126
+#EXTINF:0 tvg-id="Disney.uk" group-title="Infantil",Disney Channel HD
+http://195.181.162.102:7283/HY-821/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1cc8113fc423bf046ddd9a90a8d9eb378b0d1607
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Infantil",Disney Junior
+http://195.181.162.102:7283/HY-718/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9fd38c0b29af995d018a587885661284af123e48
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Infantil",Disney XD
+http://195.181.162.102:7283/HY-719/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bea658336cc222844c6133ad456ae3b6faf7ba9b
+#EXTINF:0 tvg-id="ETCTV.cl" group-title="Infantil",ETC TV
+http://195.181.162.102:7283/HY-736/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c0a6ae020bca45ffed9906d8a343c47b8c5f7b1c
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Nat Geo Kids HD
+http://195.181.162.102:7283/HY-814/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3ff6b0bd3878e3542852d1db4833a409f1d91322
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Nick 2 Central HD
+http://195.181.162.102:7283/HY-817/index.m3u8?un=edgarcastillo&tm=1607919849&sn=bed8e7da3b58bd6d2a279966ec5973ef934d8cda
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Infantil",Nick HD
+http://195.181.162.102:7283/HY-819/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c21540499f3846b3f836de1e0663faa60670d8b9
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="Infantil",Nick JR HD
+http://195.181.162.102:7283/HY-820/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1d21dd4e4c132e8b45cbd8db628f67c2fa3f2936
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Infantil",Nickelodeon
+http://195.181.162.102:7283/HY-818/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6d1d69cce6db9c55d7e18123f4ec0a36da085bf3
+#EXTINF:0 tvg-id="ext" group-title="Infantil",PLAY KIDS HD
+http://195.181.162.102:7283/PLAY-KIDS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6cc9afbdd28adc65b26247e763d23d0bc8eb4df5
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantil",Tooncast
+http://195.181.162.102:7283/HY-1369/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1e03db905ea5e59d303c0582934ac8813de6366e
+#EXTINF:0 tvg-id="ext" group-title="Infantil",ZOOMOO HD
+http://195.181.162.102:7283/ZOOMOO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=cb09f9c80fa6f649c5640ca2bcc3690890118b73
+
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BAND SPORTS HD BR
+http://195.181.162.102:7283/BAND-SPORTS-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1e81b8815bc73ffa12f04ebdb2335bacfd8cf38e
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BOOMERANG BR HD
+http://195.181.162.102:7283/BOOMERANG-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9c1db8f42ebd267615368d138273e399ffb0b928
+#EXTINF:0 tvg-id="ext" group-title="Brasil",CARTOON NETWORK BR HD
+http://195.181.162.102:7283/CARTOON-NETWORK-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c32b20d9e7775c0395f7ef72a259b544870f5676
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Brasil",ESPN BRASIL
+http://195.181.162.102:7283/ESPN-BRASIL/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b72b414225a52848e9b6218c2f7c52534918f099
+#EXTINF:0 tvg-id="ext" group-title="Brasil",ESPN EXTRA BRASIL HD
+http://195.181.162.102:7283/ESPN-XTRA-BRASIL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3cd2b054f6f17c5401b4b789c4a1f42a6d339f67
+#EXTINF:0 tvg-id="Globosp.br" group-title="Brasil",Globo SP HD
+http://195.181.162.102:7283/HY-771/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e0a9ba01885a54628e0aaa592c5f6e406f99fcde
+#EXTINF:0 tvg-id="ext" group-title="Brasil",HBO2 BR HD
+http://195.181.162.102:7283/HBO2-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d283ceb0b392a3b4d92c3b74f4be37642247e8f9
+#EXTINF:0 tvg-id="ext" group-title="Brasil",MEGAPIX BR HD
+http://195.181.162.102:7283/MEGAPIX-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=317600a5e038b1f0facec3df3ef790fa7469a97c
+#EXTINF:0 tvg-id="ext" group-title="Brasil",NATGEO WILD BR HD
+http://195.181.162.102:7283/NATGEO-WILD-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=93e8d53f96276c48e8504826523afdc837b4199a
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PARAMOUNT BR HD
+http://195.181.162.102:7283/PARAMOUNT-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3ba3ccf3032068630b61e6b32520e4c3a84f973f
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PREMIERE 1 HD BR
+http://195.181.162.102:7283/PREMIERE-1-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b505b972dc3fc2e820f8b2479e1cb7ab04b98dcf
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PREMIERE 2 HD BR
+http://195.181.162.102:7283/PREMIERE-2-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d5efe661a81e8ab87a93b9a8068c357a372c525d
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PREMIERE 3 HD BR
+http://195.181.162.102:7283/PREMIERE-3-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d71861003aadef99b4200e266a8c4e8379911ad0
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SBT HD BR
+http://195.181.162.102:7283/SBT-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1eb3651472c8801ed5850dc557eac79fd97ffd06
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SPORTV 1 HD BR
+http://195.181.162.102:7283/SPORTV-1-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=678de22fcbe10ac738dc9519f7f17770784addd8
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SPORTV 2 HD BR
+http://195.181.162.102:7283/SPORTV-2-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca7e499640a2cdf3e73818600bcb09f00ee1a083
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SPORTV 3 HD BR
+http://195.181.162.102:7283/SPORTV-3-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=67b3333ed98f639c2fe349856934bdf889a99360
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SYFY BR HD
+http://195.181.162.102:7283/SYFY-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=927b921ced041927a840b95c122c845068065249
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE ACTION BR HD
+http://195.181.162.102:7283/TELECINE-ACTION-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=328010d12b8d2ac690c416b3f92c9dedf24ab044
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE CULT BR HD
+http://195.181.162.102:7283/TELECINE-CULT-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=27bd3adc3411cde040ac68bf341bab739c60576d
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE FUN BR HD
+http://195.181.162.102:7283/TELECINE-FUN-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f1ee239411ed68bdfa9a391f47af32165cbbe458
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE PIPOCA BR HD
+http://195.181.162.102:7283/TELECINE-PIPOCA-BR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e3d1dedf525253b044a5c0ba2aa23eeac96bcda6
+
+#EXTINF:0 tvg-id="Rai1.it" group-title="Italia",RAI 1 HD
+http://195.181.162.102:7283/RAI-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7990759dda9c1e527d19071fc6174494f89d4377
+#EXTINF:0 tvg-id="Rai2.it" group-title="Italia",RAI 2 HD
+http://195.181.162.102:7283/RAI-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=deeb410e75fcd1934c0c48988fea0c8eaf07b300
+#EXTINF:0 tvg-id="Rai3.it" group-title="Italia",RAI 3 HD
+http://195.181.162.102:7283/RAI-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c0f60af60952974ae8f0e8aa86b5a7bf1c5338b6
+#EXTINF:0 tvg-id="Rai4.it" group-title="Italia",RAI 4 HD
+http://195.181.162.102:7283/RAI-4-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5244e1fc8bd8b6469a918ce29b856b15227b0d5d
+#EXTINF:0 tvg-id="Rai5.it" group-title="Italia",RAI 5 HD
+http://195.181.162.102:7283/RAI-5-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=353e922c670a172486b30939bb3524cb6f4039f0
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Italia",RAI GULP HD
+http://195.181.162.102:7283/RAI-GULP-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2cdb54fab14c13a9cf583710a28fc18d7eb98a64
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Italia",RAI MOVIE HD
+http://195.181.162.102:7283/RAI-MOVIE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=49b694c9cccef45efa63e3092d597929d7b08ab3
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="Italia",RAI STORIA HD
+http://195.181.162.102:7283/RAI-STORIA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=03f0b4ad0f44a522a30758ae8f8bc5b50e49e1e3
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Italia",RAI YOYO HD
+http://195.181.162.102:7283/RAI-YOYO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2531d9519ff66e5326c99f50fe94d8c8d52455a2
+#EXTINF:0 tvg-id="TopCrime.it" group-title="Italia",TOP CRIME HD
+http://195.181.162.102:7283/TOP-CRIME-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a17d06c67809576af5e5d327246882d023b8fe1d
