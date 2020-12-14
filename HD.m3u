@@ -814,6 +814,8 @@ http://195.181.162.102:7283/HY-728/index.m3u8?un=edgarcastillo&tm=1607919849&sn=
 http://195.181.162.102:7283/HY-733/index.m3u8?un=edgarcastillo&tm=1607919849&sn=17134e9211f2b38aa717ff168ce9fd3a3d161a69
 #EXTINF:0 tvg-id="FX.uk" group-title="HD+(265)",Fox HD+
 http://195.181.162.102:7283/HY-740/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9bc48f5681515e652b6fd72298a8ac12a3678846
+#EXTINF:0 tvg-id="FX.uk" group-title="unsorted",FOX HD MX
+http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="fox-life" group-title="HD+(265)",Fox Life HD+
 http://195.181.162.102:7283/HY-743/index.m3u8?un=edgarcastillo&tm=1607919849&sn=de26d5ac06e6cfffcf1723140863daee0f2f0304
 #EXTINF:0 tvg-id="FoxSports2.mx" group-title="HD+(265)",Fox Sports 2 HD+
