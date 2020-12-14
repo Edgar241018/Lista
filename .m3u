@@ -1,2092 +1,357 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="CINE", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="CINE", A&E ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/38796.ts
-
-#EXTINF:-1 tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/AE_Logo-whiteback.png" group-title="CINE", A&E ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1722.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE", AMC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42431.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE", AMC ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40116.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE", AXN LATINO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1725.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE", AXN WHITE ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39835.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE", AXN WHITE ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42433.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42432.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE", AXN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27591.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE", CINE AR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55009.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE", CINE AR ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43018.ts
-
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE", CINECANAL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1726.ts
-
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE", CINECANAL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17334.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE", CINELATINO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55013.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE", CINELATINO 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55012.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE", CINELATINO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42436.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE", CINEMAX ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17335.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE", CINEMAX ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1727.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png/revision/latest?cb=20170912161935&path-prefix=es" group-title="CINE", CLARO CINEMA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42437.ts
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/d-plus.png" group-title="CINE", DE PELICULA PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42434.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", DE PELICULA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1728.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE", DHE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55011.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE", DHE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55010.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE", EUROPA EUROPA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/51475.ts
-
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="CINE", FOX CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15925.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="CINE", FOX CHANNEL (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53539.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="CINE", FOX CHANNEL SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1738.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="CINE", FOX LIFE (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1730.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="CINE", FOX LIFE (ᴍᴇxɪᴄᴏ) ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42435.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="CINE", FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55015.ts
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_ACTIONHD.png" group-title="CINE", FOX PREMIUM ACTION (col)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33356.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/GkA-72QtDAPTlbGXKLf5EYCz3aFlaMTBMIU-sNm_hhE0kZotKxCL-FVmN7cSOx2HBmUPCyhHPBa85rvkP3mM3uBuitcwur23OwX3Tz75qzcA7FIWc1ws787bNkJkS_UOkezaEHHWFmFK1GiMVQ797qtN" group-title="CINE", FOX PREMIUM ACTION (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55016.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/GkA-72QtDAPTlbGXKLf5EYCz3aFlaMTBMIU-sNm_hhE0kZotKxCL-FVmN7cSOx2HBmUPCyhHPBa85rvkP3mM3uBuitcwur23OwX3Tz75qzcA7FIWc1ws787bNkJkS_UOkezaEHHWFmFK1GiMVQ797qtN" group-title="CINE", FOX PREMIUM ACTION ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1731.ts
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="CINE", FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1732.ts
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="CINE", FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33357.ts
-
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ec/documents/581447/2053920/fox-classics.png" group-title="CINE", FOX PREMIUM CLASSICS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1733.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png" group-title="CINE", FOX PREMIUM CLASSICS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33358.ts
-
-#EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/9447cce0f02d4b2c899f202467c0293e_1/version/15/width/282/height/158/quality/100" group-title="CINE", FOX PREMIUM COMEDY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1734.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="CINE", FOX PREMIUM COMEDY ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33359.ts
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_FAMILY.png" group-title="CINE", FOX PREMIUM FAMILY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1735.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="CINE", FOX PREMIUM FAMILY ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33360.ts
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="CINE", FOX PREMIUM MOVIES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33361.ts
-
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ec/documents/581447/2053920/fox-movies.png" group-title="CINE", FOX PREMIUM MOVIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1736.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="CINE", FOX PREMIUM SERIES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1737.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="CINE", FOX PREMIUM SERIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16177.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="CINE", FX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1739.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE", FX MOVIES ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15713.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/FXM_Logo.svg" group-title="CINE", FXM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1740.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="CINE", GOLDEN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1743.ts
-
-#EXTINF:-1 tvg-logo="http://www.cablered.tv/wp-content/uploads/2018/08/Golden-Edge.png" group-title="CINE", GOLDEN EDGE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1741.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/340?cb=20191215194002&path-prefix=es" group-title="CINE", GOLDEN PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1742.ts
-
-#EXTINF:-1 tvg-logo="http://www.mundo-latam.argentina-buenos-aires.arrecifesciudad.com/onewin/origen/baypro/imagenes/logos-tv/golden-premier.png" group-title="CINE", GOLDEN PREMIER
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10870.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HBO_2_Logo.png/125px-HBO_2_Logo.png" group-title="CINE", HBO 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1745.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1746.ts
-
-#EXTINF:-1 tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/hbo.png" group-title="CINE", HBO latino
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1744.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", HBO latino
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45651.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN" group-title="CINE", HBO MUNDI
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1750.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="CINE", HBO PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1747.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1751.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1748.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", HBO subtitulado
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33362.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", HBO usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33363.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE", HBO XTREAM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1749.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE", HBO XTREME ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43223.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="CINE", MoviePlex FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54869.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movistar_Acci%C3%B3n.svg" group-title="CINE", MOVISTAR ACCION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43355.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png" group-title="CINE", MOVISTAR DCINE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42438.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg" group-title="CINE", MULTICINEMA ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42439.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Paramount_Pictures_2020.svg/1200px-Paramount_Pictures_2020.svg.png" group-title="CINE", PARAMOUNT CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1752.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK-VWX1BdapzWss_w7NiU5IRG3FuEWqbvhmmT4mPVqFKaiYv0-w&s" group-title="CINE", SONY CHANNEL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1753.ts
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/19/12/24/space-television-channel-streaming-television-turner-broadcasting-system-png-favpng-1FPC99JnRrFWDQZTt9PMTPPj7.jpg" group-title="CINE", SPACE CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1754.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", STUDIO UNIVERSAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1755.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", STUDIO UNIVERSAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15714.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/7/75/SundanceTVLA.png/revision/latest?cb=20170623191047&path-prefix=es" group-title="CINE", SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1756.ts
-
-#EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png" group-title="CINE", SYFY CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1757.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="CINE", TBS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1758.ts
-
-#EXTINF:-1 tvg-logo="https://canaltcm.com/wp-content/uploads/2019/04/tcm-icon.png" group-title="CINE", TCM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1759.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="CINE", TNT SERIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1761.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="CINE", TNT SERIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33355.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE", TNT ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1760.ts
-
-#EXTINF:-1 tvg-logo="https://www.ultracine.com/vista2015/wp-content/uploads/2015/03/ultracine1-1000x728.png" group-title="CINE", ULTRA CINE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42440.ts
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/20/3/19/logo-universal-channel-high-definition-television-olympic-channel-television-channel-png-favpng-Ccy9yJYxAwy2cMvuU5UfFb5yy_t.jpg" group-title="CINE", UNIVERSAL CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1762.ts
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/20/3/19/logo-universal-channel-high-definition-television-olympic-channel-television-channel-png-favpng-Ccy9yJYxAwy2cMvuU5UfFb5yy_t.jpg" group-title="CINE", UNIVERSAL CHANNEL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17337.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="CINE", UNIVERSAL TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16736.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", WARNER TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1763.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="LATINOS SD", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/340?cb=20180507153757" group-title="LATINOS SD", A&E ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55395.ts
-
-#EXTINF:-1 tvg-logo="https://sfo2.digitaloceanspaces.com/estaticos/var/www/html/wp-content/uploads/2019/10/Antena-renueva-corporativa-logotipo-autopromos_1899420059_8398569_660x371.jpg" group-title="LATINOS SD", Antena 3 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55396.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="LATINOS SD", AXN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55397.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LATINOS SD", Boomerang ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55398.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/Canal_4_%282019%29.png/revision/latest/scale-to-width-down/340?cb=20190618233326&path-prefix=es" group-title="LATINOS SD", Canal 4 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55399.ts
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxKP59QHf4nSwWCD_ox2LOrVcSa-HrzxLJsrSwWew=s900-c-k-c0xffffffff-no-rj-mo" group-title="LATINOS SD", Canela TV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55400.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="LATINOS SD", Cartoon Network ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55401.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINOS SD", Cinecanal ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55402.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="LATINOS SD", Cinemax ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55403.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="LATINOS SD", Comedy Central ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55404.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATINOS SD", Directv Sports ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55405.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/TiT-88Wa1rj7j8qsX3JmPDoZJAkuT0ByRS4P8DmTmtGnugfWKExFG14W9ypFmueTSZ6BDNTv0rnoLlFfmBWVTZCdabLl7usoELkOjDSvGNW947jx3-ncS3H18Mfib5GpRuaIFz1poA" group-title="LATINOS SD", Discovery Home & Healt ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55406.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATINOS SD", Discovery Kids ⁽ˢᵈ⁾  [Dual Audio]
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59293.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="LATINOS SD", Discovery Turbo ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55407.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="LATINOS SD", Disney Junior ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55408.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="LATINOS SD", Disney XD ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55409.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="LATINOS SD", Ecuador TV 2mb
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55410.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Ecuavisa-en-vivo-Online.png" group-title="LATINOS SD", Ecuavisa [Gquil] 2mb
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55411.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="LATINOS SD", ESPN 2 CHILE SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55413.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD", ESPN 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55414.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="LATINOS SD", ESPN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55412.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINOS SD", Film & Arts ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49468.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/W_A_l4RrwQr5kxRaVHyue-Kk4ibAwU5F5D3jv-74Bx7SDmrd2H2mO1QR4kSZC9I06pgMXGoDRm-njPh0KzoUUiXX3L4IWVIfNUbyMGEiXYkGSM3Ols6BWopqF8VQ_OJlDbl08_HPWcyTk7xyP6sRl26o" group-title="LATINOS SD", Fox Action ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55415.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1200px-FOX_wordmark-black.svg.png" group-title="LATINOS SD", Fox Channel ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55416.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Cinema_1.png/revision/latest/scale-to-width-down/340?cb=20200109143105&path-prefix=es" group-title="LATINOS SD", Fox Cinema ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55417.ts
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="LATINOS SD", Fox Classics ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55418.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Fox_Premium_Family_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184117&path-prefix=es" group-title="LATINOS SD", Fox Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55419.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="LATINOS SD", Fox Life ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55420.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/LLzdVwulEgEhLA6y2TgLpw7gPsdffx-K0T-RR_wr3RCtx6-VkbRzJDtjIJOsrIMv8E_mUYA4aB3jP0eL33gYDdnTuZJn6AZOXDVVSUT7hTkZnYgBvAaI6nsXshTdgWdsrOUizUg2n-W8kUdKyCD7JLFc" group-title="LATINOS SD", Fox Movies ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55421.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/5MSNsf1I8LH3BSTgkiZnvXZOhhBOmI9ijyeBeXCriEgpfG8ezeDuPYaHCprm03dHwcF5ZKR2OfhA98LD_bam1wVnmSHgwFngsE7JT6GwwnQ3m3Wb25ULYW5JeNgQvf6_EmCCi5Hq0ScKFJsJJVN7FWn8" group-title="LATINOS SD", Fox Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55424.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LATINOS SD", Fox Sports 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55425.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS SD", Fox Sports 3 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55426.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="LATINOS SD", FX ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55427.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="LATINOS SD", Gamavision ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55428.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="LATINOS SD", H2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55429.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATINOS SD", HBO 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55431.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATINOS SD", HBO Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55432.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="LATINOS SD", HBO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55430.ts
-
-#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="LATINOS SD", Investigation Discovery ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55433.ts
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/438/860/png-transparent-logo-television-channel-paraguay-latele-paraguay-television-text-rectangle.png" group-title="LATINOS SD", La Tele ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55434.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="LATINOS SD", Las Estrellas ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55435.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="LATINOS SD", Oromar TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55436.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="LATINOS SD", RTS ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55437.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="LATINOS SD", RTU ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55438.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/SPACE_99_1.png/revision/latest/scale-to-width-down/340?cb=20200216172439&path-prefix=es" group-title="LATINOS SD", Space ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55439.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="LATINOS SD", TC Television
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55441.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="LATINOS SD", Teleamazonas [Gquil] ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55442.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS SD", TNT Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55444.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TNT_Express_Logo.svg" group-title="LATINOS SD", TNT ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55443.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1126885010806538241/ka8IQPni.png" group-title="LATINOS SD", TVC ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55445.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="LATINOS SD", VTV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55446.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINOS SD", Warner Channel ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55447.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="SD", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/340?cb=20180507153757" group-title="LATINOS SD", A&E ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55395.ts
-
-#EXTINF:-1 tvg-logo="https://sfo2.digitaloceanspaces.com/estaticos/var/www/html/wp-content/uploads/2019/10/Antena-renueva-corporativa-logotipo-autopromos_1899420059_8398569_660x371.jpg" group-title="LATINOS SD", Antena 3 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55396.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA", AR: C5N SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54958.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="LATINOS SD", AXN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55397.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA", BOL: ATB sd
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49511.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA", BOL: Tigo Sports 1 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54857.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA", BOL: Tigo Sports 2 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54859.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA", BOL: Tigo Sports 3 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54861.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LATINOS SD", Boomerang ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55398.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/Canal_4_%282019%29.png/revision/latest/scale-to-width-down/340?cb=20190618233326&path-prefix=es" group-title="LATINOS SD", Canal 4 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55399.ts
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxKP59QHf4nSwWCD_ox2LOrVcSa-HrzxLJsrSwWew=s900-c-k-c0xffffffff-no-rj-mo" group-title="LATINOS SD", Canela TV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55400.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="LATINOS SD", Cartoon Network ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55401.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINOS SD", Cinecanal ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55402.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="LATINOS SD", Cinemax ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55403.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="LATINOS SD", Comedy Central ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55404.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATINOS SD", Directv Sports ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55405.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/TiT-88Wa1rj7j8qsX3JmPDoZJAkuT0ByRS4P8DmTmtGnugfWKExFG14W9ypFmueTSZ6BDNTv0rnoLlFfmBWVTZCdabLl7usoELkOjDSvGNW947jx3-ncS3H18Mfib5GpRuaIFz1poA" group-title="LATINOS SD", Discovery Home & Healt ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55406.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATINOS SD", Discovery Kids ⁽ˢᵈ⁾  [Dual Audio]
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59293.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="LATINOS SD", Discovery Turbo ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55407.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="LATINOS SD", Disney Junior ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55408.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="LATINOS SD", Disney XD ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55409.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="LATINOS SD", Ecuador TV 2mb
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55410.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Ecuavisa-en-vivo-Online.png" group-title="LATINOS SD", Ecuavisa [Gquil] 2mb
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55411.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="LATINOS SD", ESPN 2 CHILE SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55413.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD", ESPN 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55414.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="LATINOS SD", ESPN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55412.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINOS SD", Film & Arts ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49468.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/W_A_l4RrwQr5kxRaVHyue-Kk4ibAwU5F5D3jv-74Bx7SDmrd2H2mO1QR4kSZC9I06pgMXGoDRm-njPh0KzoUUiXX3L4IWVIfNUbyMGEiXYkGSM3Ols6BWopqF8VQ_OJlDbl08_HPWcyTk7xyP6sRl26o" group-title="LATINOS SD", Fox Action ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55415.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1200px-FOX_wordmark-black.svg.png" group-title="LATINOS SD", Fox Channel ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55416.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Cinema_1.png/revision/latest/scale-to-width-down/340?cb=20200109143105&path-prefix=es" group-title="LATINOS SD", Fox Cinema ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55417.ts
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="LATINOS SD", Fox Classics ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55418.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Fox_Premium_Family_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184117&path-prefix=es" group-title="LATINOS SD", Fox Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55419.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="LATINOS SD", Fox Life ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55420.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/LLzdVwulEgEhLA6y2TgLpw7gPsdffx-K0T-RR_wr3RCtx6-VkbRzJDtjIJOsrIMv8E_mUYA4aB3jP0eL33gYDdnTuZJn6AZOXDVVSUT7hTkZnYgBvAaI6nsXshTdgWdsrOUizUg2n-W8kUdKyCD7JLFc" group-title="LATINOS SD", Fox Movies ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55421.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/5MSNsf1I8LH3BSTgkiZnvXZOhhBOmI9ijyeBeXCriEgpfG8ezeDuPYaHCprm03dHwcF5ZKR2OfhA98LD_bam1wVnmSHgwFngsE7JT6GwwnQ3m3Wb25ULYW5JeNgQvf6_EmCCi5Hq0ScKFJsJJVN7FWn8" group-title="LATINOS SD", Fox Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55424.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LATINOS SD", Fox Sports 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55425.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS SD", Fox Sports 3 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55426.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="LATINOS SD", FX ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55427.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="LATINOS SD", Gamavision ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55428.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="LATINOS SD", H2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55429.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATINOS SD", HBO 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55431.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATINOS SD", HBO Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55432.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="LATINOS SD", HBO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55430.ts
-
-#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="LATINOS SD", Investigation Discovery ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55433.ts
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/438/860/png-transparent-logo-television-channel-paraguay-latele-paraguay-television-text-rectangle.png" group-title="LATINOS SD", La Tele ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55434.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="LATINOS SD", Las Estrellas ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55435.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="MÚSICA", MTV U SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54162.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="LATINOS SD", Oromar TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55436.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/AmericaNext_%28Per%C3%BA%29.png" group-title="PERÚ", PE: America Next  SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54951.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/707c32d557dbdb6d6c3adce6af6c7f56.png" group-title="PERÚ", PE: Willax SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39651.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="LATINOS SD", RTS ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55437.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="LATINOS SD", RTU ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55438.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/SPACE_99_1.png/revision/latest/scale-to-width-down/340?cb=20200216172439&path-prefix=es" group-title="LATINOS SD", Space ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55439.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="LATINOS SD", TC Television
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55441.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="LATINOS SD", Teleamazonas [Gquil] ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55442.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA", TN Noticias SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54823.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS SD", TNT Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55444.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TNT_Express_Logo.svg" group-title="LATINOS SD", TNT ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55443.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1126885010806538241/ka8IQPni.png" group-title="LATINOS SD", TVC ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55445.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY", UR: CANAL 4 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3766.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="LATINOS SD", VTV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55446.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINOS SD", Warner Channel ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55447.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="FHD", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE", Action Max FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54862.ts
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzXVm64zyORjNlL_yNrdeenYRqSlKpcc3jvIiOwBQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="ARGENTINA", AR: America FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54957.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE", Cinemax Action FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54863.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/1280px-Indieplex_logo.svg.png" group-title="PPV CINE", IndiexPlex FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54866.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/wRXpFP5TO7yRPjM3Hq7gy8BT2cNi05DT2kf67Ild5U-Mo-0bsQz2umRUlYZr3XE_EmzlSqtQIV2PBZHvSod98h9tr4LYJK_cte7sA8FqbHfFSg" group-title="PPV CINE", MoreMax FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54867.ts
-
-#EXTINF:-1 tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="PPV CINE", MovieMax FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54868.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="CINE", MoviePlex FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54869.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/OuterMax_2011.png/revision/latest/scale-to-width-down/340?cb=20200615022913&path-prefix=es" group-title="PPV CINE", OuterMax FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54870.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERÚ", PE: America TV FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54952.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/1280px-Showtime_Beyond.svg.png" group-title="PPV CINE", Showtime Beyond FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54871.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="PPV CINE", Showtime East FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54872.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="PPV CINE", Starz Cinema FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54873.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="PPV CINE", Starz Comedy FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54874.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG-a9FqZ0dfQuh9j8qNedpTDhc3CZBmDByYQ&usqp=CAU" group-title="PPV CINE", Starz East FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54875.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" group-title="PPV CINE", Starz Edge FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54876.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-action.png" group-title="PPV CINE", Starz Encore Action FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54877.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png" group-title="PPV CINE", Starz Encore Classics FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54878.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Family.svg/1280px-Starz_Encore_Family.svg.png" group-title="PPV CINE", Starz Encore Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54879.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="PPV CINE", Starz Encore FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54880.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-suspense.png" group-title="PPV CINE", Starz Encore Suspense FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54881.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="PPV CINE", Starz Encore Western FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54882.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="PPV CINE", Starz Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54883.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PPV CINE", Starz In Black FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54884.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Starz_Kids_%26_Family_HD_logo.svg/2000px-Starz_Kids_%26_Family_HD_logo.svg.png" group-title="PPV CINE", Starz Kids & Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54885.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz1.png" group-title="PPV CINE", Starz West FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54886.ts
-
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFx4E0SP9J-Kw/company-logo_200_200/0?e=2159024400&v=beta&t=D5resAgCRA0wpO08TCWI5ofl12Y0uzmRO3dl5Mw34cY" group-title="URUGUAY", UR: LA TELE FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55002.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="GUATEMALA", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/small.57aa76ceca577_CanalAntigua_Nuevo.png.9a87a49f5a1620c5c027d8ac58135c9b.png" group-title="GUATEMALA", GM: Canal Antigua
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53993.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Guatemala-en-vivo-Online.png" group-title="GUATEMALA", GM: Canal Azteca
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53994.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_07/large.logocanal11Guatemala.png.624766e19d4229c3f1e31fa7294a1c9e.png" group-title="GUATEMALA", GM: Canal 11
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53995.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Canal_3_guat_1979.png/revision/latest/scale-to-width-down/340?cb=20200408010051&path-prefix=es" group-title="GUATEMALA", GM: Canal 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53996.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png" group-title="GUATEMALA", GM: Canal 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53997.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/9e/4a/cf9e4a0ed45c7153e58aa106bb1ed5cc.png" group-title="GUATEMALA", GM: Guatevision
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53998.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="ENTRETENCIÓN", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="ENTRETENCIÓN", ANIMAL PLANET ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5406.ts
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="ENTRETENCIÓN", ANIMAL PLANET ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1160.ts
-
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/97-979110_file-las-estrellas-svg-logo-del-canal-de.png" group-title="ENTRETENCIÓN", CANAL DE LAS ESTRELLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1164.ts
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-de-las-estrellas-png-7.png" group-title="ENTRETENCIÓN", CANAL DE LAS ESTRELLAS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9961.ts
-
-#EXTINF:-1 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="ENTRETENCIÓN", COMEDY CENTRAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18229.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCcigJBlOpHmauRT4Yz4cwBU_35Vy2uDl56Bhc44oU06vy1D9x&usqp=CAU" group-title="ENTRETENCIÓN", COMEDY CENTRAL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18230.ts
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="ENTRETENCIÓN", DISCOVERY CHANNEL ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17326.ts
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="ENTRETENCIÓN", DISCOVERY CHANNEL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/781.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20190925150447&path-prefix=es" group-title="ENTRETENCIÓN", DISCOVERY CIVILIZATION (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5407.ts
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/bd386-civilization.png" group-title="ENTRETENCIÓN", DISCOVERY CIVILIZATION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17327.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="ENTRETENCIÓN", DISCOVERY H&H ⁽ᴬ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/782.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="ENTRETENCIÓN", DISCOVERY H&H ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5408.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTRETENCIÓN", DISCOVERY INVESTIGATION (ꜰʜᴅ) (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17320.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTRETENCIÓN", DISCOVERY INVESTIGATION ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17312.ts
-
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="ENTRETENCIÓN", DISCOVERY SCIENCE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17329.ts
-
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="ENTRETENCIÓN", DISCOVERY SCIENCE ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5409.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png" group-title="ENTRETENCIÓN", DISCOVERY THEATER ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/784.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="ENTRETENCIÓN", DISCOVERY TURBO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5410.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="ENTRETENCIÓN", DISCOVERY TURBO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1161.ts
-
-#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="ENTRETENCIÓN", DISCOVERY WORLD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5412.ts
-
-#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="ENTRETENCIÓN", DISCOVERY WORLD ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17331.ts
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/e-transparent-logo-12.png" group-title="ENTRETENCIÓN", E!
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53536.ts
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/e-transparent-logo-12.png" group-title="ENTRETENCIÓN", E! ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/554.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="ENTRETENCIÓN", EL GOURMET ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/787.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="ENTRETENCIÓN", EL GOURMET ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17333.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ENTRETENCIÓN", FOOD NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53493.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ENTRETENCIÓN", FOOD NETWORK ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/789.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="ENTRETENCIÓN", GLITZ ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/790.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="ENTRETENCIÓN", H2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9958.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="ENTRETENCIÓN", H2 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15537.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="ENTRETENCIÓN", HISTORY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/791.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="ENTRETENCIÓN", HISTORY ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15565.ts
-
-#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/69496_2_88633-1024x257.jpg" group-title="ENTRETENCIÓN", HOLA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14630.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/us98sz9Mmew2uFHyjvtwGr3kA0YJLpZBSrOXT3TY8coegUI3D9gUs9oKAf65hAxQ2yH4F8mRJKA5jpsBc_0o3BmdFMhnpQd0kMLoObewfO0eorFrzsAA7g" group-title="ENTRETENCIÓN", HOLA TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55199.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="ENTRETENCIÓN", LIFETIME
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16160.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="ENTRETENCIÓN", LIFETIME ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16161.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="ENTRETENCIÓN", NATGEO WILD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5413.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="ENTRETENCIÓN", NATGEO WILD ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15536.ts
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ENTRETENCIÓN", NATIONAL GEOGRAPHIC ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17336.ts
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ENTRETENCIÓN", NATIONAL GEOGRAPHIC ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/803.ts
-
-#EXTINF:-1 tvg-logo="https://i0.pngocean.com/files/304/189/284/tlc-discovery-channel-universal-channel-animal-planet-investigation-discovery-tlc-television.jpg" group-title="ENTRETENCIÓN", TLC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/29669.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="ENTRETENCIÓN", TRU TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5414.ts
-
-#EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="ENTRETENCIÓN", ZEE MUNDO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58129.ts
-
-#PLAYLISTV: pltv-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png" pltv-name="DEPORTES" pltv-description="Reproductor Simple IPTV - PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Reproductor Simple IPTV" pltv-site="https://playeriptv.com/app"
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="DEPORTES", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png" group-title="DEPORTES", ADRENALINA SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15921.ts
-
-#EXTINF:-1 tvg-logo="https://afizzionados.tv/izzi/v4/img/logos/izzi-spaced-logo.png" group-title="DEPORTES", AFIZZIONADOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.ts
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-806792855.png" group-title="DEPORTES", AFIZZIONADOS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54335.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png/revision/latest?cb=20170917052727&path-prefix=es" group-title="DEPORTES", AyM SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54971.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES", B3IN SP0RTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14776.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReUZXiKD3bv-Di2hWP5r97jswpePCz292iBQ&usqp=CAU" group-title="DEPORTES", B3IN SPORTS (canadá)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58157.ts
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dQswCNScboY/WabfnOX_AoI/AAAAAAAAAwo/OHhHZbIg0OcM50DJm7R8qXpMbIz8u5FOQCEwYBhgL/s640/11.png" group-title="DEPORTES", B3IN SPORTS 11 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55244.ts
-
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" group-title="DEPORTES", B3IN SPORTS 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54757.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2015/07/bein-3-1024x576.png" group-title="DEPORTES", B3IN SPORTS 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58096.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b0/e8/ba/b0e8ba6ee4ba6e2a1f9e1ce27437f73a.png" group-title="DEPORTES", B3IN SPORTS 4
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58097.ts
-
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/76-768063_la-liga-png-transparent-png.png" group-title="DEPORTES", B3IN SPORTS LALIGA (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60878.ts
-
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-sports-max-7.png" group-title="DEPORTES", B3IN SPORTS MAX 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53442.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/f9/c2/caf9c201220cad1bbb1ea6948c87ce23.png" group-title="DEPORTES", B3IN SPORTS USA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43292.ts
-
-#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="DEPORTES", B3IN SPORTS XTRA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49360.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES", B3IN SPORTS Ñ
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14775.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES", B3IN SPORTS Ñ ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16688.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES", BARCA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15360.ts
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-D93WZfofBzY/UsUy4ZiUq4I/AAAAAAAAQ9w/0FM1JdhIS4w/s1600/Caza-y-Pesca-Logotipo.jpg" group-title="DEPORTES", CAZA Y PESCA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11000.ts
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/748/41/png-clipart-arena-football-league-cbs-sports-network-television-cbssports-com-stay-tuned-miscellaneous-television.png" group-title="DEPORTES", CBS SPORTS NET
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58156.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES", CDF BASICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16704.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES", CDF BASICO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14789.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Estadio_CDF.png" group-title="DEPORTES", CDF ESTADIO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15878.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES", CDF HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27180.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES", CDF HD 1080
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/601.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES", CDF HD 720
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/600.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.1474904628_CDFHD(2019).png.8507b3d517096b1aa0d800f026e8fd74.png" group-title="DEPORTES", CDF HD ⁽²⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16687.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES", CDF HD ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3069.ts
-
-#EXTINF:-1 tvg-logo="http://balongol.com/wp-content/uploads/2019/10/Logocdfpremium20191.png" group-title="DEPORTES", CDF PREMIUM ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25322.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="DEPORTES", CDO BÁSICO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57714.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES", CDO PREMIUM
-https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES", CDO PREMIUM ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15601.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES", CLARO SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54755.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES", CLARO SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57824.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", DTV SPORTS (ecuador)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60863.ts
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="DEPORTES", DTV SPORTS +
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41663.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", DTV SPORTS + (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60951.ts
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="DEPORTES", DTV SPORTS + ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15881.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/604.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 1 (colombia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27514.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/605.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53362.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", DTV SPORTS 1 ⁽ᴴᴰ⁾ (chile)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61519.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 1 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54128.ts
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/DirecTV_Sports_2_Argentina.png" group-title="DEPORTES", DTV SPORTS 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49510.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="DEPORTES", DTV SPORTS 2  (colombia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43364.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 2 (perú)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57381.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="DEPORTES", DTV SPORTS 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60950.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS 2 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53363.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES", DTV SPORTS PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42472.ts
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/channels/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES", EL CANAL DEL FÚTBOL , ECDF (2 ᴍɢ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61474.ts
-
-#EXTINF:-1 tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="DEPORTES", ESPN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54125.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="DEPORTES", ESPN (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57807.ts
-
-#EXTINF:-1 tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="DEPORTES", ESPN (usa)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57822.ts
-
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES", ESPN 1 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32979.ts
-
-#EXTINF:-1 tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red-850x316.png" group-title="DEPORTES", ESPN 1 SUR (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/610.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf1dc2MSlX1Edu-Z2u-mX0MCCRijaivigbmZuwFCdvD-fLn1bR&usqp=CAU" group-title="DEPORTES", ESPN 1 SUR ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49402.ts
-
-#EXTINF:-1 tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="DEPORTES", ESPN 1 SUR ⁽ᵃ⁾ chile
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58049.ts
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES", ESPN 2 (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58092.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 (argentina) ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53991.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57809.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2 (colombia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58064.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 (colombia) ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58089.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 (mexico) ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53649.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27553.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 (usa)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57818.ts
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES", ESPN 2 CHILE 1080
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57325.ts
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES", ESPN 2 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16686.ts
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES", ESPN 2 NORTE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54306.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 NORTE ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54399.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2 NORTE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61490.ts
-
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES", ESPN 2 SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14869.ts
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES", ESPN 2 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/609.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15766.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3 SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/608.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", ESPN 3 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/26135.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54124.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54126.ts
-
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES", ESPN DEPORTES ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14050.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="DEPORTES", ESPN EXTRA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14085.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="DEPORTES", ESPN EXTRA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41661.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/768px-ESPN_U_logo.svg.png" group-title="DEPORTES", ESPN U ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58061.ts
-
-#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/706/926/eurosport-2-logo-television-eurosport-1-eurosport-hd-png-clip-art.png" group-title="DEPORTES", EUROSPORT 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25039.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="DEPORTES", EUROSPORT 2 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57584.ts
-
-#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/817/272/fight-network-boxing-television-ufc-129-st-pierre-vs-shields-logo-boxing-png-clip-art.png" group-title="DEPORTES", FIGHT NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15923.ts
-
-#EXTINF:-1 tvg-logo="https://www.verizon.com/content/dam/verizon/personal/learn-images/MLP/ec/sports/foxsoc/img-fsp-logo-sm.png" group-title="DEPORTES", FOX SOCCER PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43357.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58066.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS (argentina) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58065.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54329.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32993.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54121.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1 CHILE (ʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55004.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1 CHILE (ᴀ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25247.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1 SUR ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25248.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41665.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54330.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57810.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 (chile)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58150.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55005.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 SUR ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57823.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 ⁽ᴴᴰ⁾ (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58095.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/613.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54123.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 ⁽ᴹ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55378.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3 (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41668.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55007.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3 (méxico) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18218.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3 SUR ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55006.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190602030108&path-prefix=es" group-title="DEPORTES", FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54122.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS PREMIUM ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61489.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58093.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS SUR 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18219.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS ⁽ᴴᴰ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55003.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FS 1 usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14880.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="DEPORTES", GOL PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14049.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="DEPORTES", GOL PERU ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25085.ts
-
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/900/439/724/television-channel-gol-tv-cnt-sports-zee-tv-logo.jpg" group-title="DEPORTES", GOL TV (ecuador)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54995.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES", GOL TV (sólo eventos)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58273.ts
-
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/900/439/724/television-channel-gol-tv-cnt-sports-zee-tv-logo.jpg" group-title="DEPORTES", GOL TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54996.ts
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="DEPORTES", GOLF CHANNEL BBC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15740.ts
-
-#EXTINF:-1 tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="DEPORTES", LA LIGA TV BAR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45690.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/NggWEvCDqCK2wywmQhXCDEmuAVTxEmZ3Ar4ThNVhluYdWBIJqlFqBzonbfRXNTlMG_a3Z96ASt0as7Xcg9RZDAIWvyHdx00Uf9xT7ASqzloHMbCkqnag" group-title="DEPORTES", LALIGA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/46186.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_02/large.5a82809cec9bb_MLBNetwork.png.93d179ea57d27431c1329b2c6c04702e.png" group-title="DEPORTES", MLB
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53327.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg" group-title="DEPORTES", MOVISTAR DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/655.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/26570.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg" group-title="DEPORTES", MOVISTAR DEPORTES PERÚ
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58139.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="DEPORTES", MOVISTAR F1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15708.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="DEPORTES", MOVISTAR F1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/657.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Laliga_TV_logo.jpg" group-title="DEPORTES", MOVISTAR LA LIGA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/659.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" group-title="DEPORTES", MOVISTAR LA LIGA ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58113.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52291.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES (m)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52292.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61485.ts
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES", NBA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1165.ts
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/139-1392116_nba-tv-logo.png" group-title="DEPORTES", NBA TV ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53346.ts
-
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg" group-title="DEPORTES", NFL NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53344.ts
-
-#EXTINF:-1 tvg-logo="https://www.reviews.org/app/uploads/2018/11/Nfl_red_zone.png" group-title="DEPORTES", NFL REDZONE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53345.ts
-
-#EXTINF:-1 tvg-logo="https://paranoidpuck.files.wordpress.com/2011/12/updatenhln.gif" group-title="DEPORTES", NHL NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53343.ts
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="DEPORTES", PREMIERE 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54341.ts
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="DEPORTES", PREMIERE 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55197.ts
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="DEPORTES", PREMIERE 4
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57479.ts
-
-#EXTINF:-1 tvg-logo="https://img.miptv.ws/Premiere_1_HD.png" group-title="DEPORTES", PREMIERE 5
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57288.ts
-
-#EXTINF:-1 tvg-logo="https://img.miptv.ws/Premiere_1_HD.png" group-title="DEPORTES", PREMIERE 6
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57630.ts
-
-#EXTINF:-1 tvg-logo="https://img.miptv.ws/Premiere_1_HD.png" group-title="DEPORTES", PREMIERE 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57289.ts
-
-#EXTINF:-1 tvg-logo="https://img.miptv.ws/Premiere_1_HD.png" group-title="DEPORTES", PREMIERE CLUBES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54334.ts
-
-#EXTINF:-1 tvg-logo="https://img.miptv.ws/Premiere_1_HD.png" group-title="DEPORTES", PREMIERE CLUBES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54993.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180602/uxt/kisspng-real-madrid-c-f-ciudad-real-madrid-real-madrid-tv-benfica-5b12f3fd4a3bb1.5415663715279687653041.jpg" group-title="DEPORTES", REAL MADRID TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15359.ts
-
-#EXTINF:-1 tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES", RED BULL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10909.ts
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/w680/Sport%2BTV%2B1.png" group-title="DEPORTES", SPORT TV 1 (portugal)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58151.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest?cb=20170815145145" group-title="DEPORTES", SPORTV 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54331.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1200px-SporTV_2_2017_logo.svg.png" group-title="DEPORTES", SPORTV 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54332.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1200px-SporTV_3_2017_logo.svg.png" group-title="DEPORTES", SPORTV 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54333.ts
-
-#EXTINF:-1 tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES", T1GO SPORTS 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9959.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="DEPORTES", TELEDEPORTE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52294.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES", TENNIS CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1766.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES", TENNIS CHANNEL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55291.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS (costa rica)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45688.ts
-
-#EXTINF:-1 tvg-logo="https://www.tigosports.gt/profiles/gcoop_base_profile/themes/tigosports/tigosports.png" group-title="DEPORTES", TIGO SPORTS + ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/51373.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/u6WmewvZUFVMe3H_2IPk4p-RSz-jwfaoCfhkwSC6NCadOr_B14zoL-2arW38VLe6_50DB4QrtDpBkfOkaqRGIBg0X6ggpAnMKZvGkixR3M19r-xdtM0WRPPfDVeQDuxpipDyvP1XEBQHaxv2ofWmWhAgSvJSUg" group-title="DEPORTES", TIGO SPORTS 1 (paraguay)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41887.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="DEPORTES", TIGO SPORTS 3 (bolivia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58158.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO SPORTS COSTA RICA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58159.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="DEPORTES", TIGO SPORTS ⁽ᴴᴰ⁾ (paraguay)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55034.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES", TNT SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/621.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES", TNT SPORTS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15942.ts
-
-#EXTINF:-1 tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES", TOROS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5248.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="DEPORTES", TSN 1  usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15582.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="DEPORTES", TSN 2 usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16162.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" group-title="DEPORTES", TSN 3 usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16163.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png" group-title="DEPORTES", TSN 4 usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16164.ts
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png" group-title="DEPORTES", TSN 5 usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16165.ts
-
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTES", TUDN (MEXICO)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58094.ts
-
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES", TUDN XTRA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54756.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" group-title="DEPORTES", TUDN ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15883.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" group-title="DEPORTES", TUDN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15700.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TVC DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/30902.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="DEPORTES", TYC SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/625.ts
-
-#EXTINF:-1 tvg-logo="https://play.tycsports.com/static/logo-blue-tyc.svg" group-title="DEPORTES", TYC SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14868.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="DEPORTES", UFC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/626.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", UFC EVENTOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55271.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC FIGH PASS HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55008.ts
-
-#EXTINF:-1 tvg-logo="https://static.puntoticket.com/especiales/rec021_ufc/img/ufc-logo-color.png" group-title="DEPORTES", UFC FIGHT NIGHT LATINOAMERICA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61462.ts
-
-#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="DEPORTES", UFC FIGHT PASS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15724.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="DEPORTES", VTV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55390.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/1200px-VTV%2BUruguay.svg.png" group-title="DEPORTES", VTV +
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55391.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="DEPORTES", VTV ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55389.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1035.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="DEPORTES", WIN SPORTS +
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18231.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="DEPORTES", WIN SPORTS ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58098.ts
-
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg" group-title="DEPORTES", WIN SPORTS+
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57459.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS+ ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57312.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="DEPORTES", WIN SPORTS+ ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57631.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WWE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57665.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="DEPORTES", WWE NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15346.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/841px-WWE_Logo.svg.png" group-title="DEPORTES", WWE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33364.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="INFANTIL", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181109/icl/kisspng-clip-art-babyfirsttv-television-channel-babyfirst-babyfirst-wikipedia-lobster-house-5be5b50f0566b7.6279683815417807510221.jpg" group-title="INFANTIL", BABY FIRST*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42429.ts
-
-#EXTINF:-1 tvg-logo="https://www.babyfirsttv.com/store/media/extendware/ewimageopt/media/skin/e7/f/LOGO_sm.png" group-title="INFANTIL", BABY FIRTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5419.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIL", BABY TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/719.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL", BOOMERANG
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33726.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL", BOOMERANG ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/720.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/61/77/a06177244ab77bb5ff7bc874412f3311.png" group-title="INFANTIL", CARTOON NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1163.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/61/77/a06177244ab77bb5ff7bc874412f3311.png" group-title="INFANTIL", CARTOON NETWORK*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15804.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" group-title="INFANTIL", CBEEBIES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52944.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL", DISCOVERY KIDS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/721.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL", DISCOVERY KIDS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17719.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/800px-Disney_Channel_logo_%282014%29.svg.png" group-title="INFANTIL", DISNEY CHANELL*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15604.ts
-
-#EXTINF:-1 tvg-logo="https://www.howdeniberia.com/wp-content/uploads/2018/05/Disney-logo-png-transparent-download.png" group-title="INFANTIL", DISNEY CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33727.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="INFANTIL", DISNEY JUNIOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/723.ts
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/690-6907141_transparent-escuchar-musica-clipart-disney-junior-logo-png.png" group-title="INFANTIL", DISNEY JUNIOR*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33724.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/1/12/Disney_Princess_2014_Logo.png/revision/latest?cb=20181127160836&path-prefix=es" group-title="INFANTIL", DISNEY PRINCESAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41864.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/1/12/Disney_Princess_2014_Logo.png/revision/latest?cb=20181127160836&path-prefix=es" group-title="INFANTIL", DISNEY PRINCESAS*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42424.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIL", DISNEY XD ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/724.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTIL", DISNEY XD ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33725.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL", NATGEO KIDS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/725.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL", NATGEO KIDS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42426.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL", NICK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42430.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTIL", NICK 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5417.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="INFANTIL", NICK 2*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42427.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL", NICK JR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/726.ts
-
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-hd-png-5.png" group-title="INFANTIL", NICKELODEON
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/727.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTIL", NICKTOONS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5416.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTIL", NICKTOONS*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33728.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="INFANTIL", TEENNICK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61472.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTIL", TOONCAST
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/728.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTIL", TOONCAST*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42428.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="INFANTIL", ZOOMOO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27184.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="PPV CINE", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE", Action Max FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54862.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/b4a73802169b63f34f28a2310e7a9786.png" group-title="PPV CINE", CINEMA ACCION CLASSICS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57651.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/59c8cade091e267c32228b1d7e06de93.png" group-title="PPV CINE", CINEMA CIENCIA FICCION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57652.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/9dfa95a83f4ae365cdaa575dbd3a3f3d.png" group-title="PPV CINE", CINEMA DC COMICS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57653.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/49c67912badc983d57a4d5593340fca6.png" group-title="PPV CINE", CINEMA DC UNIVERSE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57654.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="PPV CINE", CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57655.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/7c3f95384c4edcaa73a03555e5dbb896.png" group-title="PPV CINE", CINEMA DREAMWORKS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57656.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/f74fd6b43a1a199bd726f0cc42d0a354.png" group-title="PPV CINE", CINEMA FAMILIA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57657.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/2d0b50df4958fa8751e085155a25a05a.png" group-title="PPV CINE", CINEMA HAPPY MADISSON ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57658.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/5e890fc0df7e071483838d5fbd602825.png" group-title="PPV CINE", CINEMA HORRROR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57659.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/ec630b8df2f8628633579f1e41c01aa5.png" group-title="PPV CINE", CINEMA LEGO MOVIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57660.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/30ce813efad37b16f186b7fdd81e9efa.png" group-title="PPV CINE", CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57661.ts
-
-#EXTINF:-1 tvg-logo="http://tv.iptv5latino.cl:8000/images/9529a5bd8a94215beafc08591339b160.png" group-title="PPV CINE", CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57662.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE", Cinemax Action FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54863.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PPV CINE", Delicioso HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54864.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSevizFLo2_TLXSE55-KFW7Qsg9UqhNxxqVVA&usqp=CAU" group-title="PPV CINE", HBO West HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54865.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/1280px-Indieplex_logo.svg.png" group-title="PPV CINE", IndiexPlex FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54866.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/wRXpFP5TO7yRPjM3Hq7gy8BT2cNi05DT2kf67Ild5U-Mo-0bsQz2umRUlYZr3XE_EmzlSqtQIV2PBZHvSod98h9tr4LYJK_cte7sA8FqbHfFSg" group-title="PPV CINE", MoreMax FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54867.ts
-
-#EXTINF:-1 tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="PPV CINE", MovieMax FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54868.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/OuterMax_2011.png/revision/latest/scale-to-width-down/340?cb=20200615022913&path-prefix=es" group-title="PPV CINE", OuterMax FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54870.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/1280px-Showtime_Beyond.svg.png" group-title="PPV CINE", Showtime Beyond FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54871.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="PPV CINE", Showtime East FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54872.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="PPV CINE", Starz Cinema FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54873.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="PPV CINE", Starz Comedy FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54874.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG-a9FqZ0dfQuh9j8qNedpTDhc3CZBmDByYQ&usqp=CAU" group-title="PPV CINE", Starz East FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54875.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" group-title="PPV CINE", Starz Edge FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54876.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-action.png" group-title="PPV CINE", Starz Encore Action FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54877.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png" group-title="PPV CINE", Starz Encore Classics FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54878.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Family.svg/1280px-Starz_Encore_Family.svg.png" group-title="PPV CINE", Starz Encore Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54879.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="PPV CINE", Starz Encore FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54880.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-suspense.png" group-title="PPV CINE", Starz Encore Suspense FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54881.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="PPV CINE", Starz Encore Western FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54882.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="PPV CINE", Starz Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54883.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PPV CINE", Starz In Black FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54884.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Starz_Kids_%26_Family_HD_logo.svg/2000px-Starz_Kids_%26_Family_HD_logo.svg.png" group-title="PPV CINE", Starz Kids & Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54885.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz1.png" group-title="PPV CINE", Starz West FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54886.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="MÚSICA", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7 Retro
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58121.ts
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7 Top 100
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58119.tsa
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7 Tropical
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58120.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Alternative
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3534.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/340?cb=20150806182241" group-title="MÚSICA", BANDAMAX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/34685.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", Brits Hits
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57640.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/340?cb=20150406181433&path-prefix=es" group-title="MÚSICA", CALIFORNIA MUSIC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3541.ts
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="MÚSICA", CALIFORNIA MUSIC CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/50198.ts
-
-#EXTINF:-1 tvg-logo="https://digital.clarochile.cl/wcm-inyect/claro-musica/assets/img/rrss_logo.png" group-title="MÚSICA", Claro Música
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57646.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", CONCERT CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/780.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Dance/EDM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3530.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", DJ LONCHO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2276.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Hip-Hop/R&B
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3537.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Hit List
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3538.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="MÚSICA", HTV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/6965.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Indie
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3528.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC 90's
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57638.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Alternative
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57639.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Brits Plus Hits
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57644.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Country
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57645.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Dance/EDM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57641.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Hip-Hop and R&B
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57642.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Hit List
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57643.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA", MC Tropicales
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57650.ts
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58118.ts
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7 Pop
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58122.ts
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7 Vintage
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58123.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="MÚSICA", MTV Dance HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54161.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180720/rsy/kisspng-mtv-live-hd-television-channel-logo-tv-tnt-hd-5b5299b5df6a51.4964877215321399579151.jpg" group-title="MÚSICA", MTV HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/798.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/1223px-MTV_Hits.svg.png" group-title="MÚSICA", MTV HITS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43371.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MÚSICA", MTV Hits HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54160.ts
-
-#EXTINF:-1 tvg-logo="https://www.google.cl/url?sa=i&source=images&cd=&ved=2ahUKEwiLhN7i7vzlAhVwH7kGHQMFCD8QjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AMTV_Live_HD_2017_logo.svg&psig=AOvVaw2_OAX_oPHiRNlgbhwKZvkj&ust=1574479322810952" group-title="MÚSICA", MTV LIVE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/799.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="MÚSICA", MTV U SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54162.ts
-
-#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_poster.png" group-title="MÚSICA", MUSIC TOP
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3554.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Musica Urbana
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3529.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", PANDERO MUSIC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2356.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", PANDERO MUSIC CHILE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2357.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Pop Latino
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3533.ts
-
-#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MÚSICA", PORTAL FOXMIX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3553.ts
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="MÚSICA", Quiero Musica
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57647.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/rbSqNwemUSEF2PBEQshrCrkPxBuub1gUUkIbQft3sQ5oldfi94yCe43oXkG62S39FmM" group-title="MÚSICA", R&B/Soul
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3532.ts
-
-#EXTINF:-1 tvg-logo="https://radios.ucr.ac.cr/sites/default/files/2016-08/logo-radiou_0.png" group-title="MÚSICA", radio u
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3549.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Rap (A)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3531.ts
-
-#EXTINF:-1 tvg-logo="https://asesoriasredesycomputadores.com/wp-content/uploads/2019/08/09886.png" group-title="MÚSICA", RETRO MUSIC (A)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3543.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", Retro Plus TV Señal 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58124.ts
-
-#EXTINF:-1 tvg-logo="https://www.sanborjatv.com/wp-content/uploads/2019/02/LogoSanBorja2019.png" group-title="MÚSICA", SAN BORJA PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3566.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Spirit Tv
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3548.ts
-
-#EXTINF:-1 tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA", Teen Beats
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3536.ts
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png" group-title="MÚSICA", TELEHIT
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3542.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.telehit_plus.png.ad2b61304704a79b497eb62716c9ee64.png" group-title="MÚSICA", Telehit Plus
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57648.ts
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemusica.png" group-title="MÚSICA", telemusica
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3546.ts
-
-#EXTINF:-1 tvg-logo="https://theretrochannel.tv/img/theretrofb.jpg" group-title="MÚSICA", The Retro Channel
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58130.ts
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/fec37c4e39837ce0383c3e3d7e78d59af922cba642a4fc86d7254396b4909774.png" group-title="MÚSICA", Today's Country
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3535.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MÚSICA", TOP LATINO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3555.ts
-
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672" group-title="MÚSICA", v2beat
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3552.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MÚSICA", VH1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57649.ts
-
-#EXTINF:-1 tvg-logo="https://www.google.cl/url?sa=i&source=images&cd=&ved=2ahUKEwjrj6uD7_zlAhUhHrkGHWjxDBMQjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ALOGO_VH1_CLASSIC.svg&psig=AOvVaw3FPfiDZncqy739m_9ekXnI&ust=1574479413263900" group-title="MÚSICA", VH1 CLASSICx
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/818.ts
-
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" pltv-name="COLOMBIA" pltv-description="Reproductor Simple IPTV - PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Reproductor Simple IPTV" pltv-site="https://playeriptv.com/app"
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="COLOMBIA", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="COLOMBIA", COL:  DTV SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43362.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA", COL: CABLE NOTICIAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/4003.ts
-
-#EXTINF:-1 tvg-logo="https://papafranciscoencolombia.co/sites/default/files/cable_noticias2.png" group-title="COLOMBIA", COL: CABLENOTICIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17790.ts
-
-#EXTINF:-1 tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="COLOMBIA", COL: CANAL CAPITAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43359.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA", COL: CANAL TRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43360.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgfguwWhzMyPQw6rkStZQjkViCL5P86K9OUypofCc_hIZ71z0&s" group-title="COLOMBIA", COL: CANAL UNO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17780.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA", COL: CANAL UNO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3999.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Cantinazo.png" group-title="COLOMBIA", COL: CANTINAZO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43361.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/colombia/images/6/6f/CaracolTV2012.png/revision/latest?cb=20180323002452&path-prefix=es" group-title="COLOMBIA", COL: CARACOL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58371.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA", COL: CARACOL INTERNACIONAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3995.ts
-
-#EXTINF:-1 tvg-logo="http://mail.canalcaracol.com/InterSales/INSTITUCIONAL/LOGO%20CARACOL%20TV%20INTERNACIONAL%202012/CARACOL%20TV%20INTERNACIONAL%20LOGO%20BLANCO%20ALTA.jpg" group-title="COLOMBIA", COL: CARACOL INTERNACIONAL ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17767.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA", COL: CARACOL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17698.ts
-
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/caracol-tv-logo-vector.png" group-title="COLOMBIA", COL: CARACOL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17787.ts
-
-#EXTINF:-1 tvg-logo="https://citytv.com.co/live/img/citytv.png" group-title="COLOMBIA", COL: CITY TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3994.ts
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zry6sgkjSHw/V24lwa3aFkI/AAAAAAAAAt4/9FJ11hhgNY8lmS-5-kSY9NmR2e03LfYvwCLcB/s1600/citytv.png" group-title="COLOMBIA", COL: CITY TV 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17772.ts
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cosmovision.png" group-title="COLOMBIA", COL: COSMOVISION
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3991.ts
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/DirecTV_Sports_2_Argentina.png" group-title="COLOMBIA", COL: DTV SPORTS 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43363.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="COLOMBIA", COL: EL TRECE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3973.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA", COL: NTN 24
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17789.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA", COL: NTN24
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3990.ts
-
-#EXTINF:-1 tvg-logo="http://www.laetv.tv/images/pasiones.png" group-title="COLOMBIA", COL: PASIONES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17786.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA", COL: PASIONES (T)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3989.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/RCN.png/revision/latest?cb=20181213180406&path-prefix=es" group-title="COLOMBIA", COL: RCN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3986.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", COL: RCN (D)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3972.ts
-
-#EXTINF:-1 tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/rcn-tv-logo.jpg" group-title="COLOMBIA", COL: RCN *
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17759.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RCNNuestraTele2018.png" group-title="COLOMBIA", COL: RCN INTERNACIONAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17762.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Noticias_RCN_%28Colombia%29_logo.png" group-title="COLOMBIA", COL: RCN NOTICIAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17760.ts
-
-#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="COLOMBIA", COL: RCN NOVELAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17761.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA", COL: RCN NOVELAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3982.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="COLOMBIA", COL: RCN NUESTRA TELE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15710.ts
-
-#EXTINF:-1 tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/rcn-tv-logo.jpg" group-title="COLOMBIA", COL: RCN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17758.ts
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78Vll0kHov7YanDdKlh6z3EvxoIgWip90Vq2A=s900-c-k-c0xffffffff-no-rj-mo" group-title="COLOMBIA", COL: SEÑAL COLOMBIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17781.ts
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.niunapalmadita.com/wp-content/uploads/2019/08/teleamiga-logo-fernanda-restrepo-ni-una-palmadita.jpg?resize=150%2C150&ssl=1" group-title="COLOMBIA", COL: TELEAMIGA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17778.ts
-
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/07/27/teleantioquia1-51214b7715492c914ad0ee128360006b-1200x600.jpg" group-title="COLOMBIA", COL: TELEANTIOQUIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17774.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA", COL: TELEANTIOQUIA **
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3981.ts
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/untitled-1_206.png?itok=NyjVNC2k" group-title="COLOMBIA", COL: TELECAFE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17779.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/PJMLraQ2aMcVBv5rJmuk4qVVknAOYfbOQBBeKX1WSKcU0dV6knrhgxxynhOdvxg4qPU" group-title="COLOMBIA", COL: TELECARIBE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17777.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA", COL: TELECARIBE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3978.ts
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5284/brand.gif?itok=SHZ9Qjq4" group-title="COLOMBIA", COL: TELEMEDELLIN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17775.ts
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/168872_980?mh=250" group-title="COLOMBIA", COL: TELEMEDELLIN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3977.ts
-
-#EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/uploads/2016/10/telepacifico-con-cuatro-nuevas-propuestas-televisivas-1.jpg" group-title="COLOMBIA", COL: TELEPACIFICO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17776.ts
-
-#EXTINF:-1 tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="COLOMBIA", COL: WIN SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17769.ts
-
-#EXTINF:-1 tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="COLOMBIA", COL: WIN SPORTS+
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17768.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="MÉXICO", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal66.png" group-title="MÉXICO", MEX : CANAL 66 MEXICALI
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57846.ts
-
-#EXTINF:-1 tvg-logo="https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/ADN40.png" group-title="MÉXICO", MEX: ADN 40
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3855.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÉXICO", MEX: ADN 40*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49383.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Az_Clic_2017.png/revision/latest/scale-to-width-down/340?cb=20191211180120&path-prefix=es" group-title="MÉXICO", MEX: AZ CLIC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3851.ts
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MÉXICO", MEX: AZ CORAZON
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3850.ts
-
-#EXTINF:-1 tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", MEX: AZ UNO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3845.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MÉXICO", MEX: AZTECA 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3852.ts
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0cd32b_64648dd9329f4741b1b31fdd237bff79~mv2.png" group-title="MÉXICO", MEX: AZTECA 7*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3848.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MÉXICO", MEX: CANAL 44
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57844.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180831/bsq/kisspng-vector-graphics-logo-adobe-illustrator-artwork-ima-canal-5-logo-svg-vector-amp-png-transparent-ve-5b89c4d973eba6.7574586315357554814748.jpg" group-title="MÉXICO", MEX: CANAL 5
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3842.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180426/hoe/kisspng-televisa-gala-tv-television-channel-xeq-tdt-5ae1661b8b5cb9.7709153315247211795708.jpg" group-title="MÉXICO", MEX: CANAL 9 GALA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3841.ts
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/8cd3f6/logooncetv/450_1000.jpg" group-title="MÉXICO", MEX: CANAL ONCE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3839.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.dpplus.png.d14ca5ea9e0645af7d57f9b9d0836f39.png" group-title="MÉXICO", MEX: DE PELICULA PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3835.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MÉXICO", MEX: DEPELICULA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3836.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MÉXICO", MEX: DISTRITO COMEDIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3833.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MÉXICO", MEX: FORO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3828.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MÉXICO", MEX: GALAVISION
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3826.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MÉXICO", MEX: IMAGEN TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3822.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MÉXICO", MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3830.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MÉXICO", MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3832.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="MÉXICO", MEX: MILENIO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3821.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MÉXICO", MEX: MULTIMEDIOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39295.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MÉXICO", MEX: TELEFORMULA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3819.ts
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/598/22/png-transparent-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-text.png" group-title="MÉXICO", MEX: TLENOVELAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3818.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="MÉXICO", MEX: UNICABLE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3815.ts
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="USA LATINO", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1280px-CBN_logo.svg.png" group-title="USA LATINO", USA: CBN ESPAÑOL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40948.ts
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_QX8ApisKVwE/TUiDhZ5_cqI/AAAAAAAAA60/iZpBAzGFqug/s1600/espn_deportes.png" group-title="USA LATINO", USA: ESPN DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40949.ts
-
-#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/13067/0/9c49877a0ee08b0e_org.png" group-title="USA LATINO", USA: TELEMUNDO 20 SAN DIEGO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40965.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA LATINO", USA: TELEMUNDO 39 DALLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40966.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/WSNS44.png/200px-WSNS44.png" group-title="USA LATINO", USA: TELEMUNDO 44 CHICAGO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40967.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="USA LATINO", USA: TELEMUNDO 47 HOUSTON
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41826.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Telemundo_47_2018.png/revision/latest/scale-to-width-down/340?cb=20190514074258" group-title="USA LATINO", USA: TELEMUNDO 47 NEW YORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1060.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/KSTS_Logo.png/200px-KSTS_Logo.png" group-title="USA LATINO", USA: TELEMUNDO 48 SAN FRANCISCO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40968.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/5/5d/Telemundo_51_2018.png/revision/latest?cb=20190613124130" group-title="USA LATINO", USA: TELEMUNDO 51 MIAMI
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40969.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="USA LATINO", USA: TELEMUNDO 51 MIAMI
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1061.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="USA LATINO", USA: TELEMUNDO 52 LOS ANGELES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14749.ts
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/5/51/Logo_Telemundo.png" group-title="USA LATINO", USA: TELEMUNDO 60 BOSTON
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41831.ts
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/vMWCwg2jglyVDeEI0gjjI3hA0zg0D-Qq1CAfynDy3ZXpsVGiXkpCg_10oOkTxKvFnUk" group-title="USA LATINO", USA: TELEMUNDO DENVER
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53424.ts
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/27728274_640x640" group-title="USA LATINO", USA: TELEMUNDO INTERNACIONAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1059.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA LATINO", USA: UNIMAS LOS ANGELES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41848.ts
-
-#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180404/gqq/kisspng-televisa-logo-univision-broadcasting-u-5ac4bad6ed98f4.3022995115228423269732.jpg" group-title="USA LATINO", USA: UNIVISION
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15578.ts
-
-#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/atlanta/univision-34.png" group-title="USA LATINO", USA: UNIVISION 34 ATLANTA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40974.ts
-
-#EXTINF:-1 tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/10/Univision-41-Nueva-York.png" group-title="USA LATINO", USA: UNIVISION 41 NEW YORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16689.ts
-
-#EXTINF:-1 tvg-logo="https://empresarioslatinos.org/wp-content/uploads/2020/01/Logo-U45HGray.png" group-title="USA LATINO", USA: UNIVISION 45 HOUSTON
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41827.ts
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Chicago-en-vivo-Online.png" group-title="USA LATINO", USA: UNIVISION CHICAGO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41829.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA LATINO", USA: UNIVISION DENVER
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53422.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA LATINO", USA: UNIVISION LAS VEGAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53423.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Univisiontlnovelas2019.png/revision/latest?cb=20190322234439" group-title="USA LATINO", USA: UNIVISION TELENOVELAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41832.ts
-
-
+#EXTINF:0 tvg-id="ext" group-title="unsorted",AZ CLIC HD
+http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",LAS ESTRELLAS
+http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="unsorted",CANAL 5
+http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="unsorted",AZTECA 7
+http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",NU9VE
+http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="unsorted",ONCE
+http://cinematicket.club/cantp.php?c=25&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",AZTECA UNO
+http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="unsorted",TELEFORMULA SD
+http://cinematicket.club/cantp.php?c=32&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MEXIQUENSE TV
+http://cinematicket.club/cantp.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="unsorted",AZ CORAZON
+http://cinematicket.club/cantp.php?c=70&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="unsorted",AZ MUNDO
+http://cinematicket.club/cantp.php?c=84&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="unsorted",AZTECA 7 HD
+http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="unsorted",AZTECA 7 HD (2)
+http://cinematicket.club/cantp.php?c=322&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",IMAGEN TV
+http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS MTY
+http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS MTY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS CDMX
+http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",NU9VE HD
+http://cinematicket.club/cantp.php?c=1783&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",LAS ESTRELLAS HD
+http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="unsorted",CANAL 5 HD (2)
+http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="unsorted",ONCE HD
+http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MVS TV
+http://cinematicket.club/cantp.php?c=2149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="unsorted",TVC
+http://cinematicket.club/cantp.php?c=2156&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CANAL 4
+http://cinematicket.club/cantp.php?c=2274&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CANAL 8
+http://cinematicket.club/cantp.php?c=2307&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TELEVISA PUEBLA
+http://cinematicket.club/cantp.php?c=2312&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",A+
+http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TVMAS
+http://cinematicket.club/cantp.php?c=2324&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CANAL DEL CONGRESO
+http://cinematicket.club/cantp.php?c=2331&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS CDMX
+http://cinematicket.club/cantp.php?c=2352&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",IMAGEN TV HD
+http://cinematicket.club/cantp.php?c=2606&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ACADEMIA
+http://cinematicket.club/cantp.php?c=2703&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="unsorted",MULTIMEDIOS HD
+http://cinematicket.club/cantp.php?c=2882&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="unsorted",TOONCAST
+http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="unsorted",DISCOVERY KIDS
+http://cinematicket.club/cantp.php?c=109&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="unsorted",NICK
+http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="unsorted",DISNEY XD
+http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="unsorted",CARTOON NETWORK
+http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Disney.uk" group-title="unsorted",DISNEY CHANNEL
+http://cinematicket.club/cantp.php?c=113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="unsorted",BOOMERANG
+http://cinematicket.club/cantp.php?c=115&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="unsorted",BABY TV
+http://cinematicket.club/cantp.php?c=116&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="unsorted",NICK JR
+http://cinematicket.club/cantp.php?c=117&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="unsorted",DISNEY JR
+http://cinematicket.club/cantp.php?c=118&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="unsorted",NICKTOONS SD
+http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="unsorted",BABY FIRST
+http://cinematicket.club/cantp.php?c=1984&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="unsorted",NICK 2
+http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",NAT GEO KIDS
+http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",BIT ME
+http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="unsorted",TBS SD
+http://cinematicket.club/cantp.php?c=81&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",DE PELICULA +
+http://cinematicket.club/cantp.php?c=121&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",GOLDEN +
+http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="unsorted",GOLDEN
+http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="unsorted",GOLDEN EDGE
+http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="unsorted",TNT
+http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="unsorted",TCM
+http://cinematicket.club/cantp.php?c=128&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="unsorted",SPACE
+http://cinematicket.club/cantp.php?c=129&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="unsorted",AMC
+http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="unsorted",STUDIO UNIVERSAL
+http://cinematicket.club/cantp.php?c=132&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="unsorted",I SAT
+http://cinematicket.club/cantp.php?c=135&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",EUROPA CHANNEL
+http://cinematicket.club/cantp.php?c=136&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="unsorted",FILMS & ARTS
+http://cinematicket.club/cantp.php?c=137&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="unsorted",FXM
+http://cinematicket.club/cantp.php?c=138&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="unsorted",FXM SD
+http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="unsorted",FOX SERIES
+http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MORBIDO
+http://cinematicket.club/cantp.php?c=140&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="unsorted",FOX MOVIES
+http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="unsorted",CINECANAL
+http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="unsorted",CINEMAX
+http://cinematicket.club/cantp.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="unsorted",AMC
+http://cinematicket.club/cantp.php?c=328&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="unsorted",DE PELICULA SD
+http://cinematicket.club/cantp.php?c=335&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="unsorted",FOX ACTION
+http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Paramount.uk" group-title="unsorted",PARAMOUNT CHANNEL
+http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="unsorted",FOX CINEMA SD
+http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="unsorted",FOX CLASSICS SD
+http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",AZ CINEMA
+http://cinematicket.club/cantp.php?c=1787&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TELEMUNDO INTERNACIONAL HD
+http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="unsorted",FOX
+http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="unsorted",SONY
+http://cinematicket.club/cantp.php?c=48&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="unsorted",WARNER
+http://cinematicket.club/cantp.php?c=52&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="unsorted",E!
+http://cinematicket.club/cantp.php?c=55&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="unsorted",UNIVERSAL
+http://cinematicket.club/cantp.php?c=57&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="unsorted",SYFY
+http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="unsorted",FX
+http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="unsorted",A&E
+http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="unsorted",AXN
+http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="unsorted",UNICABLE SD
+http://cinematicket.club/cantp.php?c=66&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="unsorted",SUNDANCE TV
+http://cinematicket.club/cantp.php?c=69&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="unsorted",TNT SERIES
+http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="unsorted",GLITZ
+http://cinematicket.club/cantp.php?c=76&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="unsorted",GOURMET
+http://cinematicket.club/cantp.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="unsorted",FOX LIFE
+http://cinematicket.club/cantp.php?c=77&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="unsorted",DISTRITO COMEDIA SD
+http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="unsorted",TRUTV
+http://cinematicket.club/cantp.php?c=79&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TLNovelas.pe" group-title="unsorted",TL NOVELAS SD
+http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="unsorted",LIFETIME
+http://cinematicket.club/cantp.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.ro" group-title="unsorted",ANTENA 3
+http://cinematicket.club/cantp.php?c=199&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="unsorted",FOX HD
+http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="unsorted",WARNER HD
+http://cinematicket.club/cantp.php?c=205&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="unsorted",UNIVERSAL HD
+http://cinematicket.club/cantp.php?c=207&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="unsorted",FX HD
+http://cinematicket.club/cantp.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="unsorted",TRUTV HD
+http://cinematicket.club/cantp.php?c=215&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="unsorted",HOLA TV HD
+http://cinematicket.club/cantp.php?c=219&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="unsorted",COMEDY CENTRAL
+http://cinematicket.club/cantp.php?c=340&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="unsorted",COMEDY CENTRAL SD
+http://cinematicket.club/cantp.php?c=341&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="unsorted",UNICABLE
+http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="unsorted",MAS CHIC
+http://cinematicket.club/cantp.php?c=1842&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="unsorted",A3SERIES
+http://cinematicket.club/cantp.php?c=2113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="unsorted",ESPN +
+http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="unsorted",ESPN
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="unsorted",ESPN 2
+http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="unsorted",FOX SPORTS
+http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="unsorted",FOX SPORTS 2
+http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TUDN
+http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="unsorted",FOX SPORTS 3
+http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Golf.sp" group-title="unsorted",GOLF
+http://cinematicket.club/cantp.php?c=179&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="unsorted",AYM SPORTS
+http://cinematicket.club/cantp.php?c=180&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="unsorted",ESPN 3
+http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TUDN HD (2)
+http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ADRENALINA SPORTS HD
+http://cinematicket.club/cantp.php?c=1799&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",LAS
+http://cinematicket.club/cantp.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",HAVOC
+http://cinematicket.club/cantp.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="unsorted",TVC DEPORTES
+http://cinematicket.club/cantp.php?c=2157&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CLARO SPORTS HD
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="unsorted",FUEL TV HD
+http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="unsorted",DISCOVERY ID
+http://cinematicket.club/cantp.php?c=68&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="unsorted",GARAGE TV
+http://cinematicket.club/cantp.php?c=75&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="unsorted",DISCOVERY CHANNEL
+http://cinematicket.club/cantp.php?c=86&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="unsorted",ANIMAL PLANET
+http://cinematicket.club/cantp.php?c=88&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="History.uk" group-title="unsorted",HISTORY
+http://cinematicket.club/cantp.php?c=89&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="unsorted",NAT GEO
+http://cinematicket.club/cantp.php?c=91&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="unsorted",NAT GEO WILD
+http://cinematicket.club/cantp.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="unsorted",DISCOVERY THEATER
+http://cinematicket.club/cantp.php?c=95&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="unsorted",H&H
+http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TLC.uk" group-title="unsorted",TLC
+http://cinematicket.club/cantp.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="unsorted",DISCOVERY SCIENCE
+http://cinematicket.club/cantp.php?c=98&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="unsorted",DISCOVERY CIVILIZATION
+http://cinematicket.club/cantp.php?c=99&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="unsorted",DISCOVERY WORLD
+http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TVE.se" group-title="unsorted",TVE
+http://cinematicket.club/cantp.php?c=198&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="unsorted",SHOPPING
+http://cinematicket.club/cantp.php?c=1943&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="unsorted",FOOD NETWORK
+http://cinematicket.club/cantp.php?c=2145&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="unsorted",STAR TVE
+http://cinematicket.club/cantp.php?c=2375&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="unsorted",DISCOVERY TURBO
+http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CURIOSITY STREAM
+http://cinematicket.club/cantp.php?c=2594&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="unsorted",MTV LIVE
+http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MTV.uk" group-title="unsorted",MTV
+http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="unsorted",MTV HITS SD
+http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="unsorted",VH1 CLASSIC SD
+http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="VH1.eur" group-title="unsorted",VH1 SD
+http://cinematicket.club/cantp.php?c=217&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TELEHIT URBANO SD
+http://cinematicket.club/cantp.php?c=218&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TELEHIT +
+http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="unsorted",BANDAMAX SD
+http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AzClic.mx" group-title="unsorted",AZ CLIC
+http://cinematicket.club/cantp.php?c=223&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="unsorted",VH1 HD
+http://cinematicket.club/cantp.php?c=334&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",FOROTV HD
+http://cinematicket.club/cantp.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FOROtv.us" group-title="unsorted",FOROTV SD
+http://cinematicket.club/cantp.php?c=19&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ADN40
+http://cinematicket.club/cantp.php?c=40&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ADN 40 HD
+http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="unsorted",CNN
+http://cinematicket.club/cantp.php?c=185&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="unsorted",CNN SD
+http://cinematicket.club/cantp.php?c=186&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CNN Ñ SD
+http://cinematicket.club/cantp.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="WOBI.ar" group-title="unsorted",WOBI
+http://cinematicket.club/cantp.php?c=102&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",FOXN EWS
+http://cinematicket.club/cantp.php?c=188&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="unsorted",BLOOMBERG
+http://cinematicket.club/cantp.php?c=190&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="bbc" group-title="unsorted",BBC SD
+http://cinematicket.club/cantp.php?c=191&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",AL JAAZERA
+http://cinematicket.club/cantp.php?c=192&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="unsorted",NTN 24
+http://cinematicket.club/cantp.php?c=194&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",JUSTICIA TV
+http://cinematicket.club/cantp.php?c=196&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="unsorted",HLN
+http://cinematicket.club/cantp.php?c=197&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="unsorted",DW
+http://cinematicket.club/cantp.php?c=203&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="unsorted",RT
+http://cinematicket.club/cantp.php?c=999&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MILENIO HD
+http://cinematicket.club/cantp.php?c=1250&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="unsorted",MILENIO SD
+http://cinematicket.club/cantp.php?c=1252&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="unsorted",EXCELSIOR TV
+http://cinematicket.club/cantp.php?c=1449&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",EL FINANCIERO HD
+http://cinematicket.club/cantp.php?c=1649&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="RTespanol.nws" group-title="unsorted",RT ESPAÑOL
+http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="France24.fr" group-title="unsorted",FRANCE 24
+http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="Videos",15/Oct/2020
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6105098_LAT_HD.mp4
