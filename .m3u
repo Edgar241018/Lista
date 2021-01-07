@@ -32,13 +32,11 @@ http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS MTY HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS CDMX
-http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="unsorted",NU9VE HD
 http://cinematicket.club/cantp.php?c=1783&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="unsorted",LAS ESTRELLAS HD
 http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Canal5HD.mx" group-title="unsorted",CANAL 5 HD (2)
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="unsorted",CANAL 5 HD 
 http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="OnceTV.mx" group-title="unsorted",ONCE HD
 http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8
@@ -58,14 +56,8 @@ http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2324&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="unsorted",CANAL DEL CONGRESO
 http://cinematicket.club/cantp.php?c=2331&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="unsorted",MULTIMEDIOS CDMX
-http://cinematicket.club/cantp.php?c=2352&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="unsorted",IMAGEN TV HD
 http://cinematicket.club/cantp.php?c=2606&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="unsorted",ACADEMIA
-http://cinematicket.club/cantp.php?c=2703&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="unsorted",MULTIMEDIOS HD
-http://cinematicket.club/cantp.php?c=2882&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="Tooncast.mx" group-title="unsorted",TOONCAST
 http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="unsorted",DISCOVERY KIDS
